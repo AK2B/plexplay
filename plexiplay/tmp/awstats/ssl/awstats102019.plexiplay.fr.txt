@@ -1,0 +1,522 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2693                
+POS_VISITOR 12630               
+POS_DAY 15797               
+POS_DOMAIN 3561                
+POS_LOGIN 4039                
+POS_ROBOT 4194                
+POS_WORMS 4849                
+POS_EMAILSENDER 4980                
+POS_EMAILRECEIVER 5123                
+POS_SESSION 16565               
+POS_SIDER 16764               
+POS_FILETYPES 5258                
+POS_DOWNLOADS 5483                
+POS_OS 5531                
+POS_BROWSER 5713                
+POS_SCREENSIZE 6245                
+POS_UNKNOWNREFERER 6319                
+POS_UNKNOWNREFERERBROWSER 6727                
+POS_ORIGIN 7045                
+POS_SEREFERRALS 7182                
+POS_PAGEREFS 7412                
+POS_SEARCHWORDS 7560                
+POS_KEYWORDS 7712                
+POS_MISC 2356                
+POS_ERRORS 7771                
+POS_CLUSTER 3895                
+POS_SIDER_404 7924                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101001654 51 10435 13697052312101
+FirstTime 20191001012035
+LastTime 20191031230131
+LastUpdate 20191101131825 51 0 50 0 0
+TotalVisits 244                 
+TotalUnique 59                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 91                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 24 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 7 8 1185619 61 319 22958959
+1 12 13 212617 53 138 13915415
+2 13 14 203114 69 165 15495013
+3 9 10 287785 70 172 13542460
+4 8 9 220914 49 178 16992971
+5 8 9 529923 53 182 18920435
+6 13 78 1969688 47 213 24798898
+7 18 18 0 77 200 18070380
+8 11 13 870842 62 202 22317941
+9 11 17 693347 58 173 23304227
+10 13 13 9507 61 183 19499910
+11 38 41 2015571 101 205 17916033
+12 13 14 357541 58 206 24255559
+13 15 17 746766 77 226 11269510
+14 11 14 415249 53 166 12908738
+15 17 18 115781 56 242 6951536
+16 15 18 279169 79 193 6952786
+17 18 18 30110 72 155 5183391
+18 11 12 173646 64 171 5659668
+19 19 22 307438 58 149 5689434
+20 14 16 345725 68 218 7125366
+21 21 21 348393 77 238 12761139
+22 19 19 39295 85 325 18547929
+23 10 17 1083307 53 172 15429884
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 19
+it 250 250 0
+us 57 60 2133143
+fr 29 118 6971359
+gb 2 2 272533
+de 2 3 77445
+ru 2 2 38764
+tr 1 1 9503
+in 1 1 9507
+gt 0 1 151521
+be 0 1 117402
+ma 0 1 117402
+kr 0 1 157564
+dk 0 1 203114
+ch 0 2 195382
+es 0 1 302444
+pe 0 1 203114
+br 0 1 1185619
+se 0 1 92417
+ca 0 1 203114
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bingbot/ 1411 224121532 20191031232817 60
+SemrushBot/ 977 7597926 20191031234528 317
+AhrefsBot/ 562 107649083 20191031233732 29
+msnbot/ 547 5197839 20191024200017 0
+Googlebot/ 496 3547234 20191031210345 23
+bingpreview 224 7412965 20191027193125 0
+no_user_agent 194 2224040 20191031203634 0
+YandexBot/ 46 265044 20191031145026 28
+YandexImages/ 14 1337779 20191031145029 0
+Googlebot\-Image/ 2 194296 20191018115035 0
+bot[\s_+:,\.\;\/\\-] 2 265635 20191022015421 0
+link 1 19029 20191028210002 0
+unknown 1 69 20191008164637 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+jpg 57 8401784 0 0
+css 15 123599 0 0
+gif 1 7233 0 0
+woff 2 63404 0 0
+php 284 70596 0 0
+js 28 219566 0 0
+html 57 2888369 0 0
+Unknown 1 62976 0 0
+png 4 603820 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+linux 4 4
+linuxandroid 70 4
+win10 63 36
+Unknown 265 264
+win7 41 36
+ios_ipad 1 0
+macosx 1 0
+win8.1 2 0
+ios_iphone 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 26
+chrome66.0.3359.181 15 15
+chrome76.0.3809.100 2 1
+chrome40.0.2214.85 2 2
+mozilla 2 2
+opera12.00 1 1
+edge17 10 0
+chrome77.0.3865.120 1 0
+safari13.0.1 1 0
+msie11.0 6 0
+safari9.0 1 0
+iphone 1 0
+chrome70.0.3538.77 4 4
+Unknown 263 262
+firefox64.0 17 17
+chrome77.0.3865.92 1 0
+firefox66.0 1 0
+chrome71.0.3578.98 1 1
+chrome36.0.1985.143 15 15
+chrome75.0.3770.142 1 1
+firefox23.0 1 1
+msie9.0 1 0
+firefox58.0 18 18
+edge18 12 0
+chrome75.0.3770.101 69 4
+chrome77.0.3865.90 2 0
+safari11.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Thumbor/6.4.2 20191026084353
+Go-http-client/1.1 20191030161617
+WordPress/4.9.11;_http://www.plexiplay.fr 20191009173449
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20191009033506
+WordPress/4.9.11;_https://www.plexiplay.fr 20191014190257
+WordPress/4.9.12;_https://www.plexiplay.fr 20191031222314
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WordPress/4.9.11;_https://www.plexiplay.fr 20191014190257
+WordPress/4.9.12;_https://www.plexiplay.fr 20191031222314
+WordPress/4.9.11;_http://www.plexiplay.fr 20191009173449
+Thumbor/6.4.2 20191026084353
+Go-http-client/1.1 20191030161617
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 71 75
+From1 0 0
+From2 3 39
+From3 0 0
+From4 270 335
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+www_google_com 3 7
+images_search_yahoo_com 0 1
+ecosia 0 1
+bing 0 28
+www_google_fr 0 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 11 0
+403 65 87010
+400 9 49
+503 1 428
+404 101 546642
+500 2 30
+301 101 952
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 67
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/%3C 1 -
+/boutique/aurelie-anger/pastel/evanescent/%3C 2 -
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/vis-vis/%3C 2 -
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/disco-ball/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/speed/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/%3C 1 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/%3C 2 -
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/%3C 2 -
+/wp-content/plugins/ithemes-sync/js/settings-page.js 1 https://plexiplay.fr/wp-content/plugins/ithemes-sync/js/settings-page.js
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/open-mind/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/blind-date/%3C 2 -
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/%3C 2 -
+/boutique/herve-arduini/oeuvres-detournees/folies/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 1 -
+/boutique/aurelie-anger/pastel/sanctuary/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/%3C 2 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/pistillum/%3C 1 -
+/2 1 https://plexiplay.fr/2
+/boutique/aurelie-anger/couleurs-vives/hippie/%3C 2 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/%3C 1 -
+/3 1 https://plexiplay.fr/3
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/%3C 1 -
+/wp-json/wpshopify/v1/settings 1 -
+/boutique/herve-arduini/tableau-diasec/paris-mix/%3C 2 -
+/boutique/aurelie-anger/pastel/lost/%3C 2 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 3 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/party-night/%3C 1 -
+/boutique/herve-arduini/tableau-diasec/xxplosive/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/%3C 3 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/virginia/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/dentelle/%3C 3 -
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/%3C 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/eventail-or/%3C 1 -
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/blue-light/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/highway-hell/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/%3C 1 -
+/boutique/herve-arduini/tableau-mauve/sensation/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/lolita/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/%3C 1 -
+/boutique/herve-arduini/tableau-diasec/desir/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/%3C 2 -
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/%3C 3 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/%3C 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 91
+185.2.4.29 250 250 0 20191031222314
+149.202.215.42 23 23 960444 20191001114052
+64.6.231.76 5 5 231025 20191002211615
+109.31.48.117 4 69 1969688 20191018065528
+35.189.232.43 4 4 70015 20191031180013
+138.246.253.5 2 2 0 20191025055147
+51.15.51.186 2 2 272533 20191011133956
+162.243.165.84 2 2 272540 20191011114010
+212.83.146.233 2 2 272194 20191009053307
+54.81.105.239 1 1 3590 20191009143431
+35.167.96.105 1 1 19908 20191021214230
+3.14.1.11 1 1 3590 20191009132023
+18.217.104.188 1 1 3590 20191009171501
+34.223.2.96 1 1 19596 20191025133207
+54.244.33.90 1 1 19388 20191027130935
+34.210.70.8 1 1 19492 20191012165102
+54.184.36.56 1 1 19455 20191026164226
+35.167.37.127 1 1 3590 20191009155328
+34.219.179.194 1 1 19440 20191004083054
+18.236.249.150 1 1 19629 20191002091218
+18.237.239.11 1 1 19656 20191019214140
+52.12.129.201 1 1 19449 20191023215607
+54.190.21.116 1 1 19466 20191029162843
+35.167.65.197 1 1 19305 20191028125928
+52.25.252.63 1 1 19517 20191029194623
+142.83.68.28 0 1 203114 
+78.221.14.117 0 1 74722 
+90.66.248.60 0 1 128305 
+80.215.89.191 0 1 145958 
+80.245.21.132 0 1 601501 
+193.5.240.1 0 1 128305 
+54.202.132.102 1 1 3590 20191009171223
+18.188.157.5 1 1 3590 20191009173449
+34.220.120.175 1 1 19541 20191030161617
+81.185.161.254 0 1 425701 
+3.16.207.118 1 1 3590 20191009153414
+18.184.124.47 0 1 425701 
+34.220.131.95 1 1 3590 20191009155530
+45.140.206.113 1 1 9507 20191031103209
+213.64.139.209 0 1 92417 
+86.241.140.80 0 1 101999 
+105.154.20.227 0 1 117402 
+52.25.18.1 1 1 3590 20191009143515
+178.199.172.50 0 1 67077 
+157.55.39.144 0 1 402 
+195.221.64.90 0 2 178030 
+109.129.134.80 0 1 117402 
+89.85.253.155 0 6 961461 
+177.10.227.168 0 1 1185619 
+34.217.120.22 1 1 19553 20191027202420
+54.190.26.187 1 1 19292 20191028210128
+3.93.3.83 1 1 3590 20191009145606
+54.226.204.24 1 1 3590 20191009155654
+88.173.62.236 0 1 102881 
+82.202.161.133 1 1 19245 20191006191515
+190.232.98.61 0 1 203114 
+46.218.65.254 0 1 204688 
+220.79.187.121 0 1 157564 
+98.7.195.52 0 1 257729 
+84.122.10.251 0 1 302444 
+193.105.223.125 0 1 77445 
+3.94.88.43 1 1 3590 20191009161126
+212.98.74.102 0 1 203114 
+176.161.22.45 0 1 102881 
+3.133.131.154 1 1 19866 20191030112619
+34.213.42.212 1 1 19481 20191020213602
+90.91.52.241 0 1 103631 
+77.74.177.114 1 1 19519 20191026155415
+83.155.203.62 0 1 68918 
+86.212.15.43 0 3 407137 
+83.167.128.205 0 1 53434 
+3.17.59.78 1 1 3590 20191009154945
+212.115.51.137 1 1 9503 20191017013125
+52.15.193.113 1 1 3590 20191009155708
+54.200.41.251 1 1 19847 20191031230131
+18.236.91.220 1 1 19689 20191025201432
+3.19.141.147 1 1 3590 20191009132608
+82.249.163.185 0 1 107786 
+3.87.115.167 1 1 3590 20191009132419
+206.81.22.69 1 1 19465 20191004142921
+54.218.35.26 1 1 19545 20191026200042
+190.104.119.68 0 1 151521 
+167.99.52.61 1 1 135122 20191008122227
+34.220.70.119 1 1 19521 20191030193217
+54.202.248.64 1 1 19582 20191024210440
+34.212.40.193 1 1 19433 20191017204321
+35.165.115.184 1 1 19340 20191007172300
+54.190.4.81 1 1 19154 20191010132902
+35.163.203.209 1 1 19424 20191022221208
+209.97.152.240 1 1 136264 20191009033506
+34.212.93.151 1 1 19871 20191018221546
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191001 34 37 1893364 10
+20191002 20 20 250654 11
+20191003 15 17 350646 10
+20191004 12 13 156307 11
+20191005 9 9 0 6
+20191006 9 17 1348743 6
+20191007 10 12 265047 4
+20191008 7 10 390597 5
+20191009 29 31 754175 23
+20191010 6 8 222670 6
+20191011 10 10 545073 8
+20191012 6 6 19492 5
+20191013 6 7 107786 6
+20191014 4 5 101999 4
+20191015 6 7 257729 4
+20191016 6 6 0 5
+20191017 9 10 131817 7
+20191018 16 82 2081976 9
+20191019 9 9 19656 8
+20191020 9 11 205704 8
+20191021 7 10 1412039 5
+20191022 9 9 19424 7
+20191023 9 10 321893 7
+20191024 10 12 240021 10
+20191025 16 16 39285 10
+20191026 13 15 909921 12
+20191027 7 7 38941 6
+20191028 7 7 38597 5
+20191029 11 12 92417 7
+20191030 10 11 126005 9
+20191031 13 13 99369 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+15mn-30mn 8
+1h+ 10
+0s-30s 196
+5mn-15mn 5
+30mn-1h 21
+2mn-5mn 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/wp-cron.php 250 0 184 184
+/ 50 2795671 40 38
+/wp-login.php 21 70596 16 17
+/wp-admin/admin-post.php 13 0 1 1
+/etiquette-produit/tableau-noir-blanc/ 4 28695 3 3
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 1 23090 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 1 40314 0 0
+/a-o-d-by-aurelie-anger/ 1 33391 0 0
+/wp-json/wp/v2/posts 1 62976 0 0
+/mentions-legales/ 1 9767 0 0
+/conditions-generales-de-ventes/ 1 20845 0 1
+END_SIDER

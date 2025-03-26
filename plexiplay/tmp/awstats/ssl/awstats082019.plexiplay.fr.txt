@@ -1,0 +1,638 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2693                
+POS_VISITOR 14349               
+POS_DAY 17022               
+POS_DOMAIN 3562                
+POS_LOGIN 3999                
+POS_ROBOT 4154                
+POS_WORMS 4761                
+POS_EMAILSENDER 4892                
+POS_EMAILRECEIVER 5035                
+POS_SESSION 17819               
+POS_SIDER 18030               
+POS_FILETYPES 5170                
+POS_DOWNLOADS 5433                
+POS_OS 5481                
+POS_BROWSER 5647                
+POS_SCREENSIZE 6066                
+POS_UNKNOWNREFERER 6140                
+POS_UNKNOWNREFERERBROWSER 6591                
+POS_ORIGIN 6867                
+POS_SEREFERRALS 7006                
+POS_PAGEREFS 7280                
+POS_SEARCHWORDS 7460                
+POS_KEYWORDS 7612                
+POS_MISC 2356                
+POS_ERRORS 7671                
+POS_CLUSTER 3855                
+POS_SIDER_404 7813                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901000244 89 18406 13410509788301
+FirstTime 20190801064647
+LastTime 20190831213921
+LastUpdate 20190901141325 89 0 88 0 0
+TotalVisits 264                 
+TotalUnique 48                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 74                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 12 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 54 56 1168586 68 214 8847036
+1 66 66 619332 61 206 13683309
+2 49 49 411975 66 181 6798848
+3 10 10 131321 67 197 12778928
+4 8 8 0 54 128 9000400
+5 13 13 22678 59 163 10027689
+6 24 24 100730 83 282 10214563
+7 27 70 575741 66 163 10840974
+8 45 55 2352793 51 154 7745853
+9 38 40 316111 72 269 7568581
+10 50 51 638985 78 196 11673365
+11 67 146 3737081 65 191 8314532
+12 87 92 1760246 64 232 10324038
+13 49 51 713466 85 192 9418030
+14 28 88 1751301 73 233 11481316
+15 33 34 305867 84 222 8743047
+16 39 134 4656834 73 184 8541441
+17 50 50 743171 85 170 10768114
+18 8 9 134476 74 265 7511588
+19 14 14 19589 74 161 6419471
+20 12 12 39307 69 175 11977443
+21 16 21 701919 67 137 10389800
+22 29 30 348096 63 239 8736829
+23 56 56 675445 70 196 13222090
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 15
+fr 520 697 15685461
+it 297 298 92417
+us 32 32 959286
+ru 10 53 707140
+cl 5 6 163635
+es 4 79 2650686
+nl 2 3 222519
+de 1 3 283404
+gb 1 1 135159
+dk 0 1 117402
+za 0 1 184334
+lk 0 1 106756
+ca 0 1 134476
+be 0 1 257729
+se 0 2 224646
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bingbot/ 1821 81640911 20190831235811 32
+SemrushBot/ 947 8096967 20190831233908 235
+AhrefsBot/ 619 133369865 20190831235055 35
+no_user_agent 475 2698122 20190831204046 0
+Googlebot/ 385 2795867 20190831210751 20
+bingpreview 156 3559077 20190821102705 0
+YandexBot/ 20 195948 20190828114245 10
+unknown 19 1307 20190831213401 19
+Googlebot\-Image/ 10 1262535 20190827193139 0
+crawl 2 211598 20190824093605 1
+link 2 138 20190820152653 2
+bot[\s_+:,\.\;\/\\-] 1 69 20190821083004 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+gif 3 21699 0 0
+js 109 882765 0 0
+html 545 7557008 0 0
+eot 4 121212 0 0
+jpg 123 12525234 0 0
+png 10 8189 0 0
+Unknown 1 4786 0 0
+ttf 2 63625 0 0
+woff 7 230924 0 0
+css 62 498306 0 0
+php 313 11302 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+win8.1 3 0
+Unknown 819 819
+win7 250 46
+linuxandroid 2 0
+winphone 1 0
+linux 2 2
+macosx 3 0
+win10 99 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 20
+Unknown 317 317
+edge18 2 0
+edge14 1 0
+msie10.0 51 8
+firefox61.0 101 7
+chrome76.0.3809.100 2 0
+firefox58.0 1 1
+chrome71.0.3578.98 1 1
+chrome4.0.222.6 1 1
+firefox64.0 10 10
+chrome40.0.2214.85 1 1
+msie11.0 74 4
+chrome76.0.3809.132 1 0
+edge17 13 0
+firefox68.0 80 4
+chrome75.0.3770.143 2 0
+mozilla 502 502
+chrome36.0.1985.143 16 16
+safari12.0.1 1 0
+chrome75.0.3770.142 2 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+okhttp/4.1.0 20190828094156
+PleskBot 20190823163048
+WordPress/4.9.10;_https://www.plexiplay.fr 20190831175820
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190806080149
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20190831213921
+Go-http-client/1.1 20190831133051
+Scrapy/1.6.0_(_https://scrapy.org) 20190802064056
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+okhttp/4.1.0 20190828094156
+WordPress/4.9.10;_https://www.plexiplay.fr 20190831175820
+PleskBot 20190823163048
+Scrapy/1.6.0_(_https://scrapy.org) 20190802064056
+Go-http-client/1.1 20190831133051
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 544 544
+From1 0 0
+From2 5 48
+From3 1 1
+From4 322 586
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 7
+bing 0 34
+yandexru 1 1
+www_google_com 2 6
+ecosia 0 1
+images_search_yahoo_com 0 1
+www_google_fr 2 4
+qc_images_search_yahoo_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://1800gunsandammo.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+301 89 0
+403 32 42848
+404 128 1151353
+410 2 618
+400 22 62
+302 8 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 77
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/%3C 2 -
+/wp-json/siteground-optimizer/v1/enable-option 1 -
+/wp-content/plugins/blog-designer/js/designer.js 4 https://plexiplay.fr/wp-content/plugins/blog-designer/js/designer.js
+/boutique/herve-arduini/tableaux-sexy/dentelle/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/%3C 4 -
+/wp-content/plugins/insert-php/admin/assets/js/tag-it.js 2 https://plexiplay.fr/wp-content/plugins/insert-php/admin/assets/js/tag-it.js
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/%3C 3 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/%3C 3 -
+/profile/register 1 -
+/boutique/aurelie-anger/couleurs-vives/lolita/%3C 3 -
+/wp-content/plugins/wpshopify/dist/public.min.css 2 https://plexiplay.fr/wp-content/plugins/wpshopify/dist/public.min.css
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 3 -
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/%3C 2 -
+/boutique/aurelie-anger/pastel/sanctuary/%3C 1 -
+/join 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 2 -
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/%3C 1 -
+/wp-content/plugins/wp-shopify/dist/public.min.css 2 https://plexiplay.fr/wp-content/plugins/wp-shopify/dist/public.min.css
+/wp-content/plugins/bold-page-builder/css/front_end/content_elements.crush.css 1 -
+/wp-content/plugins/responsive-coming-soon/templates/template1/assets/css/style.css 2 https://plexiplay.fr/wp-content/plugins/responsive-coming-soon/templates/template1/assets/css/style.css
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/virginia/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/%3C 1 -
+/boutique/herve-arduini/tableau-diasec/xxplosive/%3C 2 -
+/boutique/herve-arduini/tableau-mauve/sensation/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/%3C 3 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/%3C 1 -
+/boutique/herve-arduini/tableau-diasec/desir/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/blue-light/%3C 1 -
+/wp-content/plugins/yellow-pencil-visual-theme-customizer/js/yellow-pencil.js 2 https://plexiplay.fr/wp-content/plugins/yellow-pencil-visual-theme-customizer/js/yellow-pencil.js
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/%3C 3 -
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/%3C 1 -
+/wp-admin/admin-post.phpnd_donations_value_import_settings=home[nd_donations_option_value]https://jackielovedogs.com/pret 1 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 1 -
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/blind-date/%3C 3 -
+/wp-admin/admin-post.phpnd_booking_value_import_settings=home[nd_booking_option_value]https://jackielovedogs.com/pret 1 -
+/wp-content/plugins/wp-private-content-plus/css/wppcp-front.css 1 -
+/boutique/herve-arduini/tableau-diasec/party-white/%3C 1 -
+/boutique/herve-arduini/oeuvres-detournees/folies/%3C 1 -
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/%3C 1 -
+/wp-content/plugins/wp-live-chat-support/css/wplcstyle.css 2 https://plexiplay.fr/wp-content/plugins/wp-live-chat-support/css/wplcstyle.css
+/wp-content/plugins/simple-301-redirects-addon-bulk-uploader/assets/css/notices.css 2 https://plexiplay.fr/wp-content/plugins/simple-301-redirects-addon-bulk-uploader/assets/css/notices.css
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 1 -
+/wp-content/plugins/yuzo-related-post/assets/js/admin.js 2 https://plexiplay.fr/wp-content/plugins/yuzo-related-post/assets/js/admin.js
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/%3C 1 -
+/1 2 https://plexiplay.fr/1
+/wp-content/plugins/simple-membership/css/swpm.common.css 2 https://plexiplay.fr/wp-content/plugins/simple-membership/css/swpm.common.css
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/disco-ball/%3C 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/%3C 1 -
+/wp-admin/admin-post.phpnd_options_value_import_settings=home[nd_options_option_value]https://jackielovedogs.com/pret 1 -
+/wp-content/plugins/nd-shortcodes/css/style.css 2 https://plexiplay.fr/wp-content/plugins/nd-shortcodes/css/style.css
+/wp-content/plugins/hybrid-composer/style.css 2 https://plexiplay.fr/wp-content/plugins/hybrid-composer/style.css
+/boutique/herve-arduini/tableau-diasec/speed/%3C 2 -
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/%3C 1 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/hippie/%3C 3 -
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/%3C 3 -
+/wp-admin/admin-post.phpnd_stats_value_import_settings=home[nd_stats_option_value]https://jackielovedogs.com/pret 1 -
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 1 -
+/boutique/aurelie-anger/pastel/lost/%3C 1 -
+/boutique/herve-arduini/tableau-diasec/paris-mix/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 1 -
+/wp-admin/admin-post.phpnd_travel_value_import_settings=home[nd_travel_option_value]https://jackielovedogs.com/pret 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/%3C 1 -
+/wp-admin/admin-post.phpnd_learning_value_import_settings=home[nd_learning_option_value]https://jackielovedogs.com/pret 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 74
+185.2.4.29 297 297 0 20190831175820
+91.242.162.49 140 140 1578110 20190822132303
+91.242.162.3 95 95 1027200 20190831024937
+91.242.162.37 85 85 976430 20190831171632
+91.242.162.28 64 64 737485 20190825021118
+91.242.162.50 49 49 521697 20190825093234
+91.242.162.54 39 39 406117 20190827235526
+91.242.162.41 14 14 168605 20190830173136
+159.203.86.82 13 13 413528 20190808170218
+37.204.75.202 8 51 556336 20190801070014
+91.242.162.5 7 7 84020 20190831063558
+81.185.168.178 7 101 4317757 20190822162740
+84.246.231.100 6 6 278480 20190830232112
+95.19.86.65 4 79 2650686 20190820112430
+194.153.88.138 4 60 1243745 20190829140400
+91.242.162.11 3 3 40829 20190831213921
+91.242.162.81 2 2 27657 20190822223717
+107.170.23.212 2 2 19549 20190812060951
+52.55.189.195 2 2 24257 20190828094156
+91.242.162.46 2 2 20832 20190831115906
+188.166.176.184 2 2 19405 20190812071512
+34.247.244.37 1 1 133282 20190823163048
+212.83.146.233 1 1 138203 20190810213748
+34.209.220.32 1 1 19433 20190824171451
+181.215.50.104 1 1 19685 20190806170205
+192.176.123.212 0 1 103874 
+88.167.93.103 0 1 66555 
+101.2.191.36 0 1 106756 
+79.205.225.108 0 1 80290 
+213.151.172.35 0 1 66555 
+38.145.114.213 1 1 19536 20190807115658
+82.67.139.142 0 1 92417 
+88.182.125.126 0 1 102889 
+181.214.182.20 1 1 19521 20190805125945
+167.71.105.100 1 1 133710 20190806080149
+38.145.85.154 1 1 19713 20190803174054
+83.113.52.36 0 4 813825 
+181.214.36.74 1 1 19378 20190811173942
+178.116.19.227 0 1 257729 
+197.242.203.122 0 1 184334 
+34.220.152.184 1 1 19609 20190821200634
+45.86.244.186 1 1 19698 20190812203024
+181.215.50.111 1 1 19589 20190808191604
+68.183.207.195 1 1 19839 20190802064056
+54.186.99.50 1 1 19578 20190818172929
+37.58.167.228 0 8 1613115 
+77.74.177.113 1 1 19483 20190831155403
+45.82.51.119 1 1 19448 20190804155937
+158.248.244.81 0 1 120772 
+62.39.115.175 0 1 114942 
+54.244.83.237 1 1 19403 20190831133051
+78.197.218.116 0 3 294688 
+138.197.139.147 1 1 0 20190830145631
+37.77.123.118 0 1 92417 
+138.246.253.5 1 1 0 20190823122004
+93.165.11.119 0 1 117402 
+217.120.133.33 0 1 203114 
+37.71.62.34 0 1 151040 
+193.251.163.179 0 1 203114 
+54.201.242.228 1 1 19623 20190825145207
+45.40.126.128 1 1 19694 20190808025601
+185.195.27.61 1 1 131321 20190804033523
+181.215.78.8 1 1 19661 20190813170353
+89.233.80.49 0 1 203114 
+80.215.219.35 0 1 69170 
+91.242.162.71 1 1 7770 20190826110453
+190.96.64.218 0 1 65801 
+62.210.252.196 1 1 139286 20190830001428
+217.182.95.250 1 1 135159 20190804003135
+95.175.186.225 0 1 83526 
+66.249.136.150 1 1 19386 20190809171431
+37.175.33.245 0 1 102881 
+107.171.223.129 0 1 134476 
+37.58.152.169 0 2 196521 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190801 18 61 556336 8
+20190802 9 11 307054 8
+20190803 6 8 252057 6
+20190804 11 13 609814 9
+20190805 15 16 126277 11
+20190806 15 15 153395 9
+20190807 15 17 326524 10
+20190808 21 22 518612 7
+20190809 12 13 222500 10
+20190810 11 11 138203 8
+20190811 9 10 277107 4
+20190812 15 15 58652 10
+20190813 8 9 170701 6
+20190814 7 8 66555 7
+20190815 13 14 134476 8
+20190816 4 6 196521 3
+20190817 9 9 0 6
+20190818 9 10 103104 7
+20190819 7 7 0 7
+20190820 13 88 2650686 8
+20190821 7 16 1713014 7
+20190822 161 255 5923524 12
+20190823 12 12 133282 8
+20190824 32 32 242849 11
+20190825 104 108 1416632 10
+20190826 4 8 821595 4
+20190827 136 136 1320467 14
+20190828 16 17 116674 10
+20190829 12 70 1439051 7
+20190830 35 35 586371 13
+20190831 126 127 1343017 16
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 3
+15mn-30mn 11
+30s-2mn 3
+5mn-15mn 12
+30mn-1h 32
+1h+ 19
+0s-30s 184
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 140
+/wp-cron.php 297 0 211 211
+/ 37 1941837 29 30
+/etiquette-produit/tableau-noir-blanc/ 20 162222 2 3
+/etiquette-produit/tableau-art-deco/ 17 160970 1 0
+/categorie-produit/aurelie-anger/ 17 132347 1 1
+/etiquette-produit/tableau-pop-art/ 13 106682 1 0
+/categorie-produit/aurelie-anger/couleurs-vives/ 13 144464 0 0
+/wp-admin/admin-post.php 12 0 3 0
+/categorie-produit/aurelie-anger/noir-et-blanc/ 11 94639 0 0
+/categorie-produit/herve-arduini/tableaux-sexy/ 11 152334 4 0
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/ 11 136229 0 1
+/etiquette-produit/tableau-sexy/ 11 91002 0 0
+/categorie-produit/herve-arduini/ 10 87584 2 0
+/categorie-produit/herve-arduini/tableau-noir-et-blanc/ 10 99096 0 0
+/categorie-produit/aurelie-anger/pastel/ 9 82016 0 0
+/categorie-produit/herve-arduini/tableau-diasec/ 9 137339 0 0
+/categorie-produit/herve-arduini/tableau-grand-format/ 9 83768 0 0
+/categorie-produit/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ 9 110291 0 1
+/categorie-produit/herve-arduini/illustration-dherve/ 8 76060 0 0
+/categorie-produit/herve-arduini/tableaux-surrealistes/ 8 84269 0 0
+/categorie-produit/herve-arduini/tableau-mauve/ 8 79982 0 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/ 8 119394 0 0
+/categorie-produit/herve-arduini/tableaux-pop-art/ 8 76172 0 0
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/ 8 121987 0 0
+/boutique/ 8 119287 0 2
+/categorie-produit/herve-arduini/page/2/ 2 30064 0 0
+/categorie-produit/alexandra-chatenet/ 2 15165 0 1
+/categorie-produit/herve-arduini/fashion-week-art/ 3 24636 0 0
+/boutique/aurelie-anger/couleurs-vives/virginia/ 3 37355 0 0
+/categorie-produit/herve-arduini/graph-art/ 6 62389 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 3 69674 0 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/page/2/ 3 35139 0 0
+/diasec/ 1 13738 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 4 161250 0 0
+/livraison/ 1 8556 0 0
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/ 2 25222 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.eot 2 80790 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/ 2 24207 0 0
+/author/admin/page/2/ 4 35936 0 0
+/mon-compte/ 1 7175 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.ttf 1 40332 0 0
+/boutique/herve-arduini/tableaux-sexy/pistillum/ 2 26992 0 1
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/ 4 48226 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/ 2 24257 0 1
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/ 3 39458 0 0
+/conditions-generales-de-ventes/ 1 20847 0 0
+/boutique/aurelie-anger/couleurs-vives/hippie/ 3 39492 0 0
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/ 4 56513 0 1
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/ 2 27912 0 0
+/2014/03/ 3 23385 0 0
+/2015/01/ 3 24126 0 0
+/categorie-produit/herve-arduini/tableau-rose/ 2 16474 0 0
+/boutique/herve-arduini/tableau-diasec/desir/ 2 26789 1 0
+/categorie-produit/herve-arduini/tableaux-sepia/ 3 24516 0 0
+/boutique/aurelie-anger/couleurs-vives/lolita/ 1 13244 0 0
+/boutique/herve-arduini/tableaux-sexy/little-street/ 1 14330 0 0
+/expo-plexiplay-jazz-galerie-motus-nice/ 4 33612 0 0
+/author/admin/ 3 29628 1 0
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/ 4 49702 0 0
+/boutique/herve-arduini/oeuvres-detournees/folies/ 2 27232 0 0
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/ 3 41265 0 0
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/ 3 38971 0 0
+/boutique/herve-arduini/tableau-mauve/sensation/ 4 56347 0 0
+/boutique/aurelie-anger/couleurs-vives/highway-hell/ 3 37231 0 0
+/panier/ 3 56422 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/ 2 24229 0 0
+/boutique/aurelie-anger/couleurs-vives/blind-date/ 3 37155 0 0
+/art-sur-mesure/ 1 13897 0 0
+/boutique/herve-arduini/tableau-diasec/party-white/ 2 26508 0 0
+/boutique/herve-arduini/tableaux-sepia/escalator/ 3 41877 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.eot 2 40422 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/ 2 24282 0 0
+/blog-design/page/2/ 1 9070 0 0
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/ 2 24883 0 0
+/categorie-produit/herve-arduini/tableau-diasec/page/2/ 3 43036 0 0
+/category/blog/page/2/ 2 17974 0 0
+/wp-json/wp/v2/posts 1 4786 0 1
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/ 3 42112 0 0
+/boutique/herve-arduini/tableau-diasec/open-mind/ 4 53204 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/ 2 24256 0 0
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/ 1 14229 0 0
+/boutique/herve-arduini/tableaux-sexy/pinky-2/ 2 27532 1 0
+/boutique/herve-arduini/tableaux-sexy/eventail-or/ 4 54457 0 0
+/boutique/herve-arduini/tableaux-sexy/vis-vis/ 2 27881 1 0
+/boutique/page/4/ 4 59979 1 1
+/categorie-produit/herve-arduini/tableaux-grands-formats/ 5 51030 0 1
+/wishlist/ 1 6704 0 0
+/2013/10/ 3 25746 0 0
+/installer-un-tableau-plexi-sur-entretoise/ 2 16680 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/ 2 27023 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/ 4 59265 0 0
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/ 2 25376 0 0
+/2014/10/ 3 26289 0 0
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/ 1 13725 0 0
+/boutique/herve-arduini/tableau-diasec/xxplosive/ 1 13864 0 0
+/categorie-produit/aurelie-anger/page/2/ 2 17222 0 0
+/2015/03/ 3 22986 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/ 2 24145 0 0
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/ 4 50821 0 0
+/boutique/herve-arduini/tableaux-sexy/disco-ball/ 2 28216 0 0
+/boutique/herve-arduini/tableaux-sexy/moon/ 2 27328 0 0
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/ 3 39528 0 0
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/ 1 12605 0 0
+/boutique/aurelie-anger/pastel/evanescent/ 2 26474 0 0
+/categorie-produit/herve-arduini/tableaux-deco-art/ 3 24693 0 0
+/decoration-sur-mesure/ 4 36092 0 0
+/wp-login.php 4 11302 0 1
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/ 2 27321 0 0
+/boutique/herve-arduini/tableau-diasec/speed/ 2 26472 1 0
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/ 2 27233 0 0
+/expo-plexiplay-chez-le-petit-lux/ 4 33304 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/ 3 36442 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/ 3 36402 1 0
+/contact/ 1 8913 0 0
+/cafe-botteli-paris-3-deco-attractive/ 1 9201 0 0
+/category/blog/ 4 39548 0 0
+/boutique/herve-arduini/tableau-diasec/party-night/ 1 13254 0 0
+/tableau-ovale-plexiglas/ 4 36608 0 0
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/page/2/ 3 42819 0 0
+/artistes/ 1 9732 0 0
+/boutique/page/5/ 2 17314 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/ 2 24241 1 0
+/boutique/aurelie-anger/couleurs-vives/lie/ 2 24760 0 0
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/ 2 25286 1 1
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/ 2 24170 0 1
+/categorie-produit/herve-arduini/tableau-sensuel-nb/ 6 66503 0 0
+/categorie-produit/herve-arduini/oeuvres-detournees/ 6 55899 1 2
+/tableau-plexiglas-plexiplay-vu-sur-fr3/ 2 17968 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.ttf 1 23293 0 0
+/boutique/aurelie-anger/couleurs-vives/blue-light/ 4 49474 0 0
+/boutique/page/2/ 2 26939 0 0
+/a-o-d-by-aurelie-anger/ 1 8240 0 0
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/ 3 40739 0 0
+/etiquette-produit/tableau-sepia/ 4 29904 0 3
+/boutique/aurelie-anger/pastel/lost/ 2 24825 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/ 2 24335 0 0
+/plexiplay-sur-m6/ 4 37932 0 0
+/mentions-legales/ 1 9770 0 0
+/category/blog/aod-blog/ 2 17718 0 0
+/boutique/aurelie-anger/pastel/sanctuary/ 2 24845 0 0
+END_SIDER

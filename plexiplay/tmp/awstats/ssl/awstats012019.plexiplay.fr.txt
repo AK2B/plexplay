@@ -1,0 +1,347 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201901 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2692                
+POS_VISITOR 7505                
+POS_DAY 8328                
+POS_DOMAIN 3383                
+POS_LOGIN 3689                
+POS_ROBOT 3844                
+POS_WORMS 4418                
+POS_EMAILSENDER 4549                
+POS_EMAILRECEIVER 4692                
+POS_SESSION 8923                
+POS_SIDER 9092                
+POS_FILETYPES 4827                
+POS_DOWNLOADS 5047                
+POS_OS 5095                
+POS_BROWSER 5276                
+POS_SCREENSIZE 5645                
+POS_UNKNOWNREFERER 5719                
+POS_UNKNOWNREFERERBROWSER 6057                
+POS_ORIGIN 6268                
+POS_SEREFERRALS 6403                
+POS_PAGEREFS 6602                
+POS_SEARCHWORDS 6790                
+POS_KEYWORDS 6942                
+POS_MISC 2355                
+POS_ERRORS 7001                
+POS_CLUSTER 3545                
+POS_SIDER_404 7108                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190201021934 21 4057 11050353168575
+FirstTime 20190101010211
+LastTime 20190131182246
+LastUpdate 20190201131903 21 0 20 0 0
+TotalVisits 57                  
+TotalUnique 15                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 15 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 0 5 7 44743
+1 4 4 0 19 45 437097
+2 5 5 19731 9 23 99656
+3 2 2 0 18 29 173710
+4 12 13 117302 9 13 192622
+5 3 3 39244 9 61 406920
+6 2 2 0 5 26 1434621
+7 0 0 0 10 13 62552
+8 2 2 39184 6 12 49110
+9 3 3 19525 10 46 174130
+10 1 1 0 5 10 51446
+11 1 1 19306 9 12 105312
+12 0 1 0 10 17 468495
+13 2 2 39240 13 42 349795
+14 2 5 94349 12 49 364413
+15 1 2 102881 8 58 490327
+16 1 2 74712 6 19 1199947
+17 3 4 209132 9 24 134872
+18 4 4 19787 5 7 204493
+19 1 1 0 12 21 131762
+20 2 3 39012 5 21 99366
+21 15 188 11743797 5 35 150061
+22 1 1 0 8 12 47125
+23 2 3 19840 8 9 52843
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+it 31 31 0
+us 17 17 447680
+fr 13 187 11846678
+de 4 4 0
+gb 4 9 59023
+ca 1 2 94237
+be 0 3 149424
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+Googlebot/ 350 2567124 20190131165756 22
+no_user_agent 71 615082 20190131165818 0
+bingbot/ 70 566260 20190130112547 8
+SemrushBot/ 38 298146 20190131233137 9
+YandexBot/ 13 116609 20190131083203 7
+bingpreview 4 644828 20190128163330 0
+bot[\s_+:,\.\;\/\\-] 3 400748 20190122182734 0
+Googlebot\-Image/ 2 518307 20190128133307 0
+facebookexternalhit/ 1 74712 20190131165817 0
+YandexImages/ 1 1110300 20190108063142 0
+unknown 1 69 20190126040526 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+css 32 251648 0 0
+html 34 597735 0 0
+gif 3 10625 0 0
+php 31 0 0 0
+jpg 74 6789765 0 0
+jpeg 1 29305 0 0
+js 58 462889 0 0
+png 15 4327066 0 0
+woff 5 128009 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win8.1 2 1
+macosx12 12 10
+linuxandroid 3 0
+Unknown 36 36
+win7 8 6
+macosx 1 0
+linux 49 6
+win10 141 11
+ios_iphone 1 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 16
+firefox63.0 4 4
+chrome67.0.3396.99 2 0
+chrome40.0.2214.85 4 4
+netscape5.0 2 2
+Unknown 33 33
+chrome71.0.3578.98 137 7
+chrome47.0.2526.73 1 0
+chrome67.0.3396.87 51 6
+firefox58.0 2 2
+safari11.0 1 0
+chrome71.0.3578.99 2 0
+mozilla 1 1
+opera54.0.2952.40 1 0
+chrome63.0.3239.111 1 0
+chrome61.0.3163.100 10 10
+firefox49.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190106172142
+Mozilla/5.0_zgrab/0.x 20190124040418
+python-requests/2.21.0 20190113132529
+Go-http-client/1.1 20190104235441
+WordPress/4.9.9;_https://www.plexiplay.fr 20190131182246
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+WordPress/4.9.9;_https://www.plexiplay.fr 20190131182246
+python-requests/2.21.0 20190113132529
+Go-http-client/1.1 20190104235441
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 25 31
+From1 0 0
+From2 1 7
+From3 1 1
+From4 43 214
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+www_google_ca 0 1
+www_google_fr 1 3
+www_google_com 0 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://pyr.am/id-dial/plexiplay.fr 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 1 5073
+403 8 8160
+301 33 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/%3C 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+185.2.4.29 31 31 0 20190131182246
+13.57.233.99 10 10 195911 20190129185222
+90.125.231.67 7 136 11227956 20190114210049
+176.180.103.11 6 49 441129 20190124214851
+138.246.253.5 4 4 0 20190124022022
+18.237.51.63 2 2 39184 20190121083648
+51.15.128.42 2 2 29762 20190126043752
+171.67.70.57 1 1 19178 20190124040418
+3.90.61.65 1 1 19637 20190113132529
+206.225.95.23 1 1 19840 20190104235441
+163.172.161.124 1 1 9770 20190126042100
+184.175.34.239 1 1 19525 20190111091933
+163.172.190.211 1 1 19491 20190126040527
+104.248.2.162 1 1 134420 20190106172142
+171.67.70.40 1 1 19510 20190122042528
+74.59.109.213 0 1 74712 
+90.112.20.242 0 1 74712 
+62.112.11.69 0 1 0 
+163.172.167.181 0 1 0 
+51.15.35.140 0 4 0 
+77.136.83.109 0 1 102881 
+212.239.185.81 0 2 149424 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20190101 7 7 19637 7
+20190102 1 1 0 1
+20190103 1 1 0 1
+20190104 4 4 39272 4
+20190105 1 1 0 1
+20190106 2 2 134420 2
+20190108 1 2 122612 1
+20190109 2 5 74712 2
+20190110 1 2 0 1
+20190111 2 3 39356 2
+20190113 2 3 113762 2
+20190114 7 136 11227956 1
+20190116 3 3 19603 3
+20190117 1 1 0 1
+20190118 2 2 0 2
+20190119 1 1 19580 1
+20190120 1 1 0 1
+20190121 2 2 39184 1
+20190122 4 4 19510 4
+20190123 1 1 19591 1
+20190124 8 51 460307 3
+20190125 1 1 0 1
+20190126 7 8 78329 6
+20190127 1 1 0 1
+20190129 3 4 19787 3
+20190130 1 1 0 1
+20190131 3 5 149424 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 1
+15mn-30mn 1
+0s-30s 55
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/wp-cron.php 31 0 31 31
+/ 26 526187 23 22
+/contact/ 3 17999 1 1
+/etiquette-produit/tableau-pop-art/ 2 9033 1 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 2 46180 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 2 80628 0 0
+/art-sur-mesure/ 1 13897 0 0
+/conditions-generales-de-ventes/ 1 20849 0 1
+/mentions-legales/ 1 9770 1 1
+/wp-content/plugins/js_composer/assets/lib/flexslider/fonts/flexslider-icon.woff 1 1201 0 1
+END_SIDER

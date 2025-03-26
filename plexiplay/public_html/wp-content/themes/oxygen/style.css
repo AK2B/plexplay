@@ -1,0 +1,90 @@
+/*
+Theme Name: Oxygen
+Author: Laborator
+Author URI: http://laborator.co/
+Description: Oxygen &ndash; is a WooCommerce theme, built exclusively for online shopping and offers great variety of options to customize the look and feel of the theme via theme options panel. Activate it and let the fun begin.
+Version: 1.8.2
+License: GNU General Public License v2 or later
+License URI: license/README_License.txt
+*/
+
+.gallery-caption,
+.bypostauthor {
+	
+}
+
+.titre-perso{
+font-size : 16px;
+margin:0px;
+padding:0px;
+}
+
+
+.formperso{
+padding: 20px 0 10px 20px;
+border-top: 1px solid gainsboro;
+background-color: #FFF;
+text-align:center;
+}
+
+.formperso h2{
+font-size: 18px;
+text-transform: uppercase;
+}
+
+.formperso input[type="text"]{
+height: 43px;
+border: 1px solid gainsboro;
+font-size:16px;
+width: 25%;
+}
+
+.formperso [type="submit"]{
+border:1px solid #EEE;
+background: url(http://www.plexiplay.fr/wp-content/uploads/2014/09/bouton1.jpg) no-repeat;
+width: 273px;
+height: 63px;
+padding: 0 0 0 35px;
+margin: 10px;
+}
+
+
+.formhome{
+padding: 20px 0 0 0;
+border-top: 1px solid gainsboro;
+background-color: #FFF;
+text-align: center;
+}
+
+.formhome input{
+height: 30px;
+border: 1px solid gainsboro;
+font-size: 16px;
+width: 100%;
+}
+
+.formhome [type="submit"]{
+border:1px solid #EEE;
+background: url(http://www.plexiplay.fr/wp-content/uploads/2014/09/bouton1.jpg) no-repeat;
+width: 273px;
+height: 63px;
+padding: 0 0 0 35px;
+margin: 10px;
+}
+
+.formhome table {margin: 0 auto;}
+.formhome h3{font-size:110%;}
+.formhome td{width: 1%;
+text-align: right;}
+
+
+.title-cat-seo{
+font-size: 14px;
+text-transform: uppercase;
+color:#666;
+}
+
+.term-description{
+padding-left: 15px;
+}
+.pp_content_container,div.pp_overlay { display:none !important; }

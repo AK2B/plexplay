@@ -1,0 +1,3319 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201804 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2698                
+POS_VISITOR 37678               
+POS_DAY 89562               
+POS_DOMAIN 3753                
+POS_LOGIN 5106                
+POS_ROBOT 5261                
+POS_WORMS 7214                
+POS_EMAILSENDER 7345                
+POS_EMAILRECEIVER 7488                
+POS_SESSION 90524               
+POS_SIDER 90739               
+POS_FILETYPES 7623                
+POS_DOWNLOADS 7971                
+POS_OS 8097                
+POS_BROWSER 8626                
+POS_SCREENSIZE 11931               
+POS_UNKNOWNREFERER 12005               
+POS_UNKNOWNREFERERBROWSER 13488               
+POS_ORIGIN 15671               
+POS_SEREFERRALS 15822               
+POS_PAGEREFS 16908               
+POS_SEARCHWORDS 21213               
+POS_KEYWORDS 21406               
+POS_MISC 2360                
+POS_ERRORS 21514               
+POS_CLUSTER 4962                
+POS_SIDER_404 21693               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180501000645 3888 1208475 11716493620042
+FirstTime 20180401002032
+LastTime 20180430235536
+LastUpdate 20180501141141 3888 0 3887 0 0
+TotalVisits 1641                
+TotalUnique 839                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 1534                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 104 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 198 922 59623624 488 1114 70059383
+1 243 1326 98223323 503 1072 80214937
+2 193 636 48532936 776 1333 87708267
+3 191 738 39794751 1403 2164 69205694
+4 429 697 32065007 1297 2164 95807992
+5 221 549 20576704 724 1232 66570096
+6 171 705 44870431 775 1567 79799500
+7 187 796 66239921 681 1236 80646122
+8 147 797 71491478 829 1745 94773818
+9 302 3125 273025293 1029 1663 102617497
+10 257 2140 150533849 645 1273 87435429
+11 311 2470 163950544 177 917 73312875
+12 555 3643 305254335 698 1448 91098195
+13 377 2818 261234118 212 722 52980426
+14 261 1863 178557833 266 728 47529479
+15 240 2047 165320173 259 778 30092747
+16 271 3898 364903360 532 1206 46255643
+17 449 3091 252209163 241 1013 51943609
+18 514 1926 130272498 340 755 32968281
+19 282 2171 175143904 179 754 38094740
+20 209 2271 212446458 167 556 19844005
+21 200 3134 320952118 410 850 28597765
+22 244 2367 233504982 435 1018 74698996
+23 173 1313 102004517 285 891 82344976
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 73
+fr 1543 31879 3005752862
+it 1453 1552 5980047
+ru 905 1514 32147485
+ua 672 673 32934072
+cn 653 659 3276432
+pl 515 549 6447907
+us 362 3871 265785728
+gb 121 151 7856265
+ca 35 742 64559359
+be 30 939 83853327
+eu 27 28 1419417
+eg 26 27 276533
+nl 22 535 53879002
+ph 21 21 65614
+es 21 898 94502041
+in 20 26 278443
+cz 20 170 10990956
+tw 19 20 182612
+ma 16 240 13182716
+br 14 15 237636
+gm 11 11 38709
+th 11 125 9987372
+ge 10 10 28241
+de 10 23 4639314
+hk 9 9 820230
+ro 2 3 1115681
+nc 0 1 78585
+ml 0 1 1110300
+jo 0 1 146091
+at 0 2 170050
+au 2 4 210565
+ag 1 1 3519
+pt 0 4 448197
+jp 6 6 151461
+hu 1 36 3829727
+gh 0 1 239100
+no 0 1 103874
+pe 0 1 1498902
+mc 0 1 125213
+ch 0 15 6347076
+km 0 1 84095
+cm 0 1 112894
+bg 0 2 155448
+qa 0 1 85025
+lu 0 6 2470861
+az 8 8 21524
+ar 4 4 12098
+mg 0 3 236299
+mx 0 4 327969
+lb 0 2 1652935
+ci 0 2 667848
+ke 0 1 601501
+za 1 7 743235
+tr 2 4 892982
+hn 2 2 133173
+se 2 113 9006694
+kr 2 2 6067
+cg 6 99 3987862
+kz 5 5 60463
+cr 0 2 201711
+sa 0 1 239100
+gr 4 4 10762
+hr 4 64 1121548
+co 0 3 379285
+dk 4 5 479561
+by 2 3 91074
+il 6 157 13496992
+id 6 9 2357702
+dz 2 9 783712
+tn 4 87 4008548
+bj 0 1 66555
+ie 3 65 10424836
+sn 0 1 1110300
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 43
+bingbot/ 6554 1020084302 20180430235801 106
+crawl 3903 30991034 20180428225119 78
+Googlebot/ 2475 16380395 20180430232929 42
+no_user_agent 2000 32001700 20180430220545 2
+SemrushBot/ 1617 19587421 20180428225611 12
+bingpreview 1617 101390024 20180430224207 0
+Googlebot\-Image/ 1240 45746597 20180430203841 0
+DotBot/ 1040 82286583 20180426191314 674
+SEOkicks\-Robot 826 42794364 20180421121444 14
+feed 731 2184242 20180430232520 0
+spbot/ 640 7276459 20180419130050 2
+netEstate[\x20]NE[\x20]Crawler 399 4579769 20180430041257 8
+Google[\x20]Web[\x20]Preview 395 26539655 20180430230822 0
+AhrefsBot/ 368 48929296 20180430235612 25
+MJ12bot/ 363 5017847 20180430120928 35
+facebookexternalhit/ 292 50224734 20180427154538 0
+YandexBot/ 156 380179 20180430232553 128
+YandexImages/ 149 17174074 20180430232557 0
+bot[\s_+:,\.\;\/\\-] 134 1434073 20180430063851 4
+unknown 120 8254 20180430184720 120
+Mail\.RU_Bot/ 107 466793 20180425104311 46
+AdsBot\-Google[\x20]\( 91 786403 20180406033137 0
+Baiduspider/ 77 768135 20180430193801 0
+aiHitBot/ 62 525933 20180418193123 1
+Exabot/ 58 561021 20180430011940 17
+Deepnet[\x20]Explorer 14 686634 20180421211250 0
+curl 2 22465 20180422202800 0
+CFNetwork 1 3419 20180406154428 0
+Baiduspider\-image 2 326827 20180416121135 0
+libwww\-perl 1 36714 20180407212806 0
+Babya[\x20]Discoverer 1 55021 20180429090815 0
+DuckDuckGo\-Favicons\-Bot/ 8 91928 20180422234635 0
+linkdexbot/ 2 19854 20180403132015 1
+TeeRaidBot 2 134238 20180416213619 1
+Cliqzbot/ 11 68225 20180402031126 5
+(firefox/)([0-9]\.|[0-1][0]\.) 6 140933 20180430023928 4
+MSIECrawler 16 880336 20180428030634 0
+link 2 138 20180421024842 2
+Plukkie/ 2 19531 20180424224921 1
+Apache\-HttpClient/ 3 18297 20180406094307 0
+SiteExplorer/ 3 207 20180428215842 3
+Python\-urllib/ 4 486766 20180423092626 0
+archive\.org_bot 5 339 20180416104033 5
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+ttf 1 8024 0 0
+png 2854 664386557 0 0
+txt 2 944 0 0
+svg 2 1793 0 0
+Unknown 489 37161 0 0
+jpeg 303 9500293 0 0
+gif 529 1952813 0 0
+html 2560 72342728 0 0
+css 3841 29432667 0 0
+jpg 25002 2919227644 0 0
+js 6285 53355009 0 0
+php 3188 9312588 0 0
+woff 349 10122259 0 0
+eot 38 1050840 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/plugins/contact-form-7/license.txt 2 0 944
+/license.txt 1 0 19935
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 32
+winphone 146 4
+linux 1057 120
+win2000 101 101
+winunknown 9 9
+macosx12 584 30
+ios_iphone 5376 182
+win8 478 122
+winxp 1212 384
+win10 9437 386
+macosx 2138 69
+win16 10 10
+win8.1 1764 54
+winnt 88 88
+win95 29 29
+ios_ipad 3050 96
+macosx8 2 1
+macosx11 1560 67
+macosx10 8 3
+winlong 1666 992
+win2003 29 29
+win7 8686 1515
+macosx6 5 2
+linuxandroid 4918 146
+macosx9 111 2
+macosx5 2 2
+win98 10 10
+macosx7 751 20
+linuxubuntu 1 1
+unix 6 5
+wince 5 5
+Unknown 2179 2116
+winme 25 25
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 169
+chrome62.0.3250.0 8 8
+msie5.0 19 19
+chrome38.0.1025.166 379 8
+firefox19.0 1 1
+firefox42.0 24 24
+opera36.0.2130.32 9 9
+chrome40.0.806.0 1 1
+safari11.0.2 1 0
+opera7.54 2 2
+netscape4.76 6 6
+chrome38.0.862.0 1 1
+chrome40.0.2214.85 1 1
+chrome50.0.2661.102 20 20
+opera7.11 14 14
+chrome59.0.3071.125 3 0
+chrome61.0.3163.98 1 0
+chrome63.0.3239.84 11 11
+opera49.0.2725.47 4 4
+safari10.1.2 103 6
+chrome64.0.3282.167 5 3
+webcapture 4 4
+safari9.0 1758 63
+firefox34.0 950 950
+safari 1724 44
+Unknown 1658 1562
+firefox32.1 1 1
+chrome65.0.3325.144 1 0
+chrome62.0.3202.84 1 0
+edge13 1 0
+chrome65.0.3325.181 8205 757
+chrome62.0.3202.94 27 27
+chrome58.0.3029.110 5 2
+cloudflare 1 0
+firefox52.0 1879 775
+opera49.0.2711.0 16 16
+chrome64.0.3282.140 150 4
+safari4.0.1 1 1
+iphone 616 20
+firefox58.0 116 5
+opera12.14 2 2
+chrome66.0.3359.106 1 0
+opera52.0.2871.40 1 0
+firefox59.0.2 1 0
+msie11.0 2462 93
+chrome49.0.2623.112 618 14
+opera9.00 13 13
+wap 10 1
+chrome50.0.2661.75 1 1
+opera9.38 1 1
+chrome28.0.1500.94 1 0
+chrome65.0.3325.146 2 0
+chrome64.0.3282.186 152 5
+netscape3.0 3 3
+chrome45.0.2454.94 2 2
+chrome41.0.2228.0 27 1
+chrome51.0.2681.0 1 0
+safari10.1.1 1 0
+firefox60.0 109 4
+chrome48.0.2564.106 1 0
+chrome32.0.1700.76 46 2
+chrome64.0.3282.137 8 0
+safari3.0.5 1 1
+firefox54.0 1 1
+msie6.0 344 343
+msie8.0 143 27
+netscape0.6 2 2
+firefox48.0 7 4
+safari11.0 3321 116
+android 82 1
+safari10.0 958 31
+chrome5.0.375.99 4 4
+opera8.97 1 1
+chrome66.0.3347.0 71 2
+opera7.0 3 3
+msie7.0 46 30
+safari11.0.3 377 14
+chrome40.0.2214.109 2 0
+opera8.56 1 1
+firefox53.0 163 14
+chrome62.0.3202.75 5 3
+msie2.0 22 22
+firefox35.0 1 1
+chrome66.0.3359.117 1202 21
+safari4.0.5 2 2
+firefox29.0 38 38
+chrome34.0.1847.137 3 3
+edge15 31 1
+chrome61.0.3163.100 22 22
+safari5.1 2 2
+chrome37.0.816.0 1 1
+netscape4.79 11 11
+firefox45.0 2 2
+chrome40.0.824.0 1 1
+opera8.54 1 1
+chrome40.0.2214.93 1 1
+msie10.0 48 4
+msie5.5 64 64
+chrome63.0.3223.8 1 1
+chrome49.0.2623.221 1 0
+edge14 148 4
+chrome60.0.3112.116 1 0
+opera9.01 3 3
+chrome63.0.3205.0 48 4
+chrome30.0.0.0 5 0
+chrome64.0.3282.119 1 1
+firefox57.0 3 3
+msie9.0 751 21
+firefox59.0 5666 185
+safari10.1 1 0
+safari7.0 1 0
+safari5.0 1 1
+firefox56.0 1 0
+chrome43.0.2357.134 1 1
+firefox36.0 1 1
+chrome58.0.3029.83 2 0
+opera6.01 3 3
+firefox40.1 10 10
+chrome12.0.702.0 1 0
+safari11.1 328 13
+firefox49.0 1 1
+chrome36.0.1985.135 1 0
+edge16 1314 41
+chrome66.0.3359.126 878 20
+firefox43.1 8 8
+opera40.6.1496.7768 2 2
+netscape4.61 5 5
+chrome36.0.842.0 1 1
+opera12.17 2 2
+msie3.02 5 5
+chrome30.0.1599.101 156 4
+opera8.50 9 9
+netscape0.91 3 3
+chrome65.0.3325.109 2148 59
+firefox33.0 2 2
+msie4.01 7 7
+chrome20.0.1092.0 1 0
+chrome12.0.742.112 1 1
+chrome33.0.0.0 1 0
+chrome63.0.3239.132 3 1
+firefox55.0 3 3
+netscape5.0 3 3
+opera8.01 15 15
+chrome55.0.2883.87 4 1
+mozilla 521 521
+chrome66.0.3359.139 1713 72
+firefox50.0 23 23
+safari11.0.1 559 20
+firefox44.0 300 8
+firefox43.0 9 9
+chrome41.0.2272.118 2 0
+firefox31.0 97 97
+safari8.0 1 0
+chrome38.0.853.0 1 1
+firefox11.0 4 0
+chrome45.0.2454.93 4 4
+chrome18.0.1025.11 1 1
+chrome38.0.2125.102 2 0
+opera9.0 14 14
+safari4.0 1 1
+chrome50.0.2661.89 401 12
+netscape 15 15
+chrome56.0.2924.87 1168 46
+chrome65.0.3325.209 1 0
+chrome63.0.3239.111 125 4
+safari6.1.6 746 18
+opera9.66 4 4
+chrome44.0.2403.157 1 0
+firefox17.0 2 2
+opera8.00 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 25
+Riddler_(http://riddler.io/about) 20180430101941
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20180430161145
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20180409110846
+WordPress/4.9.4;_http://www.plexiplay.fr 20180404003257
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20180426235257
+Go_1.1_package_http 20180419182439
+builtwith 20180409004828
+Cpanel-HTTP-Client/1.0 20180430220617
+Go-http-client/1.1 20180423092709
+Mozilla/5.0_(en-US)_AppleWebKit/537.36_(KHTML,_like_Gecko;_SugarSnap)_Chrome/41.0.2272.118_Safari/537.36 20180402141312
+YahooCacheSystem;_YahooWebServiceClient 20180415132743
+Ruby 20180411081505
+Mozilla_5.0 20180424090223
+Qwantify/1.0 20180430183729
+ia_archiver 20180416000012
+Mozilla/5.0_zgrab/0.x 20180406171313
+Mozilla/5.0_(compatible;_CloudFlare-AlwaysOnline/1.0;__http://www.cloudflare.com/always-online)_AppleWebKit/534.34 20180412174536
+Mozilla/5.0_(compatible;_ips-agent) 20180418054556
+Mozilla/5.0_(compatible;_Let's_Encrypt_validation_server;__https://www.letsencrypt.org) 20180403041024
+DNSdelve_HTTP_tester/0.1_(running_with_Python_2.7.5;_http://www.dnsdelve.net;_bortzmeyer@nic.fr) 20180410072417
+WordPress/4.9.5;_http://www.plexiplay.fr 20180430225936
+Faraday_v0.14.0 20180411081502
+Photon/1.0 20180415105838
+Mozilla/5.0/Firefox/42.0_-_nbertaupete95(at)gmail.com 20180428113752
+Mozilla/5.0_(compatible;_Wappalyzer) 20180424050618
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 36
+Faraday_v0.14.0 20180411081502
+WordPress/4.9.5;_http://www.plexiplay.fr 20180430225936
+com.google.GoogleMobile/43.0.0_iPad/11.2.6_hw/iPad4_2 20180406190445
+com.google.GoogleMobile/46.0.0_iPad/11.3_hw/iPad6_8 20180401172823
+com.google.GoogleMobile/48.0.0_iPad/11.3_hw/iPad5_3 20180429045219
+com.google.GoogleMobile/47.1.0_iPad/11.2.6_hw/iPad4_4 20180423111136
+com.google.GoogleMobile/47.1.0_iPad/11.2.2_hw/iPad4_1 20180424215333
+com.google.GoogleMobile/46.0.0_iPad/11.2.1_hw/iPad4_1 20180408204655
+Go-http-client/1.1 20180423092709
+YahooCacheSystem;_YahooWebServiceClient 20180415132743
+Ruby 20180411081505
+com.google.GoogleMobile/46.0.0_iPad/11.2.6_hw/iPad5_1 20180408181914
+com.google.GoogleMobile/42.0.0_iPad/9.3.5_hw/iPad2_5 20180409141552
+com.google.GoogleMobile/46.0.0_iPad/11.2.6_hw/iPad5_4 20180414160906
+com.google.GoogleMobile/46.0.0_iPad/11.3_hw/iPad5_3 20180409000454
+Riddler_(http://riddler.io/about) 20180430101941
+com.google.GoogleMobile/46.0.0_iPad/10.3.3_hw/iPad3_4 20180403081427
+DNSdelve_HTTP_tester/0.1_(running_with_Python_2.7.5;_http://www.dnsdelve.net;_bortzmeyer@nic.fr) 20180410072417
+Photon/1.0 20180415105838
+com.google.GoogleMobile/48.0.0_iPad/11.3_hw/iPad6_7 20180428192549
+com.google.GoogleMobile/46.0.0_iPad/11.2.6_hw/iPad6_7 20180402095202
+com.google.GoogleMobile/48.0.0_iPad/11.2.6_hw/iPad4_1 20180428011220
+com.google.GoogleMobile/34.0.0_iPad/10.3.3_hw/iPad3_4 20180408220229
+com.google.GoogleMobile/41.0.0_iPad/10.3.3_hw/iPad3_4 20180430093236
+Qwantify/1.0 20180430183729
+com.google.GoogleMobile/31.0.0_iPad/10.3.3_hw/iPad3_6 20180409095828
+com.google.GoogleMobile/47.1.0_iPad/10.2.1_hw/iPad4_4 20180427094652
+ia_archiver 20180416000012
+com.google.GoogleMobile/41.0.0_iPad/10.3.1_hw/iPad4_1 20180418174717
+com.google.GoogleMobile/42.0.0_iPad/9.3.5_hw/iPad2_1 20180408173557
+Cpanel-HTTP-Client/1.0 20180430220617
+Go_1.1_package_http 20180419182439
+builtwith 20180409004828
+WordPress/4.9.4;_http://www.plexiplay.fr 20180404003257
+com.google.GoogleMobile/48.0.0_iPad/11.0.3_hw/iPad4_2 20180429195212
+com.google.GoogleMobile/44.0.0_iPad/10.3.3_hw/iPad3_4 20180405224347
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2771 3239
+From1 7 7
+From2 166 761
+From3 630 707
+From4 3051 40729
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 49
+www_google_by 0 1
+www_google_bg 0 1
+images_search_yahoo_com 0 1
+qwant_com 5 5
+www_google_com_sa 0 2
+www_google_lu 0 1
+www_google_ch 0 2
+www_google_com_co 0 2
+bing 13 112
+www_google_com_au 0 1
+www_google_com_tr 0 1
+www_google_tg 0 2
+www_google_pl 0 1
+www_google_co_jp 1 1
+www_google_ht 1 1
+www_google_es 0 1
+www_google_co_th 0 1
+www_google_cz 0 1
+www_google_fr 97 399
+www_google_co_in 0 3
+fr_search_yahoo_com 1 1
+www_google_se 1 1
+www_google_ml 0 1
+www_google_be 4 19
+www_google_sn 0 3
+www_google_com_tw 0 1
+www_google_com_eg 0 1
+www_google_de 0 7
+www_google_it 1 3
+www_google_co_uk 1 5
+www_google_ro 0 1
+www_google_hr 1 1
+www_google_nl 0 5
+www_google_at 0 2
+ecosia 0 1
+www_google_hu 0 1
+www_google_dz 0 3
+www_google_pt 0 1
+www_google_tn 0 9
+www_google_com_lb 0 1
+www_google_mg 0 1
+www_google_ca 3 20
+r_search_yahoo_com 3 3
+yandexru 3 3
+www_google_com 31 122
+www_google_bj 0 1
+www_google_com_mx 0 3
+www_google_com_pe 0 1
+www_google_co_ma 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 128
+http://incitystroy.ru 17 17
+http://komputers-best.ru 16 16
+http://metallo-konstruktsii.ru 16 16
+http://spb-scenar.ru 16 16
+https://beachtoday.ru 15 15
+http://lerporn.info 15 15
+https://univerfiles.com 14 14
+https://picturesmania.com 13 13
+http://www.regionshop.biz 13 13
+http://www.plexiplay.com 13 13
+http://healbio.ru 12 12
+https://infodocsportal.com 12 12
+http://uralsk.xkaz.org 12 12
+https://bird1.ru 11 11
+https://distonija.com 11 11
+http://sorus.ucoz.ru 10 10
+https://hoztorg-opt.ru 10 10
+https://laminat.com.ua 10 10
+https://krasnodar-avtolombard.ru 9 9
+https://studentguide.ru 9 9
+https://med-dopomoga.com 9 9
+http://fartunabest.ru 9 9
+https://ek-invest.ru 9 9
+http://prosmibank.ru 9 9
+https://animenime.ru 8 8
+https://filesclub.net 5 5
+http://m.facebook.com 7 7
+http://aibolita.com 6 6
+http://pk-services.ru 4 4
+http://myfrdesign.co/tableaux-d-art/ 0 1
+http://komukc.com.ua 3 3
+http://www.plexiplay.com 1 1
+http://pornohd1080.online 4 4
+http://www.club-lukojl.ru 4 4
+https://store-rx.com/blog/fr/ 3 3
+https://pills24h.com 1 1
+http://msu.kharkov.ua 3 3
+https://mtsguru.ru 2 2
+https://www.atyks.ru 4 4
+https://brillianty.info 5 5
+http://atyrau.xkaz.org 1 1
+http://slomm.ru 6 6
+http://domain.com 0 1
+https://edudocs.net 8 8
+http://westcovinasymphony.com/tableau-plexi-pas-cher.html 0 6
+https://online-intim.com 3 3
+https://documentsite.net 6 6
+http://fcfc.info/tableau-plexi-pas-cher.html 0 1
+http://svetka.info 6 6
+https://4inn.ru 6 6
+https://www.facebook.com 1 1
+http://online-sbank.ru 3 3
+https://www.4istoshop.com 2 2
+https://slomm.ru 2 2
+http://www.tsatu.edu.ua 5 5
+https://popugaychiki.com 6 6
+http://4homedepot.co/tableau-paris-noir-et-blanc.html 0 9
+http://plexiplay.com 3 3
+https://office2web.com 4 4
+http://www.zasideas.com/decoration-brasserie.html 0 1
+http://joshkrajcik.us/d-co-plexiglass-design.htm 0 4
+http://12u.info 6 6
+http://veselokloun.ru 8 8
+http://sovetogorod.ru 4 4
+http://hosnya.com/tableau-design-grand-format.html 0 6
+https://buy-meds24.com/cialis-fr.html 3 3
+https://unlimitdocs.net 3 3
+http://www.selfiesky.fr 2 2
+http://emyde.com/tableau-paris-noir-et-blanc.html 0 1
+https://www.sundrugstore.com 3 3
+http://site.ru 1 1
+http://kreativhouse.net/tableau-en-plexiglas.html 0 6
+http://stat.lviv.ua 3 3
+http://03p.info 2 2
+http://www.inet-shop.su 2 2
+https://documentbase.net 3 3
+http://avtovykup.kz 1 1
+https://kerch.site 5 5
+https://beremenyashka.com 4 4
+https://workius.ru 5 5
+https://jobius.com.ua 6 6
+http://westcovinasymphony.com/tableau-design-grand-format.html 0 11
+http://deart-13.ru 3 3
+https://univerfiles.com 2 2
+http://www.alinabaniecka.pl/en/what-do-i-offer/ 1 1
+https://zelena-mriya.com.ua 1 1
+http://www.feminist.org.ua 3 3
+http://www.stavimdveri.ru/sitemap.html 7 7
+https://docsportal.net 6 6
+http://makler.org.ua 1 1
+http://komp-pomosch.ru 3 3
+http://westcovinasymphony.com/tableaux-noir-et-blanc.html 0 3
+https://happysong.ru 3 3
+https://goodhumor24.com 5 5
+https://exdocsfiles.com 7 7
+http://l.facebook.com/l.php 1 1
+http://desirecollo.ga/Pisser/3839-Lumi%C3%A8re-boutique-nu-photoshop.html 0 1
+http://l.instagram.com 2 2
+http://aktau.xkaz.org 2 2
+http://nzsnowboard.com/tableau-en-plexiglas.html 0 1
+https://www.xn--80aaajkrncdlqdh6ane8t.xn--p1ai 7 7
+https://www.4istoshop.com 6 6
+http://westcovinasymphony.com/tableau-design-grand-format.html# 0 1
+https://kozhasobak.com 7 7
+https://mikozstop.com 4 4
+http://elementspluss.ru 4 4
+https://docsarchive.net 2 2
+http://healgastro.com 4 4
+http://texnika.com.ua 5 5
+https://eduinfosite.com 8 8
+http://itoox.com/photo-sous-plexi.html 0 1
+http://nara2.net/achat-tableau-noir.html 0 1
+https://scat.porn 6 6
+https://dermatovenerologiya.com 4 4
+http://zahvat.ru 7 7
+https://kazka.ru 6 6
+https://sovetskie-plakaty.ru 6 6
+https://docs4all.com 3 3
+https://allergick.com 5 5
+http://l.instagram.com 1 1
+http://businessmobile.org/tableau-avion-noir-et-blanc.html 0 1
+https://professionalsolutions.eu/ru/ 7 7
+http://www.skaters.biz/tableau-avion-noir-et-blanc.html 0 1
+http://www.oxmi.org/tableau-avion-noir-et-blanc.html 0 9
+http://magnetic-bracelets.ru 8 8
+http://xn----7sbabn5abjehfwi8bj.xn--p1ai 6 6
+http://creer.biz/tableaux-plexi.html.html 0 11
+http://game300.ru 4 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+tableau+en+plexiglas+tibet 1
+plexi+sex 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 6
+tibet 1
+sex 1
+plexi 1
+en 1
+tableau 1
+plexiglas 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 8
+405 2 102
+206 118 9234937
+302 136 26900
+400 13 327
+301 933 3611
+500 5 3000
+503 1 428
+404 1388 14220008
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 274
+/wp-seo.php 1 http://site.ru
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/%3C 12 -
+/wp-content/uploader.php 2 http://plexiplay.fr/wp-content/uploader.php
+/wp-content/plugins/Aviliate/404.php 1 http://site.ru
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/%3C 11 -
+/portfolio/jambe-fond-blanc 1 -
+/wp-content/themes/famous/style.css 2 http://www.plexiplay.fr/wp-content/themes/famous/style.css
+/decors-plexi 1 -
+/wordpress/wp-admin/setup-config.php 2 -
+/wp-mains.php 1 http://site.ru
+/wp-content/plugins/ninja-forms/ninja_forms.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/%3C 11 -
+/portfolio/tableau-extraordinaire 1 -
+/apple-touch-icon-120x120.png 1 -
+/portfolio/le-prisonnier-2 1 -
+/wp-content/plugins/wpstorecart/lgpl.txt 1 -
+/boutique/herve-arduini/tableaux-sexy/pistillum/%3C 10 -
+/portfolio/evantail-or 1 -
+/boutique/tableaux-sepia/escalator/%3C 10 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/%3C 10 -
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/%3C 9 -
+/wp-content/plugins/wp-e-commerce/license.txt 1 -
+/wp-login.php 9 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/%3C 9 -
+/wp-content/plugins/auto-attachments/a-a.css 1 -
+/wp-content/plugins/font-uploader/font-uploader-free.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/%3C 8 -
+/wp-content/themes/deep-blue/megaframe/megapanel/inc/functions.php 1 http://www.plexiplay.fr/wp-content/themes/deep-blue/megaframe/megapanel/inc/functions.php
+/boutique/herve-arduini/tableau-mauve/sensation/%3C 9 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/%3c 1 -
+/roots.php 1 http://www.plexiplay.fr/roots.php
+/boutique/tableau-diasec/vis-vis/%3C 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/%3C 9 -
+/www.googletagmanager.com/ns.html 2 -
+/art-on-demand/ 2 -
+/boutique/herve-arduini/tableau-diasec/party-night/%3C 9 -
+/contact-tus/ 4 -
+/http:/ 1 -
+/portfolio/asia-folie 2 -
+/wp-includes/js/tinymce/themes/inlite/Meuhy.php 2 http://site.ru
+/theme.php 2 http://site.ru
+/portfolio/graph-art 2 -
+/wp-content/plugins/studio-tinymce-widget/mark.php 1 http://site.ru
+/boutique/aurelie-anger/couleurs-vives/lolita/%3C 8 -
+/portfolio/illustration-luxe 1 -
+/Meuhy.php 1 http://site.ru
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/%3C 10 -
+/portfolio/tableau-romantique 2 -
+/portfolio/tableau-pop-art 1 -
+/wp-content/plugins/woocommerce/dummy_data.xml 2 -
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/%3C 10 -
+/boutique/aurelie-anger/pastel/evanescent/%3C 8 -
+/boutique/aurelie-anger/pastel/lost/%3C 10 -
+/boutique/page/6/ 1 -
+/plexi-whatelse/plaque-pmma-coule-stan-000211122-4 1 -
+/wp-content/plugins/delete-all-comments/delete-all-comments.php 1 -
+/boutique/aurelie-anger/pastel/sanctuary/< 1 -
+/boutique/aurelie-anger/pastel/evanescent/< 1 -
+/boutique/aurelie-anger/pastel/sanctuary/%3C 8 -
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/< 1 -
+/wp-content/plugins/nmedia-user-file-uploader/readme.txt 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/%3C 9 -
+/ler.php 6 http://site.ru
+/core/CHANGELOG.txt 1 -
+/ns.html 1 -
+/boutique/herve-arduini/tableau-diasec/desir/%3C 8 -
+/boutique/aurelie-anger/couleurs-vives/virginia/%3C 9 -
+/wp-content/plugins/sfbrowser/css/sfbrowser.css 1 http://www.plexiplay.fr/wp-content/plugins/sfbrowser/css/sfbrowser.css
+/wp-content/plugins/ajax-user/mini.php.fla 3 http://site.ru
+/test.php 1 http://site.ru
+/main/wp-admin/setup-config.php 1 -
+/wp-content/plugins/custom-content-type-manager/index.html 1 -
+/wp-content/plugins/sexy-contact-form/includes/js/eye.js 1 http://www.plexiplay.fr/wp-content/plugins/sexy-contact-form/includes/js/eye.js
+/wp-content/plugins/rbxgallery/readme.txt 1 http://www.plexiplay.fr/wp-content/plugins/rbxgallery/readme.txt
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/%3C 10 -
+/admin_login.php 1 http://site.ru
+/test/wp-admin/setup-config.php 2 -
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/< 1 -
+/blog/wp-admin/setup-config.php 1 -
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/< 1 -
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-content/plugins/wp-ultimatum-composer/tractfirm.php 2 http://site.ru
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 2 -
+/categorie-produit/herve-arduini/tableaux-sexy/page/2/ 1 -
+/wp-content/plugins/rois/idx.php 1 http://site.ru
+/.smileys/systems.php 2 http://site.ru
+/wp-content/plugins/category-grid-view-gallery/cat_grid.php 1 -
+/boutique/aurelie-anger/couleurs-vives/blue-light/%3C 8 -
+/wp-system.php.suspected 1 http://site.ru
+/boutique/herve-arduini/tableaux-sexy/dentelle/%3C 9 -
+/condition-generale-de-vente 1 -
+/boutique/herve-arduini/tableau-diasec/open-mind/%3C 9 -
+/portfolio/photo-nu-artistique-noir-et-blanc 1 -
+/play 1 -
+/wp-wpphp.php 1 http://site.ru
+/boutique/tableau-grand-format/party-white/%3C 10 -
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 10 -
+/wp-content/plugins/wp-property/action_hooks.php 1 -
+/wp-content/plugins/gallery-plugin/gallery-plugin.php 1 -
+/wp-content/plugins/another-wordpress-classifieds-plugin/AWPCP.po 1 -
+/.smileys/bacot.php 1 http://site.ru
+/boutique/aurelie-anger/couleurs-vives/blind-date/%3C 11 -
+/wp-content/plugins/wysija-newsletters/readme.txt 1 -
+/k.php 2 http://site.ru
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 8 -
+/wp-content/plugins/delete-all-comments/backup/bp.php 1 -
+/portfolio/entrelacement-2 2 -
+/portfolio/art-demand 1 -
+/wp-content/wp-caches.php 1 http://site.ru
+/wp-content/plugins/nextgen-gallery/changelog.txt 1 -
+/boutique/aurelie-anger/pastel/lost/< 1 -
+/portfolio/herve-1 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/%3C 9 -
+/header_img.php.suspected 3 http://site.ru
+/boutique/herve-arduini/oeuvres-detournees/folies/%3C 9 -
+/galerie-de-tableaux-dherve-arduini-impression-sur-plexiglas-en-hd 1 -
+/wp-content/plugins/html404/cry.php.pjpeg 1 http://site.ru
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/%3C 11 -
+/boutique/herve-arduini/tableau-diasec/xxplosive/%3C 12 -
+/wp-includes/js/crop/aul.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/%3C 11 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/%3C 11 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/%3C 8 -
+/categorie-produit/herve-arduini/tableau-trame-ligne/ 1 -
+/wp-content/themes/twentyfourteen/tags.php 2 http://site.ru
+/wp-info.php 1 http://plexiplay.fr/wp-info.php
+/boutique/uncategorized/pluie-tropicale/%3C 1 -
+/wp-content/plugins/sharexy/ajaxresponder.php 2 -
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/%3C 9 -
+/categorie-produit/herve-arduini/tableau-trame-rond/ 1 -
+/wp-content/plugins/gallery-plugin/upload/php.php 1 -
+/wp-content/plugins/resizer-img/accdb.php 1 http://site.ru
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 9 -
+/wp-content/plugins/user-meta/readme.txt 1 -
+/jm-ajax/upload_file/ 1 -
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/%3C 10 -
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/%3C 9 -
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/%3C 8 -
+/administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.css 1 http://plexiplay.fr/administrator/components/com_bt_portfolio/helpers/uploadify/uploadify.css
+/wp-content/themes/gallery/style.css 2 http://www.plexiplay.fr/wp-content/themes/gallery/style.css
+/portfolio/play 2 -
+/wp-content/plugins/zingiri-web-shop/admin.css 1 -
+/wp-includes/Text/Diff/Engine/Meuhy.php 1 http://site.ru
+/wp-content/plugins/fac/idx.php 2 http://site.ru
+/boutique/herve-arduini/tableaux-sexy/dentelle/< 1 -
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 9 -
+/wp-content/plugins/woocommerce-products-filter/css/front.css 3 http://plexiplay.fr/wp-content/plugins/woocommerce-products-filter/css/front.css
+/boutique/herve-arduini/tableaux-sexy/eventail-or/%3C 8 -
+/wp-content/plugins/magic-fields/MF_Constant.php 1 -
+/wp-link.php 1 http://plexiplay.fr/wp-link.php
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/%3C 9 -
+/hx.php 2 http://site.ru
+/wp-content/plugins/html404/config.php 2 http://site.ru
+/categorie-produit/herve-arduini/tableau-trame-courbe/ 1 -
+/wp-content/uploads/assignments/ch.php 1 -
+/wp-content/plugins/estatik/readme.txt 1 http://plexiplay.fr/wp-content/plugins/estatik/readme.txt
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/%3C 10 -
+/content-post.php.suspected 1 http://site.ru
+/boutique/herve-arduini/tableau-diasec/speed/%3C 9 -
+/wp-content/plugins/wp-file-manager/js/fm_script.js 1 http://plexiplay.fr/wp-content/plugins/wp-file-manager/js/fm_script.js
+/formats-stand-plus/100-x-100cm-ep-5mm-hd/ 1 -
+/wp-content/themes/sketch/wp-wpphp.php 1 http://site.ru
+/quisommesnous 1 -
+/wp-content/plugins/woocommerce-catalog-enquiry/assets/frontend/js/chosen.js 1 -
+/portfolio/illustration-design 2 -
+/portfolio/jazz 1 -
+/update.php 1 -
+/wp-content/plugins/user-photo/admin.css 1 -
+/modules/mod_simplefileuploadv1.3/elements/udd.php 1 -
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/%3C 9 -
+/wp-content/plugins/font-uploader/readme.txt 1 http://www.plexiplay.fr/wp-content/plugins/font-uploader/readme.txt
+/wp-content/plugins/ubh/up.php 2 http://plexiplay.fr/wp-content/plugins/ubh/up.php
+/wp-content/plugins/wp-handy-lightbox/begin.php 1 -
+/wp-content/plugins/fcchat/default.png 1 -
+/wp-content/plugins/wp-editor/readme.txt 1 -
+/wp-includes/js/tinymce/themes/modern/Meuhy.php 1 http://site.ru
+/wp-content/plugins/dzs-portfolio/upload.php 2 -
+/boutique/tableau-diasec/disco-ball/%3C 12 -
+/wp-content/plugins/wpmarketplace/readme.txt 2 -
+/wp-content/plugins/wp-homepage-slideshow/functions.php 1 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 10 -
+/ 300 -
+/categorie-produit/herve-arduini/tableau-ligne/ 1 -
+/boutique/aurelie-anger/couleurs-vives/hippie/%3C 9 -
+/wp-content/themes/holding_pattern/admin/css/up_framework.css 1 http://www.plexiplay.fr/wp-content/themes/holding_pattern/admin/css/up_framework.css
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/%3C 11 -
+/wp-content/plugins/mailpress/mp-includes/action.php 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/%3C 10 -
+/wp-content/wordpress_cache.php 3 http://site.ru
+/boutique/herve-arduini/tableau-diasec/party-white/%3C 9 -
+/portfolio/illustration-art 2 -
+/baws.php 2 http://site.ru
+/wp-content/plugins/wp-symposium/server/php/index.php 3 -
+/wp-content/plugins/wp-filemanager/fm.php 1 -
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/%3C 9 -
+/wp-content/themes/u-design/style.css 4 -
+/wp-content/plugins/wp-property/third-party/uploadify/uploadify.php 1 -
+/administrator/components/com_simplephotogallery/lib/uploadFile.php 1 http://www.plexiplay.fr/administrator/components/com_simplephotogallery/lib/uploadFile.php
+/wp-content/plugins/userpro/css/userpro-editor.css 1 -
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/%3C 9 -
+/wp-content/wp-plugins.php 3 http://site.ru
+/wp-content/plugins/formcraft/file-upload/server/content/upload.php 2 http://www.plexiplay.fr/wp-content/plugins/formcraft/file-upload/server/content/upload.php
+/_.php 2 http://site.ru
+/apple-touch-icon.png 70 -
+/wp-admin/admin-ajax.php 3 http://www.plexiplay.fr/wp-admin/customize.php
+/assets/images/content-post.php 1 http://www.plexiplay.fr/assets/images/content-post.php
+/boutique/herve-arduini/tableaux-sexy/vis-vis/%3C 9 -
+/apple-touch-icon-precomposed.png 3 -
+/boutique/aurelie-anger/couleurs-vives/highway-hell/%3C 11 -
+/wp-content/plugins/user-avatar/readme.txt 1 -
+/site/wp-admin/setup-config.php 2 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/< 1 -
+/portfolio/love-hf 1 -
+/boutique/herve-arduini/tableau-diasec/paris-mix/%3C 8 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/%3C 8 -
+/ads.txt 22 http://plexiplay.fr/ads.txt
+/wp-admin/admin_info.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/header.php.pjpeg 1 http://site.ru
+/CHANGELOG.txt 1 -
+/wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/js/main.js 1 http://www.plexiplay.fr/wp-content/plugins/acf-frontend-display/js/blueimp-jQuery-File-Upload-d45deb1/js/main.js
+/Camilles.php 1 http://site.ru
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 9 -
+/wp-includes/js/crop/ask.php 1 -
+/wp-content/plugins/ubh/imnus.php 1 http://site.ru
+/ws0.php 3 http://site.ru
+/xml.php 1 http://site.ru
+/Wordpress/wp-admin/setup-config.php 2 -
+/art-contemporain-digital 1 -
+/wp-content/plugins/font-uploader/font-upload.php 1 -
+/wp-content/plugins/wp-image-news-slider/functions.php 1 -
+/wp-content/plugins/fac/asu.php 1 http://site.ru
+/wp-content/plugins/dzs-portfolio/admin/upload.php 2 -
+/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg 1 http://plexiplay.fr/wp-content/plugins/smart-google-code-inserter/screenshot1.jpg
+/fghhgfs.php 10 http://site.ru
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/%3C 13 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/
+/wp-content/uploader.php.suspected 2 http://plexiplay.fr/wp-content/uploader.php.suspected
+/portfolio/la-vie-en-rose-2 2 -
+/m1.php 2 http://site.ru
+/boutique/tableaux-sur-plexi/v-i-p/%3C 10 -
+/components/com_b2jcontact/router.php 1 -
+/wp-content/plugins/mac-dock-gallery/bugslist.txt 1 -
+/author/admin/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 7 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 18 -
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 9 -
+/wp-content/plugins/cardoza-facebook-like-box/cardoza_facebook_like_box.php 1 -
+/wp-content/plugins/simple-dropbox-upload-form/ 1 -
+/portfolio/illustration-pop-art 1 -
+/wp-content/plugins/wpstorecart/php/upload.php 1 -
+/wp-content/plugins/front-end-upload/destination.php 2 -
+/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 8 -
+/user/password 1 -
+/wp-content/plugins/cimy-user-extra-fields/README_OFFICIAL.txt 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/%3C 12 -
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/%3C 9 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 10 -
+/portfolio/photo-nu-artistique 2 -
+/content-post.php 1 http://www.plexiplay.fr/content-post.php
+/category/blog/aod-blog/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 8 -
+/wss.php 1 http://site.ru
+/wp-includes/Text/Diff/Engine/404.php 1 http://site.ru
+/portfolio/love-ff 1 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/%3C 9 -
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/%3C 9 -
+/wp-admin/maint/Marvins.php 1 http://site.ru
+/boutique/herve-arduini/tableaux-sexy/disco-ball/%3C 10 -
+/wp-includes/js/crop/bacot.php 1 -
+/wp-content/plugins/ckeditor-for-wordpress/ckeditor.config.js 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 9 -
+/wp-config.php~ 1 http://plexiplay.fr/wp-config.php~
+/wp-json/oembed/1.0/embed 1 -
+/portfolio/tableau-5-big-kiss-lipstick-50-exemplaires/1500x800p100-big-kiss-lipstick-detail-2 1 -
+/components/com_sexycontactform/fileupload/ 1 http://plexiplay.fr/components/com_sexycontactform/fileupload/index.php
+/wp-content/plugins/ajax-user/zz.php.pjpeg 2 http://site.ru
+/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css 5 http://plexiplay.fr/wp-content/plugins/cherry-plugin/admin/css/cherry-admin-plugin.css
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1534
+185.2.4.29 1437 1437 30915 20180430225936
+85.169.96.68 496 1751 104244196 20180426135200
+194.187.170.104 117 117 1336891 20180425041526
+194.187.170.139 117 117 1337153 20180427145840
+37.187.251.45 101 247 11530251 20180429184123
+178.159.37.55 93 93 4815777 20180424022651
+163.172.67.146 84 100 1784399 20180430101941
+87.91.192.72 59 938 119894060 20180430142643
+178.137.164.67 52 52 2861092 20180424012206
+134.249.55.53 49 49 2445049 20180412005613
+178.137.86.152 47 47 2284811 20180412121731
+46.119.121.22 46 46 2229790 20180412025313
+46.118.127.172 45 45 2291893 20180412040939
+178.137.81.28 43 43 2365903 20180423222151
+178.137.165.1 42 42 2311462 20180424055502
+46.119.121.74 41 41 2255861 20180424010814
+5.248.253.101 37 37 1584013 20180419141052
+194.187.170.119 34 34 426495 20180406164627
+194.187.170.133 34 34 426140 20180409123911
+218.22.148.105 33 33 116127 20180428175547
+79.91.137.61 33 843 83433795 20180425093619
+194.187.170.125 31 31 330551 20180428053911
+194.187.170.130 30 30 342216 20180421214525
+194.187.170.129 29 29 337449 20180423145240
+2.15.182.110 29 704 73341987 20180427085034
+5.166.160.37 2 2 5381 20180405183604
+62.133.162.22 2 2 5381 20180430054745
+46.193.17.8 0 2 320471 
+46.188.106.33 1 10 169950 20180423150140
+194.135.247.146 4 4 10762 20180428195937
+31.146.194.228 4 4 10762 20180422192927
+88.140.19.53 5 199 16616953 20180411125503
+31.185.13.58 2 2 5381 20180421083732
+139.59.149.99 2 2 33123 20180415111515
+62.202.190.173 0 1 741047 
+173.255.223.213 1 1 135764 20180410085805
+193.252.55.117 6 140 6347795 20180412181031
+83.204.189.171 0 1 145285 
+51.15.157.211 2 2 20769 20180411073153
+5.49.14.155 0 1 112894 
+50.245.235.193 0 1 156472 
+86.218.191.62 0 1 117402 
+88.120.236.123 0 1 8961 
+88.140.103.241 0 1 84095 
+217.67.66.197 2 2 5381 20180408015656
+86.192.202.125 0 1 741047 
+66.249.93.15 0 2 146845 
+163.5.101.144 0 1 239100 
+46.242.12.157 2 2 5381 20180402221940
+103.109.92.51 2 8 215101 20180428162920
+109.173.20.108 8 60 514240 20180423150138
+47.247.99.232 0 1 741047 
+78.227.30.30 0 1 80290 
+128.79.56.112 0 1 741047 
+109.190.111.14 1 52 4374718 20180416102931
+194.187.171.93 1 2 23225 20180406194030
+92.90.17.19 0 1 1110300 
+31.13.114.49 1 10 1911599 20180422042715
+194.187.171.173 0 1 3419 
+194.187.171.73 0 1 3419 
+94.25.171.66 2 2 5381 20180416072027
+107.178.194.231 1 1 13761 20180415110759
+94.249.5.114 0 1 146091 
+85.26.165.168 2 2 5381 20180418143349
+78.85.48.215 2 2 5381 20180403160121
+194.153.88.133 10 254 24336343 20180411110552
+178.194.157.33 0 1 476353 
+78.203.13.180 8 207 14648796 20180422071637
+47.205.10.204 0 1 156472 
+188.187.120.143 2 2 5381 20180408154727
+31.13.114.50 2 33 3780882 20180422042715
+62.176.7.182 4 4 10762 20180411010257
+94.239.155.41 0 1 71960 
+24.235.160.178 0 1 161420 
+185.120.125.148 1 49 357775 20180410145318
+165.225.81.49 0 1 98571 
+78.237.14.45 12 324 29081019 20180408121334
+184.73.34.241 2 46 391566 20180423092301
+90.105.80.159 10 356 36111198 20180429140809
+88.170.96.47 0 2 284627 
+96.22.47.33 0 1 1110300 
+131.253.25.65 0 16 88143 
+193.57.120.125 0 1 117402 
+83.167.101.48 2 2 5381 20180411092540
+88.120.249.26 0 1 66555 
+87.254.66.15 0 1 49516 
+205.201.132.14 4 4 38859 20180430154733
+2.11.179.198 0 1 601501 
+5.102.14.138 0 1 87861 
+197.19.4.62 0 1 125213 
+88.160.167.106 0 1 66555 
+94.23.35.132 1 1 133630 20180401121938
+88.56.41.148 6 6 16143 20180419161806
+86.243.74.3 0 1 495970 
+159.8.84.168 9 172 15231888 20180426151756
+86.228.102.9 1 14 144950 20180429105454
+193.57.120.16 0 1 1311561 
+178.140.90.191 2 2 5381 20180405041042
+79.120.38.142 2 2 5381 20180413120746
+88.77.179.177 0 1 90789 
+83.202.236.226 1 116 10610271 20180429120526
+78.192.30.10 0 1 184349 
+78.242.195.27 0 1 1311561 
+78.153.241.195 1 1 19290 20180408190748
+94.25.178.17 2 2 5381 20180419214657
+163.172.4.153 2 2 39527 20180425015330
+188.187.164.47 2 2 5381 20180405054227
+176.159.96.108 0 1 72030 
+222.92.223.234 11 11 38709 20180406043746
+82.231.152.192 0 1 1498902 
+121.15.254.22 1 1 3519 20180424060840
+31.185.13.214 2 2 5381 20180430234953
+204.101.16.208 0 1 172213 
+156.0.91.150 0 1 542635 
+109.110.35.51 2 2 5381 20180421074754
+81.10.3.188 11 11 38390 20180428185352
+185.16.30.42 0 1 211529 
+2.10.171.9 4 105 6948494 20180416002958
+46.56.198.13 0 1 85025 
+83.68.96.38 0 1 84095 
+176.183.253.101 0 1 67870 
+88.189.108.75 0 1 835593 
+128.70.224.193 2 2 5381 20180401224832
+58.221.60.110 11 11 38709 20180428174624
+64.233.173.148 2 80 5695511 20180412090726
+189.251.213.100 0 1 146554 
+66.249.88.144 1 63 3175022 20180428013331
+186.26.116.192 0 1 11365 
+122.195.64.214 0 1 161420 
+178.142.67.119 0 2 961961 
+82.64.28.195 1 1 127738 20180409004828
+83.201.201.136 4 73 3935445 20180421102300
+93.190.229.210 2 2 5381 20180411125316
+86.200.234.22 8 366 37858603 20180408222418
+45.115.39.139 1 1 43 20180403150155
+213.154.19.20 4 4 10762 20180420153750
+197.6.129.33 0 1 1110300 
+183.63.119.41 0 1 100432 
+198.168.27.221 0 2 151965 
+95.46.72.166 4 4 10762 20180425103013
+24.122.116.233 0 1 67870 
+204.79.180.2 0 18 91633 
+93.185.192.66 4 4 10762 20180429204415
+78.232.218.226 0 1 80290 
+93.82.18.60 0 1 85025 
+194.187.171.160 0 1 3419 
+89.82.229.181 0 1 112894 
+206.82.18.62 0 1 187336 
+176.179.160.135 0 2 388812 
+5.48.23.69 0 2 133110 
+176.195.158.123 2 2 5381 20180418125408
+109.11.84.22 0 1 162649 
+194.187.170.109 24 24 277541 20180424143735
+37.174.132.138 0 1 78585 
+86.194.208.209 0 1 89520 
+208.87.233.140 1 16 134921 20180416152858
+192.99.47.111 12 12 1059683 20180426235300
+109.19.166.34 0 1 117402 
+91.160.121.174 0 1 323521 
+188.162.64.203 2 2 5381 20180404202931
+107.167.112.219 0 1 195539 
+154.126.33.28 0 1 11365 
+78.250.99.28 3 52 535588 20180404042650
+42.145.226.174 4 4 10762 20180430164635
+94.25.84.130 2 2 5381 20180415013745
+83.220.92.100 4 4 10762 20180410061648
+77.136.14.248 0 1 239100 
+87.88.109.176 0 1 741047 
+109.236.72.60 2 2 5381 20180413133730
+60.6.227.95 5 5 17450 20180428184348
+80.12.37.222 0 2 1171352 
+93.12.146.204 0 1 254036 
+176.169.109.204 0 1 100432 
+88.174.209.2 13 602 67679034 20180429213941
+90.50.58.99 0 1 100432 
+47.60.37.192 7 249 25555944 20180406134039
+216.145.14.142 1 1 19145 20180427034507
+91.207.245.221 2 2 5381 20180421100457
+109.25.43.159 0 1 162649 
+195.221.156.31 0 1 117402 
+206.189.180.126 1 1 8942 20180423061154
+136.243.17.161 2 2 132116 20180402085300
+90.65.18.38 0 1 542635 
+159.50.252.41 6 186 11470121 20180426170840
+77.146.31.129 0 1 84095 
+176.151.37.16 0 3 248480 
+109.6.179.60 0 1 112894 
+82.120.250.232 0 1 100432 
+91.144.149.126 10 10 26905 20180416150423
+105.156.152.37 0 1 1311561 
+91.163.51.208 0 2 1256258 
+5.102.12.57 4 98 3575304 20180412230852
+90.28.34.184 0 1 67870 
+50.235.189.88 18 18 48429 20180426192817
+217.109.101.33 0 1 156394 
+88.167.173.21 0 1 85025 
+81.67.181.134 0 1 78585 
+75.152.19.137 0 1 835593 
+88.147.152.76 2 2 5381 20180416191445
+192.134.4.82 1 1 130797 20180410072417
+78.85.49.194 2 2 5381 20180408182031
+94.241.18.219 2 2 5381 20180409171204
+176.152.188.35 0 1 510445 
+85.169.122.92 1 109 9748816 20180429175009
+93.0.117.40 0 1 66555 
+86.218.42.189 0 1 117402 
+131.253.25.69 1 12 129649 20180429053211
+91.246.1.37 2 2 5381 20180401053218
+194.187.171.162 1 1 19610 20180419085037
+83.198.60.83 2 2 137366 20180407225639
+78.156.255.199 2 2 5381 20180403204222
+122.117.63.83 11 11 38709 20180424054512
+221.228.242.13 1 1 3519 20180406042800
+123.245.52.46 0 1 125213 
+165.225.81.60 12 414 53454919 20180430163927
+188.63.171.32 0 1 1311561 
+173.255.245.205 1 1 134382 20180410034621
+46.140.241.162 0 1 122199 
+115.187.206.142 0 1 85025 
+176.32.188.198 4 4 10762 20180415145001
+196.74.230.12 0 1 178494 
+83.171.108.27 2 2 5381 20180414020835
+82.248.119.63 0 2 177225 
+109.205.160.234 4 4 10762 20180429092033
+186.182.82.244 2 2 6049 20180418012259
+88.126.153.157 0 1 741047 
+194.187.170.144 28 28 308034 20180430161145
+109.172.102.85 2 2 5381 20180427190703
+84.133.57.73 0 1 85025 
+77.202.181.134 0 3 436125 
+94.25.170.9 2 2 5381 20180405091153
+86.56.188.237 0 1 85025 
+71.63.243.248 0 3 274063 
+13.84.46.176 1 1 19466 20180406205952
+173.177.102.215 0 1 741047 
+176.129.159.140 0 1 102881 
+131.253.25.80 0 16 102441 
+85.115.224.219 2 2 5381 20180410192111
+117.159.84.75 11 11 38709 20180406045016
+162.203.153.252 0 1 49516 
+188.162.64.84 2 2 5381 20180409202526
+218.60.28.126 2 2 6049 20180427023714
+183.166.187.2 11 11 38709 20180406043943
+69.58.178.59 11 11 791864 20180418054556
+5.248.196.93 15 15 574335 20180429004142
+109.172.59.84 4 4 10762 20180418193149
+105.102.223.160 0 1 211529 
+196.75.179.96 0 1 66555 
+90.105.96.204 0 1 1110300 
+178.34.162.146 2 2 5381 20180421122721
+54.165.90.203 1 1 81312 20180416000012
+176.179.144.202 1 1 14110 20180406154423
+92.170.42.161 0 1 1375033 
+64.233.173.142 3 95 11035621 20180428163200
+64.78.149.164 2 2 214 20180403041024
+154.124.192.170 0 1 601501 
+46.190.64.196 2 2 5381 20180406225712
+66.131.237.133 0 1 78585 
+82.253.10.8 4 145 12011087 20180430084352
+194.187.171.153 1 1 19550 20180403153122
+90.127.131.173 15 384 44145649 20180409001202
+86.247.186.255 0 5 414948 
+37.169.186.99 4 143 13338368 20180428141723
+187.87.116.191 0 1 190346 
+94.23.5.212 1 10 467581 20180424050611
+88.122.73.151 0 1 220914 
+90.28.141.235 9 236 23266166 20180416095855
+195.43.97.62 0 1 741047 
+94.19.145.11 1 1 2530 20180411135110
+83.197.234.100 0 3 626722 
+89.189.181.43 2 2 5381 20180407175422
+94.233.225.177 2 2 5381 20180409193513
+90.43.220.211 0 1 142063 
+185.213.210.128 1 1 567 20180428063900
+95.79.36.71 8 8 21524 20180428173954
+88.176.189.70 0 1 835593 
+86.229.57.29 0 1 112894 
+109.222.81.173 0 1 211529 
+80.215.129.233 1 1 13982 20180428195738
+194.187.170.114 18 18 239140 20180420212030
+176.167.117.147 0 1 66555 
+173.178.95.89 0 3 782265 
+182.71.118.18 11 11 38709 20180428183914
+102.157.45.201 0 3 2340891 
+173.252.92.114 1 8 1771188 20180429040211
+195.5.237.38 0 1 211529 
+81.82.55.18 2 2 5381 20180402175400
+195.201.33.253 1 27 775197 20180420223710
+5.44.168.119 2 2 5381 20180420092205
+45.33.105.70 1 1 133158 20180409231904
+137.45.172.147 0 1 128350 
+80.215.32.84 0 1 80290 
+196.178.139.160 0 1 132141 
+60.174.40.89 11 11 38709 20180428181134
+86.235.232.223 0 3 374475 
+78.37.240.31 2 2 5381 20180422115608
+195.54.40.224 4 4 10762 20180412061658
+82.67.132.8 0 1 145958 
+80.12.91.89 0 1 117402 
+221.10.230.228 8 8 28152 20180428182536
+109.0.219.55 0 1 117402 
+37.200.73.8 5 5 13292 20180426001635
+78.194.164.190 0 1 323521 
+193.221.117.7 0 2 342340 
+92.169.228.149 0 1 211529 
+2.1.254.8 0 1 220914 
+218.22.187.66 11 11 38709 20180428182640
+93.182.221.76 5 268 27295560 20180426120336
+176.215.62.223 2 2 5381 20180407133855
+159.203.81.93 1 1 4848 20180406041120
+182.137.14.72 1 1 3519 20180406044725
+46.138.22.22 2 2 5381 20180423081749
+80.13.33.19 0 33 2849351 
+94.19.11.171 2 2 5381 20180404033335
+92.154.95.236 3 3 58808 20180406171313
+118.179.255.49 0 1 78585 
+95.79.154.216 12 12 32286 20180410090000
+78.204.5.124 4 149 10755188 20180426133312
+195.91.198.3 2 2 5381 20180402211042
+178.161.163.238 2 2 5381 20180426105251
+193.191.216.75 0 1 601501 
+107.179.154.24 0 1 741047 
+173.252.92.119 1 13 1776170 20180429040206
+88.124.208.162 0 1 741047 
+80.12.63.100 0 1 220914 
+86.205.141.40 0 1 1110300 
+160.177.207.113 6 89 2189451 20180429192602
+160.177.17.8 4 100 3457995 20180402225828
+2.5.188.96 0 1 67870 
+92.243.181.46 4 4 10762 20180416192302
+92.184.105.139 4 139 12487839 20180430235536
+61.145.164.107 1 1 28333 20180412105301
+85.187.201.132 0 1 112894 
+217.64.110.226 0 1 1110300 
+185.228.230.29 4 93 2559208 20180429191541
+77.136.85.129 0 1 1110300 
+90.78.156.127 0 1 117402 
+218.31.142.233 2 2 6049 20180418053033
+79.84.129.101 0 1 495970 
+137.74.132.80 4 4 260309 20180430141616
+80.12.37.248 0 2 961961 
+176.51.99.248 2 2 5381 20180418024911
+217.136.96.186 0 1 741047 
+109.131.147.91 0 1 425701 
+193.201.224.32 2 2 163482 20180417041719
+167.114.82.126 1 1 2530 20180403143233
+178.94.13.15 2 2 280143 20180411150113
+148.252.129.208 0 1 187336 
+193.70.13.168 1 1 137794 20180407035749
+188.60.106.246 0 1 211529 
+88.175.171.135 0 1 170591 
+217.109.147.17 0 1 129144 
+138.197.7.88 21 41 861550 20180429093938
+82.216.159.54 0 1 1110300 
+218.200.61.170 11 11 38709 20180406044313
+194.181.28.242 0 1 85025 
+46.140.166.146 0 1 1110300 
+217.108.170.8 0 2 150650 
+60.174.130.19 11 11 38709 20180428175017
+90.19.233.86 0 1 1110300 
+90.3.179.224 8 346 34314672 20180412221105
+145.255.11.217 2 2 5381 20180408162237
+144.76.71.83 2 2 99983 20180402085300
+2.134.204.226 2 2 5381 20180411232709
+50.116.5.74 1 1 136046 20180409101449
+86.88.209.220 0 1 125213 
+118.144.88.132 11 11 38709 20180406043638
+85.145.11.167 0 2 320471 
+212.198.164.11 4 91 2537475 20180419042201
+93.188.37.229 18 18 665618 20180425073248
+94.210.93.177 0 2 142430 
+87.65.94.129 0 1 169306 
+146.120.211.9 6 6 16143 20180419100244
+66.249.80.38 2 31 679698 20180417055903
+207.134.157.133 0 1 78585 
+66.249.80.40 0 31 1082034 
+194.187.171.9 1 4 29792 20180419084443
+95.159.129.80 2 2 5381 20180403032037
+91.88.181.92 0 1 78585 
+81.49.155.45 0 1 84095 
+204.79.180.14 3 20 177740 20180428031542
+31.17.252.189 0 3 309148 
+194.187.171.125 0 1 3419 
+87.249.207.129 2 2 5381 20180406143340
+77.93.109.5 2 2 5381 20180414230107
+136.169.158.174 2 2 5381 20180427135022
+194.187.171.134 3 3 57972 20180430183727
+212.129.39.220 1 109 9004260 20180429200426
+173.178.93.138 4 125 7129246 20180414000300
+212.195.96.119 0 1 66555 
+93.188.39.163 8 8 290832 20180412202750
+194.187.171.159 1 1 19494 20180416114624
+45.33.44.185 1 1 142333 20180409142541
+90.45.82.110 0 1 125213 
+31.33.161.102 0 1 117402 
+90.91.222.216 0 1 103857 
+204.79.180.1 2 17 174450 20180428035306
+95.220.22.222 2 2 5381 20180420204238
+60.171.155.26 11 11 38709 20180406044358
+90.127.254.138 0 1 280868 
+94.29.126.33 2 2 5381 20180426215847
+78.156.252.140 2 2 5381 20180409181328
+83.202.252.147 1 1 19409 20180405105232
+86.195.47.27 0 1 741047 
+194.187.171.16 0 1 3419 
+146.185.223.150 1 1 132001 20180416014241
+197.15.235.6 4 78 1766591 20180421102322
+90.37.234.18 0 2 1231238 
+94.109.26.81 0 1 1110300 
+90.100.128.6 0 1 741047 
+195.43.70.227 2 2 5381 20180415171419
+90.89.238.24 0 1 80290 
+78.251.19.24 4 105 6948495 20180401205945
+204.79.180.13 2 19 160265 20180428095504
+88.184.22.3 0 1 1110300 
+83.196.97.149 0 1 87560 
+84.103.10.80 3 66 1861827 20180427212238
+79.90.128.2 0 3 263936 
+202.46.51.174 1 1 19724 20180413111947
+212.100.143.92 2 2 5381 20180403110447
+188.254.110.215 2 2 5381 20180419214732
+77.159.220.50 0 1 125213 
+194.187.171.102 1 2 23242 20180401201157
+86.193.129.76 13 460 44487927 20180423161533
+81.67.167.205 0 3 2393982 
+66.249.80.8 3 51 2562879 20180402071502
+182.75.82.90 1 1 3519 20180428182809
+196.75.43.160 0 1 100432 
+31.35.77.83 4 95 7733007 20180415235306
+109.188.64.73 2 2 5381 20180402194012
+85.68.11.20 0 1 125213 
+194.187.171.146 1 1 19693 20180426104655
+194.187.171.14 0 1 3419 
+83.206.250.153 0 1 84095 
+78.211.8.12 0 1 323521 
+94.181.161.107 0 1 542635 
+94.25.178.103 2 2 5381 20180415201927
+91.37.46.13 0 1 835593 
+37.44.44.224 4 4 10762 20180430061039
+204.79.180.5 0 15 200026 
+69.156.112.59 0 1 184349 
+194.187.171.117 0 1 3419 
+176.149.113.208 0 1 67870 
+91.161.88.176 23 498 31529366 20180418093930
+85.1.48.151 0 1 1110300 
+41.223.179.72 2 2 137979 20180419170435
+77.141.15.62 0 1 495970 
+70.54.155.224 0 1 97223 
+46.165.251.117 2 2 6049 20180401002035
+220.174.241.102 11 11 38709 20180428181744
+90.93.193.92 0 1 145285 
+154.70.92.47 0 1 239100 
+77.136.42.110 0 3 990643 
+213.5.29.128 2 2 5381 20180412234442
+77.136.16.44 0 1 145958 
+82.224.217.16 0 1 115266 
+204.79.180.15 0 17 138935 
+95.189.124.94 2 2 5381 20180405060143
+94.51.155.133 4 4 10762 20180409225640
+194.187.171.51 0 1 3419 
+90.91.104.252 1 1 13992 20180426083607
+86.236.102.52 0 2 1652935 
+90.189.251.89 2 2 5381 20180409042433
+92.252.173.184 2 2 5381 20180406132937
+83.201.244.157 0 1 1110300 
+88.160.30.62 0 1 82349 
+66.249.93.14 0 1 65291 
+128.93.0.141 0 1 124702 
+89.3.112.182 0 1 115745 
+189.218.29.193 0 2 170050 
+82.209.229.239 2 2 6049 20180403141950
+90.11.120.120 0 1 1110300 
+185.191.204.12 1 1 19567 20180403191126
+222.172.14.124 2 2 6049 20180411064053
+77.136.84.92 0 1 217015 
+85.69.243.131 5 234 21731438 20180430163526
+78.129.93.67 0 1 11542 
+84.52.98.181 1 1 2530 20180420124139
+194.187.171.123 1 1 19236 20180419154928
+188.254.126.114 2 2 5381 20180405204914
+93.185.29.202 2 2 5381 20180429130628
+46.229.170.197 4 4 538933 20180424060324
+79.87.152.175 9 318 31283243 20180426080907
+89.3.24.171 2 2 130863 20180427110924
+41.75.73.126 6 99 3987862 20180414171602
+204.13.201.137 1 1 138608 20180414121254
+79.140.21.97 2 2 5381 20180423092328
+92.156.247.145 0 1 741047 
+92.153.2.157 4 108 6782060 20180413090947
+82.244.133.90 0 1 112894 
+81.211.92.154 4 4 10762 20180418105043
+185.6.211.220 0 2 808588 
+80.214.24.201 0 4 400787 
+89.159.222.39 0 1 84095 
+24.122.86.117 6 248 21571859 20180416032745
+146.185.223.252 24 24 870913 20180423050442
+160.177.53.246 0 1 125213 
+220.165.149.168 1 1 28333 20180406040919
+185.89.217.227 0 1 206857 
+79.23.117.126 2 2 5381 20180402003939
+67.70.100.148 0 2 146455 
+61.178.160.83 11 11 38709 20180406042931
+86.245.127.176 0 1 741047 
+35.173.185.147 0 1 63432 
+132.219.146.171 0 1 112894 
+145.62.80.99 6 205 16619687 20180424193800
+94.26.165.201 2 2 5381 20180404231323
+78.229.112.152 0 1 161657 
+78.248.225.20 0 1 601501 
+5.137.176.201 2 2 5381 20180401095109
+82.193.131.158 2 2 5381 20180406160839
+176.143.57.244 0 1 66555 
+54.67.59.131 11 11 214912 20180430063919
+88.99.27.172 1 1 33888 20180402085349
+5.51.8.97 4 109 6902351 20180406121422
+109.208.20.93 0 1 1110300 
+85.26.235.66 2 2 5381 20180401130331
+93.88.109.14 0 1 741047 
+162.243.69.215 1 1 19577 20180406041117
+212.32.225.225 1 1 132615 20180425125007
+88.204.214.122 1 1 49701 20180407105047
+194.187.171.31 1 1 19298 20180416060057
+38.121.77.122 0 1 92417 
+213.24.127.96 2 2 5381 20180407190220
+13.56.12.103 2 3 139784 20180411081502
+60.170.31.2 11 11 38709 20180428180106
+92.184.97.123 0 4 2900686 
+90.65.89.109 4 151 11684579 20180403153239
+83.149.46.255 2 2 5381 20180402095419
+95.161.223.164 2 2 5381 20180426214905
+37.168.222.212 0 1 117402 
+178.75.86.59 2 2 5381 20180405054608
+77.144.147.51 0 1 112894 
+37.58.138.164 0 1 476353 
+54.146.205.232 1 1 9840 20180405014937
+83.156.94.73 0 1 1110300 
+173.179.237.71 5 154 10051150 20180411012514
+212.234.78.66 0 1 1311561 
+62.202.181.104 0 1 741047 
+92.160.11.124 0 1 169306 
+2.15.180.228 5 190 13173334 20180404150852
+138.197.111.48 2 31 245486 20180429111351
+62.242.206.105 0 1 125213 
+105.71.8.101 0 1 187336 
+218.4.214.115 11 11 38709 20180406041418
+118.121.38.89 1 1 3519 20180428173617
+91.237.150.1 4 4 10762 20180425150609
+77.34.10.29 4 4 10762 20180428013103
+51.39.212.147 0 1 143492 
+207.96.161.98 0 2 168190 
+176.135.213.109 0 1 117402 
+185.133.128.253 4 155 11520657 20180430091321
+81.57.175.244 0 1 1311561 
+176.192.76.138 2 2 5381 20180412041130
+173.252.92.113 1 44 6877478 20180429040209
+94.25.171.29 2 2 5381 20180403181814
+194.187.171.44 1 1 19646 20180411150154
+124.105.249.210 11 11 38709 20180428180409
+134.19.230.112 2 2 6049 20180427053125
+173.252.84.54 4 52 2422643 20180418102847
+41.229.113.2 0 1 78585 
+119.29.191.40 12 12 42228 20180428180457
+82.193.217.60 4 64 1121548 20180424093654
+196.171.156.111 0 1 37801 
+82.234.167.111 0 1 835593 
+192.0.86.145 0 1 67870 
+176.169.98.230 0 1 741047 
+194.187.171.103 0 1 3419 
+77.136.18.55 0 1 167767 
+176.146.212.22 0 1 112894 
+162.247.168.6 0 1 68232 
+92.90.16.59 0 1 117402 
+125.65.93.30 11 11 38709 20180422063141
+65.93.182.57 0 5 376131 
+95.30.25.24 2 2 5381 20180423001913
+37.173.57.90 0 1 1110300 
+217.118.90.62 2 2 5381 20180403111914
+78.217.160.38 0 1 84095 
+89.3.134.129 4 148 10244757 20180415154352
+109.7.116.6 0 2 205762 
+109.60.136.250 2 2 5381 20180406155952
+79.81.144.56 0 1 697213 
+176.170.92.181 5 141 10200325 20180426154800
+83.115.156.164 0 1 66555 
+94.25.178.4 2 2 5381 20180429205218
+79.23.112.191 2 2 5381 20180409005019
+154.121.6.1 0 2 130582 
+77.141.166.192 0 1 145958 
+221.212.58.242 2 2 7038 20180424055845
+85.68.228.111 0 1 1110300 
+128.72.76.67 2 134 10584414 20180419130546
+195.190.103.162 4 4 10762 20180417052142
+78.228.14.67 0 1 117402 
+202.46.58.88 1 1 19808 20180404101921
+2.93.203.181 2 2 5381 20180411194031
+197.9.174.88 0 1 31086 
+78.245.32.155 0 11 4141321 
+86.235.204.206 4 105 4321636 20180414231518
+95.73.100.77 2 2 5381 20180415053206
+217.128.73.198 0 1 1110300 
+77.144.34.43 0 1 84095 
+204.79.180.16 1 19 245103 20180427195909
+41.249.170.229 0 1 80290 
+95.183.45.241 2 2 5381 20180416205434
+81.240.185.210 0 1 100432 
+109.217.12.102 0 1 185631 
+195.101.149.68 4 151 13271867 20180416131643
+31.23.93.60 2 2 5381 20180411180345
+36.73.158.219 2 2 5381 20180419063544
+77.157.119.165 0 2 151088 
+95.18.89.115 0 2 535050 
+89.6.184.82 0 1 11365 
+58.216.199.229 11 11 38709 20180406043713
+95.176.22.24 0 1 117402 
+78.106.45.107 2 2 5381 20180401204522
+105.157.62.215 0 1 65554 
+41.228.246.14 0 1 280868 
+41.101.80.1 0 1 84095 
+90.127.247.245 5 172 16330973 20180414090027
+2.3.120.156 0 1 542635 
+62.177.43.154 10 10 26905 20180428054932
+84.18.120.81 1 1 2530 20180405203711
+73.64.166.40 0 1 49516 
+220.172.254.45 11 11 38390 20180428184935
+168.235.200.211 1 78 6861021 20180420071410
+37.173.24.37 0 1 323521 
+66.249.88.24 3 61 7904609 20180428013136
+137.74.114.163 4 4 559878 20180412141405
+2.139.223.250 10 336 36007114 20180409200132
+176.187.61.147 0 3 603407 
+66.249.88.142 3 80 4871603 20180428013331
+93.186.209.224 2 2 5381 20180418145919
+82.239.250.132 13 600 63469208 20180428125808
+86.193.133.36 0 1 741047 
+37.147.144.40 2 2 5381 20180425003049
+197.26.182.53 0 2 217197 
+61.136.81.234 11 11 38709 20180406041959
+109.203.109.210 9 9 819369 20180428075145
+74.14.60.104 0 1 741047 
+92.141.24.11 0 1 323521 
+217.128.57.232 0 1 1110300 
+82.228.127.55 0 1 237910 
+217.136.140.161 4 90 2163102 20180421234110
+83.222.212.225 6 6 16143 20180429104025
+174.205.1.54 0 1 117684 
+176.187.211.222 11 430 46177939 20180423194738
+129.205.138.194 1 1 43 20180403150217
+91.178.231.87 0 1 100432 
+204.79.180.18 0 24 161456 
+74.207.241.41 2 2 273317 20180409015729
+219.239.133.66 11 11 38709 20180428183439
+124.42.103.139 11 11 38709 20180424060851
+188.162.166.128 2 2 5381 20180430195645
+93.44.103.17 0 1 1110300 
+2.7.134.213 0 1 85025 
+90.12.188.113 0 1 123814 
+112.91.108.190 3 3 34382 20180428172314
+82.240.30.231 2 2 326224 20180412005627
+90.62.123.86 2 12 1581219 20180426151708
+80.82.234.134 10 463 46289786 20180412121401
+79.133.156.78 2 2 5381 20180407143649
+62.121.108.48 2 2 5381 20180421190744
+61.233.18.34 11 11 38390 20180428185032
+134.3.233.222 0 1 1110300 
+81.220.233.150 0 1 1110300 
+88.123.145.32 4 93 2646904 20180409134735
+37.169.220.254 0 1 76418 
+190.143.105.53 0 2 293589 
+194.187.171.54 0 2 6838 
+178.137.165.61 26 26 1430546 20180430060813
+54.210.125.58 6 6 77594 20180428011151
+80.214.123.48 0 1 117402 
+217.118.91.100 2 2 5381 20180430171127
+92.127.244.23 2 2 5381 20180408072247
+2.14.210.90 0 1 835593 
+222.124.128.202 2 2 6049 20180411074028
+80.12.34.251 3 57 1443114 20180411113428
+77.136.41.130 0 1 190346 
+82.114.228.214 2 2 5381 20180409171646
+79.80.72.65 0 1 80290 
+90.114.37.197 0 1 67870 
+60.174.92.50 11 11 38709 20180428172750
+93.9.244.124 0 1 1110300 
+212.175.77.165 2 2 5381 20180402015748
+94.25.170.7 2 2 5381 20180422182029
+188.187.180.51 2 2 5381 20180401172159
+92.160.215.250 5 140 11658190 20180404131044
+94.25.170.241 2 2 5381 20180429124009
+90.90.235.149 0 1 162649 
+90.76.131.226 4 140 11067843 20180409122234
+77.251.218.207 0 1 172668 
+85.113.55.213 2 2 5381 20180403190106
+37.110.107.141 8 63 673918 20180430190549
+78.235.236.162 0 1 67716 
+77.243.102.35 4 4 10762 20180414220540
+92.143.124.191 0 1 78585 
+173.230.156.123 1 1 127810 20180408224626
+83.219.136.234 2 2 5381 20180407182639
+46.235.158.196 11 11 1106171 20180425010903
+66.249.81.134 0 1 601501 
+78.238.188.103 0 1 67870 
+41.189.55.58 0 1 542635 
+80.12.33.73 0 1 741047 
+87.255.31.209 2 2 5381 20180429060139
+159.203.101.95 21 41 857904 20180426173545
+88.188.209.117 0 1 147631 
+197.45.161.241 2 2 6049 20180427044048
+88.173.19.25 0 1 542635 
+176.115.131.134 2 2 5381 20180429134417
+172.82.185.210 1 1 19581 20180401083928
+176.181.163.17 5 115 8635087 20180407004803
+78.231.172.151 5 158 12562827 20180422164809
+188.17.57.255 2 2 5381 20180426023656
+176.97.36.173 2 2 5381 20180405121238
+109.130.244.184 0 1 741047 
+193.201.224.193 1 1 0 20180409120709
+92.184.101.85 0 1 71443 
+82.138.199.174 0 1 302444 
+194.187.171.85 1 1 19782 20180423172308
+80.254.150.77 0 1 73339 
+113.83.124.113 0 1 161420 
+220.178.102.138 11 11 38709 20180428180200
+109.8.195.92 4 153 10854136 20180403115641
+138.118.6.39 11 11 38390 20180428184157
+37.59.35.77 2 2 276616 20180413102423
+95.73.129.144 2 2 5381 20180402023543
+91.219.101.137 2 2 5381 20180405095621
+78.227.83.191 0 1 1110300 
+86.233.212.62 0 1 1110300 
+139.5.22.48 0 1 132141 
+105.159.163.248 0 1 1110300 
+176.132.75.180 0 1 741047 
+46.0.199.125 4 4 10762 20180426074617
+218.75.90.46 11 11 38709 20180428173504
+89.82.80.179 5 95 3725821 20180406142135
+194.187.171.6 1 1 19644 20180410154607
+77.131.240.208 0 4 381414 
+194.15.117.19 2 2 5381 20180405065604
+82.225.192.249 1 9 122797 20180411190535
+79.173.127.28 2 2 5381 20180402071641
+194.187.171.46 0 1 3419 
+83.205.145.53 11 320 30437742 20180423204702
+82.236.156.132 0 1 1110300 
+2.60.61.76 2 2 5381 20180413080243
+221.231.112.66 11 11 38709 20180428183141
+78.101.4.159 0 1 85025 
+84.102.5.234 0 1 239100 
+109.194.115.235 4 4 10762 20180413204738
+89.28.163.171 2 2 5381 20180428081938
+109.252.57.21 2 2 5381 20180417225518
+145.62.80.97 11 318 35587298 20180425010915
+92.184.104.214 0 1 117402 
+86.165.108.219 0 1 85025 
+82.83.50.136 0 1 211529 
+85.26.52.59 0 1 1375033 
+145.255.3.251 2 2 5381 20180402130919
+194.187.171.191 1 1 19344 20180414141859
+217.21.226.228 1 112 8987404 20180418130050
+195.42.56.43 0 1 145958 
+109.132.187.185 0 1 117840 
+5.46.142.16 0 1 146554 
+94.25.169.231 2 2 5381 20180424174542
+85.246.5.74 0 1 54180 
+77.136.19.145 0 1 1110300 
+80.12.39.138 9 368 38732293 20180428094957
+92.170.25.104 0 1 542635 
+77.147.89.153 8 135 8301423 20180428023403
+176.31.104.175 1 1 134092 20180401222138
+78.241.175.64 0 1 133135 
+54.205.143.22 1 1 19734 20180423092400
+82.251.221.186 0 1 78585 
+83.134.243.126 0 1 741047 
+217.118.95.83 2 2 5381 20180426214554
+46.218.184.116 0 1 145958 
+125.67.235.220 11 11 38709 20180406044705
+138.197.7.44 21 41 861835 20180423173345
+149.154.213.51 0 1 162649 
+90.125.84.15 0 1 145285 
+77.82.149.146 10 10 26905 20180430212233
+218.28.50.51 11 11 38709 20180428175843
+80.12.33.0 4 122 7053444 20180426132012
+90.114.100.255 0 1 44121 
+185.2.124.114 2 2 5381 20180406113428
+79.113.212.94 2 2 5381 20180405103115
+86.245.39.163 1 114 10014658 20180429174914
+176.163.62.108 4 78 5856280 20180429202710
+220.178.26.20 5 5 17595 20180424060556
+77.37.207.127 26 26 69953 20180430142501
+37.170.239.214 0 1 78585 
+66.249.82.106 0 2 927917 
+212.227.221.39 1 1 141374 20180420133858
+204.83.95.97 2 2 5381 20180405040936
+194.187.171.24 0 1 3419 
+104.33.31.58 4 4 10762 20180429023848
+80.9.157.140 6 182 15162091 20180416013506
+41.250.129.136 0 1 1110300 
+82.127.21.70 0 2 890853 
+89.156.181.225 11 345 30366882 20180424235704
+194.187.171.249 1 2 23116 20180408121546
+176.160.249.78 4 153 12571938 20180408103809
+184.94.240.92 13 13 854809 20180417011707
+77.50.164.206 2 2 5381 20180419155333
+77.222.117.11 2 2 5381 20180415040045
+194.187.170.116 18 18 239242 20180417151700
+202.46.57.167 1 1 19565 20180414041158
+176.115.121.13 8 8 21524 20180424072612
+92.171.247.84 19 488 51977044 20180414141917
+24.99.21.115 0 1 161420 
+52.25.38.165 1 1 8511 20180404040121
+185.198.167.30 1 1 19596 20180404164803
+109.86.115.141 16 16 48342 20180428221409
+82.230.10.201 0 4 2177265 
+37.147.152.62 4 4 10762 20180402050617
+54.224.54.174 1 1 19949 20180411001605
+199.19.249.196 1 1 137961 20180412080644
+2.12.207.253 0 1 64663 
+86.192.63.116 0 1 542635 
+89.3.117.114 13 595 62872524 20180430195500
+64.233.173.149 1 72 7105374 20180412090716
+5.48.102.93 4 141 11070084 20180430202043
+88.187.133.3 7 77 7467904 20180418132922
+88.127.44.238 0 1 1110300 
+204.79.180.9 1 26 145407 20180427202942
+212.164.162.192 2 2 5381 20180429011403
+90.25.111.161 0 1 211529 
+109.252.90.193 2 2 5381 20180412235001
+64.233.173.147 2 84 6774637 20180412090728
+194.187.171.92 1 1 19596 20180417132952
+158.69.241.150 1 1 139725 20180421210316
+176.155.174.116 0 1 122199 
+78.211.173.26 0 1 1110300 
+46.119.118.96 23 23 1265483 20180430233258
+131.253.25.75 1 13 151932 20180426063217
+90.31.166.250 0 1 66555 
+80.11.230.8 0 5 655230 
+5.187.35.219 11 559 57948512 20180413104853
+213.41.121.116 0 2 1652935 
+105.107.159.225 0 2 135432 
+176.178.76.14 0 1 59416 
+222.42.148.60 11 11 38390 20180428184049
+83.113.235.116 10 451 49393737 20180406203242
+154.126.75.133 0 1 165760 
+83.220.239.217 2 2 5381 20180408200823
+194.187.171.18 0 1 3419 
+95.104.61.154 2 2 6049 20180407021322
+90.3.226.157 4 81 4128582 20180415222935
+86.195.5.46 8 339 34097327 20180418170011
+85.237.61.86 2 2 5381 20180406033047
+166.62.90.110 1 1 137554 20180413025127
+173.252.84.56 0 18 1274805 
+200.43.234.138 2 2 6049 20180418005207
+66.249.93.38 0 2 391391 
+81.250.138.175 0 1 115745 
+86.229.28.0 0 1 80290 
+77.136.16.77 14 435 42110661 20180430220724
+92.130.92.182 4 89 10928705 20180426091254
+66.102.6.170 0 39 5425530 
+182.232.47.255 2 3 630027 20180415164919
+81.30.195.94 2 2 5381 20180402090851
+220.164.2.76 11 11 38709 20180428182908
+92.154.9.81 4 110 6957878 20180424102106
+114.119.10.171 3 3 10557 20180428173852
+95.73.198.231 2 2 5381 20180408221413
+213.41.144.212 0 1 11365 
+221.224.114.229 11 11 38709 20180428173721
+109.26.209.87 0 2 407616 
+82.251.207.233 5 276 27532408 20180430164139
+91.163.216.99 0 1 8961 
+194.187.171.38 1 1 19657 20180413224702
+197.50.72.188 2 2 6049 20180414061918
+77.154.204.41 0 1 117402 
+37.146.1.154 2 2 5381 20180418204314
+68.233.178.82 0 1 773617 
+54.91.1.3 1 1 7061 20180419182439
+185.124.153.168 8 8 21524 20180412201530
+185.48.252.202 0 1 125213 
+90.62.146.67 0 1 601501 
+194.187.171.126 0 1 3419 
+222.92.204.50 11 11 38709 20180406041550
+223.241.247.6 11 11 38709 20180428175111
+86.194.166.83 0 1 1110300 
+81.80.53.241 0 1 112894 
+82.216.148.51 0 1 164726 
+89.28.163.189 2 2 5381 20180430085736
+62.4.90.4 0 1 108331 
+176.191.252.25 0 1 187336 
+81.130.96.135 0 1 741047 
+81.53.30.1 0 2 1482094 
+116.1.1.165 11 11 38390 20180428185120
+183.22.30.1 0 1 125213 
+90.66.25.169 0 19 29639302 
+131.253.25.82 0 14 88384 
+195.16.58.54 6 6 16143 20180412091737
+89.157.26.215 0 1 112894 
+109.200.101.222 2 2 5381 20180405083330
+192.155.81.239 1 1 134824 20180409062309
+92.167.137.60 0 1 78585 
+5.136.166.238 4 4 10762 20180425064849
+210.21.86.253 6 6 18147 20180414064839
+78.232.212.173 1 32 4890894 20180424142021
+213.251.212.12 6 6 16143 20180426155506
+84.96.36.195 0 1 683726 
+91.160.79.202 6 313 33374129 20180430161308
+94.61.123.25 0 3 394017 
+95.47.252.242 2 2 5381 20180418120818
+194.187.171.69 0 1 3419 
+222.217.221.179 2 2 6049 20180414052235
+46.118.114.175 23 23 1265483 20180430074637
+109.233.213.134 2 2 6049 20180410212748
+37.139.98.188 2 2 5381 20180424113917
+146.185.223.143 16 16 581664 20180413002312
+64.246.165.10 1 1 19552 20180409064351
+84.22.158.215 2 2 5381 20180409035011
+82.149.218.246 2 2 5381 20180412180249
+62.161.8.222 0 1 85025 
+192.54.145.66 0 1 145285 
+196.217.97.47 0 1 1110300 
+79.176.91.53 0 1 1110300 
+5.48.68.163 0 1 697213 
+5.168.75.194 0 1 125213 
+5.142.58.165 4 4 10762 20180412013214
+1.46.161.246 0 1 442722 
+86.217.181.119 4 92 3711407 20180430183916
+109.1.119.102 0 1 122199 
+154.0.26.179 0 1 125213 
+90.49.121.69 4 108 6781861 20180420215615
+90.9.235.19 0 1 84095 
+31.181.232.219 2 2 5381 20180406193353
+77.132.18.40 0 1 407837 
+83.220.94.53 2 2 5381 20180412010740
+160.168.37.161 0 1 125213 
+82.121.19.105 4 119 9299079 20180424154153
+2.15.178.65 0 1 323521 
+92.243.167.171 2 2 5381 20180430222825
+92.184.97.21 0 1 1110300 
+193.252.8.102 0 1 67870 
+86.228.8.222 4 147 11178296 20180408202819
+94.180.114.243 4 4 10762 20180417172517
+91.229.111.51 6 6 16143 20180424211500
+31.13.114.52 0 9 2118195 
+92.130.179.47 5 181 14237435 20180401075605
+92.152.232.244 0 1 1110300 
+218.63.208.110 11 11 38709 20180428174104
+84.100.153.221 0 1 146091 
+86.203.3.214 7 240 25009081 20180408222222
+94.100.88.238 4 4 10762 20180417000654
+46.52.255.18 2 2 5381 20180423071852
+176.179.157.38 0 1 11365 
+37.175.88.108 0 1 1110300 
+78.237.50.231 0 2 1652935 
+2.10.35.126 0 3 1778356 
+178.34.96.152 2 2 5381 20180422235612
+90.63.255.47 5 99 7560609 20180425161100
+85.93.58.228 2 2 5381 20180421154246
+202.46.58.192 1 1 19642 20180417233515
+185.59.58.48 2 2 5381 20180430205033
+95.24.101.41 2 2 5381 20180402225446
+204.79.180.11 0 20 102786 
+80.215.101.8 0 1 542635 
+194.187.171.147 0 1 3419 
+37.76.129.227 2 2 5381 20180411111807
+220.177.50.195 12 12 67042 20180402024313
+92.155.201.142 0 1 835593 
+51.254.208.48 15 15 2083523 20180413203606
+185.12.68.87 2 2 5381 20180406081824
+81.220.4.27 10 502 53006493 20180412151452
+131.253.25.67 1 19 148006 20180428053728
+131.253.25.73 0 10 51469 
+91.178.84.9 0 1 187336 
+46.241.107.148 4 4 10762 20180416081355
+18.228.15.157 1 1 19307 20180404074247
+178.151.142.134 6 6 16143 20180417001238
+66.249.93.16 0 3 1290146 
+91.207.136.213 4 4 10762 20180430160940
+217.118.91.105 2 2 5381 20180412204448
+194.187.171.149 1 1 19368 20180424120414
+162.38.226.49 0 1 1110300 
+88.120.69.40 0 13 17927325 
+52.90.223.88 4 4 57814 20180427171600
+90.63.166.192 0 26 1575825 
+91.230.153.191 2 2 5381 20180403231745
+88.190.216.12 0 1 85116 
+84.103.49.23 0 2 2220600 
+80.12.33.39 1 103 8895680 20180427133525
+78.123.3.118 4 151 10919328 20180404230447
+82.124.190.178 0 1 78585 
+83.152.100.66 0 1 1110300 
+201.199.101.3 0 1 190346 
+185.29.10.243 15 15 185383 20180424090223
+45.33.38.201 1 1 132572 20180409185128
+86.223.93.244 2 46 391392 20180406104118
+197.255.230.14 0 1 84095 
+217.107.127.156 6 6 16143 20180413234448
+83.202.105.205 0 1 117402 
+176.179.161.165 0 1 117402 
+83.113.171.97 0 3 1586100 
+206.167.44.31 0 2 393803 
+92.184.104.96 0 1 67870 
+194.187.171.30 1 1 19539 20180422192218
+195.9.189.190 10 10 26905 20180428220535
+194.206.152.33 1 111 9509566 20180420110109
+88.200.215.92 2 2 5381 20180415175158
+77.136.82.137 5 78 4384767 20180414181823
+41.235.179.49 0 1 187336 
+78.37.210.37 2 2 5381 20180409221708
+31.35.50.255 0 2 1217461 
+46.226.129.22 0 1 122199 
+90.24.57.4 0 1 220914 
+204.79.180.3 1 23 197516 20180423062334
+107.197.50.130 0 1 786727 
+62.133.162.26 2 2 5381 20180421033603
+80.12.37.187 0 1 601501 
+178.57.100.25 2 2 5381 20180411230410
+2.61.147.219 2 2 5381 20180402180853
+90.114.60.219 0 1 112894 
+54.226.27.176 3 3 41121 20180428035632
+194.187.171.118 0 1 3419 
+176.140.100.152 8 318 30105489 20180417061819
+66.249.80.42 0 29 907299 
+80.214.112.215 5 287 28989210 20180419191110
+109.132.56.215 0 2 134975 
+185.90.171.210 0 1 1110300 
+77.50.89.150 2 2 5381 20180427032518
+52.41.115.102 4 4 37647 20180406133350
+91.76.187.114 4 4 10762 20180425184135
+178.248.254.70 4 153 10802623 20180407061252
+77.136.19.55 0 2 1207480 
+94.75.140.37 2 2 5381 20180407045842
+185.46.197.27 4 4 10762 20180418065317
+194.187.171.168 0 1 3419 
+134.214.254.148 0 1 31086 
+131.253.25.95 1 11 118877 20180424005046
+178.18.58.206 0 1 145958 
+92.184.102.235 0 1 84095 
+85.234.121.33 4 4 10762 20180419225203
+41.248.149.228 0 1 254036 
+77.146.40.208 0 1 251919 
+91.147.53.255 2 2 5381 20180407011324
+196.217.58.20 1 31 458597 20180421000224
+93.185.28.6 2 2 5381 20180427050645
+83.153.171.169 1 108 8537288 20180411170903
+2.15.39.227 0 1 220914 
+86.243.175.196 0 1 323521 
+86.236.220.31 2 98 8347394 20180403232457
+67.234.102.100 1 1 49701 20180403180035
+204.79.180.17 0 25 156828 
+54.82.65.209 2 2 30491 20180428082335
+92.184.100.143 5 74 3392760 20180401174344
+88.180.11.102 0 1 117402 
+112.207.232.149 2 2 5381 20180430114508
+213.208.162.82 8 8 21524 20180429142916
+218.201.83.148 12 12 67042 20180424053858
+66.249.89.15 0 2 1482094 
+37.216.15.201 0 1 239100 
+176.168.128.187 0 1 1311561 
+1.46.72.102 9 121 8914623 20180415164551
+88.167.143.69 0 1 65291 
+122.227.62.206 11 11 38709 20180428180721
+83.137.1.196 0 1 211529 
+188.16.123.5 2 2 5381 20180409013147
+122.160.234.118 6 6 21114 20180406041747
+94.228.201.198 4 4 10762 20180411102859
+78.197.22.13 0 1 164726 
+188.115.64.24 0 1 125213 
+89.92.100.45 4 80 3913359 20180428100456
+81.27.79.18 11 11 38709 20180428172512
+92.143.208.69 0 1 211529 
+108.250.184.220 4 4 10762 20180428195047
+66.87.148.243 0 1 211529 
+88.183.18.69 1 1 135380 20180414102722
+197.1.107.7 0 1 117840 
+85.21.8.19 8 8 21524 20180428033416
+193.48.4.6 8 300 15802081 20180425165545
+222.218.17.80 11 11 38390 20180428185232
+90.118.183.10 0 1 112894 
+2.5.117.135 0 3 430152 
+194.187.171.75 1 1 19354 20180408202634
+109.22.156.113 0 2 209308 
+91.161.155.63 0 1 117402 
+95.73.13.83 2 2 5381 20180427002509
+77.154.193.57 0 1 1110300 
+92.127.246.156 4 4 10762 20180427041113
+112.2.52.115 11 11 38709 20180406042610
+176.88.27.42 0 1 741047 
+212.19.8.179 4 4 10762 20180426030631
+78.202.184.203 4 79 1567855 20180422100702
+66.249.88.143 3 58 5116952 20180428013328
+204.79.180.7 0 14 137538 
+41.39.71.154 11 11 38709 20180428173943
+41.228.218.128 0 1 280868 
+176.178.76.12 0 1 53460 
+88.183.135.245 0 1 15254 
+80.86.123.13 0 1 1110300 
+188.235.104.84 6 6 16143 20180427150006
+92.184.101.82 1 1 19468 20180415231429
+86.238.82.158 4 109 4275245 20180429102703
+66.249.80.10 0 66 7183807 
+91.69.12.126 0 1 68856 
+92.132.112.201 0 1 1110300 
+5.79.173.142 2 2 5381 20180407041054
+86.222.230.212 20 432 42416076 20180403151509
+66.249.88.22 2 55 3813385 20180428013120
+84.140.56.235 0 1 49516 
+178.236.248.7 2 2 5381 20180405150916
+176.209.172.198 2 2 5381 20180428162426
+37.144.193.19 2 2 5381 20180408035645
+204.79.180.22 2 44 351606 20180427203027
+204.79.180.0 0 24 205808 
+77.152.102.34 0 1 67870 
+131.253.25.74 0 10 114572 
+131.253.25.93 0 10 51631 
+78.241.134.92 0 1 741047 
+46.172.192.233 2 2 5381 20180403162943
+92.90.20.123 6 62 1742673 20180429003419
+34.216.77.31 1 1 8512 20180415034250
+24.200.174.243 4 159 13999346 20180422035304
+60.172.69.66 9 9 31671 20180424054928
+176.128.59.156 0 1 1110300 
+213.245.19.147 0 1 132141 
+194.187.171.42 1 1 19687 20180429202618
+82.224.185.55 0 1 1311561 
+114.44.38.157 0 1 90937 
+179.156.180.143 2 2 5381 20180430053205
+87.65.218.45 0 3 782265 
+52.23.188.221 2 71 5677279 20180409110926
+217.118.93.136 2 2 5381 20180412182734
+176.133.61.2 0 1 211529 
+106.8.218.143 3 3 12354 20180425034553
+78.115.127.89 0 1 169306 
+77.144.248.43 7 236 21997971 20180408164922
+82.240.28.95 2 2 329993 20180414063928
+194.187.171.108 0 1 3419 
+185.235.130.117 1 1 1173 20180404213132
+82.233.152.35 0 1 1110300 
+90.79.224.150 3 63 727852 20180416222158
+86.205.118.187 0 1 37801 
+220.191.249.1 1 1 28333 20180415105201
+66.102.6.166 2 47 1905192 20180428151936
+81.194.34.138 0 1 90934 
+54.175.129.53 6 6 61216 20180427202505
+92.184.105.4 8 409 45077347 20180424173036
+77.154.204.155 0 1 78585 
+90.10.243.100 0 1 1498902 
+213.87.102.92 4 4 10762 20180408111030
+178.68.180.45 2 2 5381 20180417005512
+88.189.43.95 0 6 563467 
+5.45.75.6 1 1 137909 20180421100842
+111.9.116.50 4 4 14076 20180428173308
+51.15.69.41 1 1 19394 20180422012945
+78.126.100.102 0 1 84095 
+84.4.235.112 0 2 1331214 
+78.156.247.109 2 2 5381 20180416132243
+196.22.241.186 1 1 3519 20180406042816
+52.27.2.86 5 5 567147 20180416144647
+91.140.101.9 2 2 5381 20180422180408
+86.85.208.3 0 1 239687 
+77.136.18.10 1 1 19464 20180401130732
+37.173.83.65 4 60 1379267 20180405221907
+204.79.180.4 0 19 167227 
+84.22.137.57 2 2 5381 20180403034717
+78.46.90.120 1 1 137653 20180402085349
+194.187.171.212 0 1 3419 
+213.87.152.43 2 2 5381 20180426095210
+194.154.70.150 4 4 10762 20180423225552
+194.187.171.167 0 1 3419 
+31.185.11.200 2 2 5381 20180415094040
+83.220.93.218 2 2 5381 20180415050037
+185.12.2.162 0 1 66555 
+212.198.232.231 1 110 9136594 20180426112442
+82.125.86.87 5 172 13559523 20180409094126
+165.225.76.193 2 140 13879285 20180425114439
+80.215.95.135 7 361 34209118 20180424202042
+82.239.219.8 0 1 80290 
+109.252.90.44 2 2 5381 20180405131631
+66.249.89.38 1 1 19566 20180409110846
+89.95.3.85 4 161 12140207 20180403122927
+91.161.81.7 0 2 1207480 
+92.184.101.66 0 1 71443 
+83.196.102.215 0 1 66555 
+91.176.17.80 4 144 11907027 20180404211755
+217.15.151.236 4 4 10762 20180405074231
+37.170.205.150 0 1 323521 
+80.215.138.148 0 1 66555 
+85.115.224.200 2 2 5381 20180427231220
+173.252.84.58 0 24 1391876 
+148.251.75.46 2 2 133023 20180402085350
+50.112.194.65 1 1 132419 20180414121547
+109.8.35.122 0 1 84095 
+81.30.217.84 4 4 10762 20180423151154
+86.217.75.59 0 1 741047 
+36.84.65.42 2 2 5381 20180408091036
+212.12.30.148 4 4 10762 20180421101848
+37.175.131.189 4 168 13264409 20180412093932
+76.68.157.40 0 1 1110300 
+114.73.247.226 0 1 92417 
+204.79.180.12 1 13 91067 20180408034958
+197.255.192.175 11 11 38709 20180428180030
+194.187.171.188 1 1 19610 20180409115849
+80.200.198.74 11 482 49072526 20180401182440
+78.29.68.124 2 2 5381 20180428161703
+200.68.129.162 0 1 11365 
+188.60.98.4 0 1 84095 
+77.149.26.166 0 1 96359 
+60.249.11.127 7 7 24633 20180406042417
+31.13.114.55 0 13 2614160 
+194.187.171.10 1 1 18969 20180405201320
+80.215.101.53 0 1 66555 
+80.12.250.10 0 1 741047 
+194.0.52.2 2 2 5381 20180412000237
+176.187.215.61 0 1 220914 
+218.22.206.178 1 1 3519 20180428180054
+85.207.23.41 0 1 145285 
+90.100.58.78 0 1 217015 
+5.142.232.110 2 2 5381 20180429192109
+138.197.13.94 21 41 861975 20180426171109
+109.252.83.8 2 2 5381 20180416104754
+160.176.234.3 0 1 80290 
+61.147.197.133 11 11 38709 20180424055057
+77.136.15.54 5 278 27820022 20180402110455
+93.26.230.236 4 139 10721690 20180405132406
+66.249.82.104 0 1 605849 
+176.181.186.83 0 1 1110300 
+86.237.134.90 0 1 128350 
+66.102.6.168 0 42 1940430 
+173.255.241.101 4 4 540208 20180420161203
+90.118.219.49 0 1 84095 
+88.160.164.112 0 1 84095 
+176.142.32.125 2 131 11758155 20180422101828
+135.19.121.150 0 1 100432 
+92.188.71.77 0 2 1207480 
+78.196.11.76 0 1 542635 
+88.147.202.33 4 4 10762 20180419055638
+176.175.3.47 0 1 203114 
+95.168.19.123 0 2 961961 
+105.67.3.57 0 1 1110300 
+176.136.146.220 0 1 73339 
+81.57.206.233 4 136 9236675 20180417154645
+109.131.33.124 0 1 128350 
+131.253.25.88 1 12 146073 20180426194329
+188.170.193.32 2 2 5381 20180417084013
+76.68.188.56 0 1 741047 
+91.211.39.72 4 4 10762 20180420170525
+109.213.189.245 1 27 358096 20180413132735
+151.251.17.31 0 1 42554 
+86.243.165.147 8 314 31806927 20180417215358
+82.246.139.138 8 348 40321766 20180430160712
+193.201.224.195 1 1 0 20180412195847
+78.247.66.5 0 2 714395 
+104.236.199.171 1 1 19311 20180421151820
+184.151.111.139 0 1 125213 
+142.169.78.122 0 1 67716 
+77.136.86.13 0 1 1110300 
+64.215.22.85 0 1 254036 
+109.62.92.25 0 2 230007 
+90.112.8.140 0 1 542635 
+5.138.181.103 2 2 5381 20180427223120
+90.46.84.143 0 1 211529 
+37.173.49.244 5 234 22926551 20180430174821
+112.27.128.13 11 11 38709 20180406042832
+86.242.21.30 3 60 1447620 20180426213456
+82.114.236.179 2 2 5381 20180418160229
+146.120.223.175 2 2 5381 20180417193708
+195.64.206.254 2 2 5381 20180417084956
+80.118.153.43 0 1 128350 
+109.197.194.109 8 8 21524 20180430100734
+92.184.97.98 0 2 146455 
+88.138.76.168 1 2 159394 20180418164130
+210.110.153.121 2 2 6067 20180426151747
+105.139.107.163 0 1 132141 
+41.202.207.5 0 1 112894 
+194.187.171.213 0 1 3419 
+94.25.169.162 2 2 5381 20180420120845
+81.242.137.167 0 1 1110300 
+5.136.173.158 2 2 5381 20180405070933
+213.24.132.38 2 2 5381 20180417030525
+31.35.27.132 0 2 2034630 
+80.12.34.119 14 525 51138218 20180423174147
+92.153.97.246 0 1 85340 
+92.184.96.115 0 4 603918 
+95.29.183.25 2 2 5381 20180403180200
+92.153.68.231 0 2 833764 
+66.249.88.26 0 55 2090444 
+84.52.194.143 0 1 103874 
+91.243.97.110 2 2 5381 20180416104850
+88.166.178.169 0 1 741047 
+218.201.79.71 11 11 38709 20180406044542
+91.109.148.241 2 2 5381 20180417091121
+77.136.19.176 8 539 58492920 20180426214909
+41.74.211.154 0 1 59174 
+46.163.128.26 8 8 21524 20180428183236
+89.82.91.231 0 1 1110300 
+208.80.194.35 0 1 100665 
+90.3.133.131 0 1 323521 
+86.219.111.51 0 1 187336 
+76.71.49.104 0 1 85025 
+95.25.199.85 2 2 5381 20180412232047
+88.179.140.27 0 1 741047 
+217.128.41.216 0 1 217015 
+217.118.79.22 2 2 5381 20180418042630
+80.12.27.171 0 1 125213 
+204.79.180.21 1 52 363508 20180426072814
+87.255.2.216 2 2 5381 20180407234939
+95.165.132.221 2 2 5381 20180423095241
+194.187.171.48 0 1 3419 
+78.212.57.96 0 1 187336 
+118.113.209.67 0 1 85025 
+83.167.101.207 4 4 10762 20180421190752
+141.134.157.230 0 1 125213 
+46.149.34.245 2 2 5381 20180423181818
+81.254.228.39 0 1 71443 
+13.56.249.183 4 48 432205 20180411083553
+145.255.28.136 2 2 5381 20180408103248
+99.203.31.167 0 1 92417 
+90.23.11.43 0 2 1225143 
+82.242.119.191 0 9 1965272 
+184.148.3.116 0 1 85025 
+91.228.65.207 6 6 16143 20180416104113
+90.119.158.85 0 1 741047 
+90.101.99.237 0 1 1110300 
+179.7.193.183 0 1 1498902 
+131.253.25.72 0 15 72828 
+204.79.180.8 0 20 107036 
+80.215.170.176 0 7 520923 
+37.201.4.19 0 1 203114 
+77.154.204.136 0 1 323521 
+41.82.102.204 0 1 1110300 
+37.111.205.93 1 35 3088680 20180410163140
+82.113.30.123 0 1 125213 
+63.250.204.22 0 1 59416 
+88.177.181.246 0 1 1110300 
+46.250.74.46 2 2 5381 20180423151200
+82.123.67.147 0 1 1110300 
+66.249.80.6 1 44 2363635 20180402071502
+131.253.25.76 0 21 139091 
+94.180.115.153 10 10 26905 20180430051347
+218.32.96.91 1 1 28333 20180422062729
+86.249.236.76 5 151 10857958 20180427113346
+88.207.169.185 0 1 1311561 
+89.151.179.163 2 2 5381 20180410204012
+204.79.180.20 0 20 98357 
+185.89.217.163 0 1 835593 
+82.244.97.242 0 2 1178170 
+195.81.64.102 11 11 38709 20180406043416
+80.14.124.87 0 1 184349 
+77.136.18.69 12 338 29297684 20180430054951
+78.209.126.117 0 2 289450 
+95.171.1.103 2 2 5381 20180417162529
+194.187.171.139 1 1 19484 20180408161026
+81.50.155.209 0 1 117402 
+178.62.99.175 1 1 19532 20180416160906
+172.105.215.38 1 1 19813 20180419153139
+86.62.76.100 8 8 21524 20180419023743
+154.127.32.10 0 1 66555 
+85.143.128.174 2 2 5381 20180402055749
+78.129.112.145 0 1 162649 
+194.187.171.218 0 1 3419 
+88.191.30.219 0 1 78585 
+92.136.32.38 0 1 125213 
+172.58.67.119 0 1 117402 
+131.253.25.78 0 1 402 
+77.136.203.203 0 1 67612 
+84.97.152.51 0 1 1110300 
+188.162.229.86 4 4 10762 20180404034426
+178.34.150.144 2 2 5381 20180429121121
+5.165.49.205 2 2 5381 20180419001709
+94.25.169.87 2 2 5381 20180417115402
+90.58.88.167 0 1 117402 
+88.190.158.242 0 1 741047 
+132.255.214.63 1 1 3519 20180428182805
+64.233.173.141 3 87 4865739 20180428163415
+37.174.201.33 0 1 160072 
+181.115.10.72 2 2 133173 20180417042044
+37.58.174.75 0 1 125213 
+173.252.84.59 0 36 3273063 
+37.142.237.214 2 2 5381 20180405155759
+109.210.228.37 0 1 1110300 
+212.237.53.217 4 4 354348 20180417032154
+37.115.185.9 17 17 935357 20180430223504
+5.165.204.61 2 2 5381 20180419174605
+31.41.89.10 2 2 5381 20180401225027
+82.253.124.156 4 109 6960992 20180426000228
+195.9.165.232 12 12 32286 20180429133505
+218.201.14.134 4 4 14076 20180428172946
+175.152.30.207 1 1 19607 20180402030245
+105.153.204.227 0 1 91984 
+194.187.171.60 1 1 19288 20180417220455
+81.65.169.198 0 1 1110300 
+194.187.171.22 1 1 19509 20180408082527
+91.160.110.152 0 1 601501 
+176.209.182.36 2 2 5381 20180408124801
+77.136.14.135 0 3 232255 
+81.56.35.121 0 1 170591 
+58.222.105.114 2 2 6049 20180407014840
+105.154.12.4 0 1 122199 
+194.187.171.12 1 1 19484 20180412140550
+92.141.218.54 0 1 1110300 
+52.53.240.251 18 18 105576 20180411083611
+145.242.20.219 0 1 78585 
+92.136.90.249 0 1 237910 
+149.154.217.148 5 146 10866993 20180418125150
+105.101.200.142 0 1 84095 
+82.230.21.155 0 1 123814 
+217.67.157.46 0 4 3148261 
+93.185.26.198 2 2 5381 20180408220047
+96.9.79.140 1 1 43 20180403150312
+112.209.195.20 8 8 21524 20180423152437
+173.252.84.55 0 19 2177729 
+110.249.218.69 11 11 38709 20180406041254
+109.229.10.210 2 2 5381 20180428010718
+86.220.89.66 0 1 139723 
+2.7.33.29 0 1 254036 
+95.83.189.154 2 2 5381 20180429111718
+213.87.131.220 2 2 5381 20180422182215
+82.247.205.82 0 1 117402 
+95.24.31.178 4 48 429198 20180417114133
+176.57.76.18 2 2 5381 20180419200904
+194.187.171.23 1 1 19302 20180405202219
+213.211.136.13 4 51 706452 20180416120302
+85.192.188.201 1 1 2530 20180411063419
+193.190.64.17 0 1 102881 
+54.160.200.133 1 1 19711 20180418230826
+79.179.134.35 4 153 12316020 20180419071945
+190.147.53.89 0 1 85696 
+82.241.58.117 0 1 601501 
+88.188.32.197 0 1 117402 
+77.43.205.131 2 2 5381 20180409080411
+212.234.238.211 4 108 6782060 20180404172247
+151.77.26.222 0 1 125213 
+194.187.171.182 1 1 19462 20180416184555
+86.204.168.183 0 1 84095 
+193.248.202.196 0 1 67870 
+77.133.206.126 0 1 125213 
+211.141.155.131 11 11 38709 20180428175320
+188.162.229.192 2 2 5381 20180411021546
+82.123.50.27 0 1 1674136 
+194.187.171.245 1 1 19836 20180406170801
+204.79.180.19 1 16 234927 20180426124557
+176.74.15.2 2 2 5381 20180403151526
+83.155.49.67 0 1 102881 
+78.212.58.44 0 1 323521 
+144.217.66.151 8 8 875274 20180422094019
+204.79.180.6 0 17 184689 
+54.166.45.121 1 1 18854 20180423092709
+218.64.63.195 11 11 38709 20180428174427
+91.160.209.1 4 156 9399949 20180404192423
+80.215.180.3 3 99 7253640 20180423185516
+109.30.40.23 0 1 160072 
+196.75.36.109 0 1 224293 
+194.187.171.163 0 1 3419 
+109.74.53.115 0 1 741047 
+194.9.236.76 2 2 5381 20180410215155
+24.186.72.93 0 1 672609 
+105.154.76.134 5 5 59656 20180425190448
+212.83.171.240 1 1 19562 20180430085342
+23.239.20.27 1 1 137743 20180409040239
+2.13.86.2 0 1 117402 
+78.192.230.226 0 1 66555 
+88.163.132.162 0 1 203114 
+204.79.180.10 0 21 178354 
+209.59.122.203 1 1 3519 20180424055221
+90.90.243.142 4 91 5393331 20180415013035
+160.242.192.120 2 2 140699 20180418112150
+128.74.178.228 2 2 5381 20180405053831
+34.234.64.189 1 1 19107 20180427132038
+194.187.171.131 1 1 19547 20180423193827
+93.179.68.180 2 4 40226 20180406000409
+94.103.208.29 0 4 418253 
+178.185.0.173 2 2 5381 20180408062424
+90.3.107.192 0 1 1311561 
+37.175.205.70 0 2 151965 
+176.197.163.250 8 8 21524 20180422002900
+193.201.224.243 1 1 134598 20180413125333
+62.183.124.119 2 2 5381 20180410210353
+90.108.200.85 0 1 66555 
+52.200.221.20 3 3 355420 20180416144735
+77.136.86.78 6 209 20436223 20180413093652
+91.197.47.19 0 1 542635 
+81.250.131.162 0 1 741047 
+131.253.25.79 0 10 107347 
+162.156.219.202 0 1 178948 
+82.236.99.72 0 1 741047 
+37.72.224.174 0 1 67870 
+164.132.170.131 1 1 19495 20180429184126
+221.193.236.174 11 11 38709 20180424055802
+92.184.105.144 0 1 78585 
+194.187.171.222 0 1 3419 
+91.69.51.49 0 1 117402 
+162.158.64.76 0 1 84095 
+223.220.248.78 11 11 38709 20180428181020
+217.118.90.55 2 2 5381 20180409093319
+74.207.240.153 4 4 560907 20180419125209
+86.233.48.103 0 2 286463 
+188.162.166.145 2 2 5381 20180417172837
+78.223.72.187 0 1 8961 
+34.224.97.40 1 1 19305 20180428113752
+91.225.77.71 4 4 10762 20180428065627
+61.134.52.164 2 2 6049 20180414024409
+77.154.202.161 4 145 12891327 20180428170406
+176.179.147.151 0 1 741047 
+218.94.144.101 1 1 3519 20180428173130
+176.57.76.172 2 2 5381 20180406183346
+80.11.220.85 4 158 12491146 20180423183000
+62.161.29.155 0 1 145285 
+83.220.239.127 2 2 5381 20180425233702
+95.189.246.142 2 2 5381 20180411043146
+92.92.161.91 6 207 18750379 20180430185021
+194.230.159.85 0 6 438645 
+85.115.33.180 0 1 495970 
+64.233.173.143 1 91 7338995 20180428162911
+220.178.82.124 11 11 38709 20180428174150
+195.191.83.66 2 2 5381 20180416111424
+178.67.171.198 2 2 5381 20180401152159
+5.59.52.136 2 2 5381 20180403005700
+88.123.8.196 7 308 31980866 20180402210811
+91.68.134.143 5 146 16031500 20180422225330
+78.242.194.238 0 1 835593 
+82.37.248.113 0 1 76418 
+185.155.112.154 5 5 13292 20180430102844
+92.46.91.65 2 2 5381 20180420222610
+92.127.149.151 2 2 5381 20180411034035
+91.76.89.21 2 2 5381 20180423200609
+176.166.172.153 7 191 16970574 20180401222540
+5.44.168.163 10 10 26905 20180422094000
+80.246.139.213 0 1 65291 
+188.162.166.102 2 2 5381 20180408165623
+85.12.222.67 4 4 10762 20180413165656
+217.150.78.239 10 10 26905 20180430205748
+193.201.224.29 2 2 163482 20180413064158
+157.33.53.137 0 1 741047 
+131.253.25.87 0 23 117826 
+64.233.173.28 0 1 182268 
+204.79.180.23 0 31 262133 
+88.173.82.240 0 1 65972 
+94.75.134.94 2 2 5381 20180404225052
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20180401 149 1548 145612773 42
+20180402 148 1034 90885103 52
+20180403 162 1148 91546706 56
+20180404 133 1069 77784801 41
+20180405 133 356 26289471 52
+20180406 411 1361 95335760 72
+20180407 115 403 29633550 43
+20180408 167 1691 147501080 56
+20180409 193 1121 91537949 66
+20180410 619 1596 102896211 52
+20180411 172 997 69470134 59
+20180412 189 2022 182875352 63
+20180413 155 1054 97200368 52
+20180414 154 1208 98626973 49
+20180415 144 703 53555202 53
+20180416 172 1701 132497496 60
+20180417 167 1156 86410070 58
+20180418 156 1142 95927158 53
+20180419 143 1013 76297260 52
+20180420 115 478 57438304 39
+20180421 137 411 15885593 41
+20180422 142 880 78533300 43
+20180423 232 2531 214709962 52
+20180424 277 2349 196437737 55
+20180425 268 1516 126826008 41
+20180426 251 3537 301705115 59
+20180427 249 717 35122840 52
+20180428 670 3245 242163246 110
+20180429 289 2404 194297130 54
+20180430 313 5052 515728668 64
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 211
+15mn-30mn 27
+0s-30s 1268
+5mn-15mn 20
+30mn-1h 22
+2mn-5mn 30
+30s-2mn 63
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 670
+/wp-login.php 1765 5364851 588 587
+/wp-cron.php 954 0 284 287
+/categorie-produit/aurelie-anger/pastel/ 490 26364482 206 204
+/ 489 17299927 292 221
+/wp-admin/admin-ajax.php 411 79069 6 4
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 165 3817728 5 7
+/cafe-botteli-paris-3-deco-attractive/ 160 5643284 49 49
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 151 6087346 2 18
+/boutique/ 81 1764073 2 10
+/diasec/ 55 894378 22 20
+/a-o-d-by-aurelie-anger/ 44 1146033 0 8
+/panier/ 41 826634 1 3
+/art-sur-mesure/ 39 597243 5 2
+/categorie-produit/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ 35 393535 6 2
+/contact/ 34 652467 10 13
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/ 34 488774 2 1
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/ 33 489849 3 7
+/artistes/ 30 340470 1 1
+/boutique/page/2/ 29 391675 0 3
+/blog-design/ 27 304477 5 4
+/qui-sommes-nous/ 24 2503634 2 10
+/categorie-produit/herve-arduini/tableaux-sexy/ 23 278075 3 3
+/categorie-produit/herve-arduini/tableau-sensuel-nb/ 22 211746 3 1
+/categorie-produit/herve-arduini/tableau-grand-format/ 22 187020 3 2
+/categorie-produit/herve-arduini/graph-art/ 21 219185 0 1
+/wp-admin/load-scripts.php 14 1288742 0 0
+/.well-known/acme-challenge/4SFC7TI2UHN7RCEZ9ZQ1TQKK5DK0EN3L 1 64 0 0
+/.well-known/acme-challenge/NDIED-0SFMCFNCO8DNKSJN4JBFPKC6YW 1 64 0 0
+/.well-known/acme-challenge/2P91NTVXLS2S_NAB-SYEBEIYJJ0NX94- 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/eventail-or/ 3 27469 1 1
+/.well-known/acme-challenge/B7IRNFK3_3VMSXPHZF3J4HAAXJN3V_EH 1 64 0 0
+/.well-known/acme-challenge/3MFMSSFFE2RYTHGC49EVWZ-WDTBEEJBY 1 64 0 0
+/.well-known/acme-challenge/0KKUEOIWFJ4ZLUT5408RTGH4J4D8G97F 1 64 0 0
+/.well-known/acme-challenge/E5XM9PFMB1W3XWSOLS24SHT3ELCPNATM 1 64 0 0
+/.well-known/acme-challenge/HZ2MPMVKD00MOIRHTVF0DSSBBBF3182T 1 64 0 0
+/etiquette-produit/tableau-sexy/ 12 91649 1 1
+/.well-known/acme-challenge/W2ENXSCKKJORXK8J6H08A08PP2SUWTIG 1 64 0 0
+/.well-known/acme-challenge/IO6EULXK5H6LQT2X5IZS75FV8IZT214K 1 64 0 0
+/.well-known/acme-challenge/G7DQ4XIP3V1JKRJ0WEU8TRU2T0TO5_CK 1 64 0 0
+/boutique/tableaux-sepia/escalator/ 2 27994 0 0
+/boutique/aurelie-anger/couleurs-vives/blind-date/ 3 37273 0 0
+/.well-known/acme-challenge/GC-N2N81R-7RAA9789KZL5H4D7W9E13Y 1 64 0 0
+/decoration-bar-sur-mesure/ 1 9239 0 0
+/.well-known/acme-challenge/LTH756A4MJC117IVO9GKORSPFFB6BYE7 1 64 0 0
+/.well-known/acme-challenge/MLE6GVHY3GICE85401ECY490AE0K8KJG 1 64 0 1
+/.well-known/acme-challenge/T-S5PIBCV0E03JP6XXJV20GY7NZ603MB 1 64 0 0
+/categorie-produit/herve-arduini/tableaux-sepia/ 4 32836 1 2
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/ 2 24311 0 0
+/.well-known/acme-challenge/02W3UA24Y5BPM6JB-AIUFHJYFTPAUAUU 1 64 0 0
+/.well-known/acme-challenge/JWDRL7DSC8A-FMDXNH0QEIRP9QD2IWCT 1 64 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/ 2 29697 0 0
+/.well-known/acme-challenge/CAZG90B--XG73VTTTGFDO5DDSALHNLLM 1 64 0 0
+/boutique/aurelie-anger/couleurs-vives/lolita/ 5 106090 1 2
+/.well-known/acme-challenge/LA6XD8ZCL473A9K6Y3-_HIOH1SAJ61KI 1 64 0 0
+/.well-known/acme-challenge/VURLL5O38ALSH77_9GXMF64PLUWZ96NJ 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/ 7 84617 2 2
+/.well-known/acme-challenge/19F53KUX6O6U90U1S18G0RH9ZCO63VWZ 1 64 1 0
+/.well-known/acme-challenge/P0B5LOIFKNDUN40OA5ZV-9MVIQG1JFCG 1 64 0 0
+/.well-known/acme-challenge/QRPBR0EEW3V6EYSBEY8GYK_2Q7X4AT_H 1 64 0 0
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/ 6 51249 2 1
+/boutique/aurelie-anger/pastel/lost/ 4 99230 0 1
+/.well-known/acme-challenge/DQ1KTHBYA5JN8-3WJ86D2QP5-A9MD3J7 1 64 0 0
+/.well-known/acme-challenge/X1-2-567_5YZ9SH6GC7Q6RF4_H80V1ZQ 1 64 0 1
+/.well-known/acme-challenge/4EJU97VRPZP6303QVKCBKW9ZHAHO5F6T 1 64 0 0
+/.well-known/acme-challenge/005J_D-I9OG7O1TOQLZNIBBKDKYH_K9H 1 64 1 0
+/.well-known/acme-challenge/61M8E_OUA47BU4CW59EV685OD90MTF7P 1 64 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot 2 16156 0 0
+/.well-known/acme-challenge/_NV_-R035_ME36KPKZ1_TMA76CYN01GD 1 64 0 0
+/etiquette-produit/tableau-art-deco/ 6 57057 0 1
+/.well-known/acme-challenge/7POOCVEXI2H3D1D_JJP6Y8EF-CQ601-Z 1 64 0 0
+/.well-known/acme-challenge/U9W53KXKAF83Z-XIJ05VIQSNPN_C2GSN 1 64 0 0
+/.well-known/acme-challenge/48NEO5UGZ6NP16KFOE52RIXWEW6DXBOC 1 64 0 0
+/.well-known/acme-challenge/5EVD6_NQSNCAE7SLBFS0IHS9KOIKLINE 1 64 0 0
+/.well-known/acme-challenge/PW6MA818302HLUR7ZPLMKAJM1Z-5LRT9 1 64 0 0
+/.well-known/acme-challenge/LADGRN9P0YCHBBX-IIDJ78BPG-U3JYVI 1 64 0 0
+/.well-known/acme-challenge/RWNZ_HT4PZ6W85JQBULSBJ440812ILO5 1 64 0 0
+/.well-known/acme-challenge/-ALYRPT5HD6NOP66AK9ST1QMAW98K8S1 1 64 0 0
+/.well-known/acme-challenge/X3FW0VICT4KEBTYEQ4QK0R8AVMF5AO77 1 64 0 0
+/.well-known/acme-challenge/0PLGPA10RMOOJU760ILAIHQ8JNUS1V79 1 64 0 0
+/.well-known/acme-challenge/ISXB2WIRNEEZ5TGTBH0XJIXSOW4609HR 1 64 0 0
+/.well-known/acme-challenge/QV6LNYJHI5WJK-2PED2MCFVL5KJAFEO_ 1 64 0 1
+/wishlist/ 7 67253 0 1
+/.well-known/acme-challenge/1KNM47PL5T-8BYG50_G3929L01_D-1D0 1 64 0 0
+/.well-known/acme-challenge/RJUYKSF8DDA1SN-GOH2601CRVVRD7FBT 1 64 0 0
+/.well-known/acme-challenge/3YZ86QMCXR001H7Y4SD0YM-AH4SRJ85B 1 64 0 0
+/.well-known/acme-challenge/3SCSN2NDDJHCX4RX4V23ZNPSS5K8XQZG 1 64 0 0
+/comments/feed/ 2 884 1 1
+/wp-admin/admin-post.php 2 0 2 2
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.eot 13 262822 0 2
+/.well-known/acme-challenge/X8WDT_JNRK9BW6AM3R9G31CUOT3L4Y9C 1 64 0 0
+/.well-known/acme-challenge/FO2FAULW6SICPWE2DM_EQDR9W2KM3ZYS 1 64 0 0
+/.well-known/acme-challenge/DSU69GP1XRX7AOMN5SH7A_44DZ-MY4YQ 1 64 0 0
+/.well-known/acme-challenge/2V2S3P0O-MSQIMHEG__NWPV_8AQ93HOC 1 64 0 0
+/.well-known/acme-challenge/KOFICBQ8PIIIP_T2YVIA32ONK92DH1JJ 1 64 0 0
+/.well-known/acme-challenge/WYIQ7F-6EOWF88PAYBF8I8V815L7O14G 1 64 0 0
+/tableau-plexiglas-plexiplay-vu-sur-fr3/ 4 62093 0 0
+/boutique/herve-arduini/tableau-diasec/party-night/ 2 26561 1 0
+/.well-known/acme-challenge/RSNIDULEDXPXKQJQIIVXG-2V15WNWQXY 1 64 0 0
+/.well-known/acme-challenge/0WEMGXH06QNYPXC5CDK-HP4EMM-71EIX 1 64 0 0
+/.well-known/acme-challenge/K777N77ZV4ES-JWOIAEB_U1AFF-0U41S 1 64 0 0
+/.well-known/acme-challenge/L_KEAI9YK4CXW0CNXAFTOJ74PD-KDTE0 1 64 0 0
+/.well-known/acme-challenge/V8--ML1E_-IOF-PX2HEOHSYXMRPGL749 1 64 1 0
+/.well-known/acme-challenge/K50I9EQ74GDO2IHE9F-M_TVWRIUR5DQR 1 64 0 0
+/.well-known/acme-challenge/BDHMGQ67H2K1IFSZ25FC70GMJ6DQQP7H 1 64 0 0
+/.well-known/acme-challenge/IGE09-SW9ITPIJVCURG412YD64Z2-9QK 1 64 0 0
+/.well-known/acme-challenge/-WVOZTV-ACV15QI6ARIH45NLLH6P_TRZ 1 64 0 0
+/.well-known/acme-challenge/40SRO1CPBQ541N5WMLPXSV11A4VRWDQP 1 64 0 1
+/.well-known/acme-challenge/Q6JR2_DL6NGSK_8Q0IYB6IVCBDN59LJJ 1 64 0 0
+/.well-known/acme-challenge/MN1XIEHL4G-_K9UPB2X7_ZVBNCB11Q9P 1 64 0 0
+/.well-known/acme-challenge/E9_OMBB7-PEF0LVNW3FJZCGZSS76-0YW 1 64 1 0
+/.well-known/acme-challenge/6GVRJPVCHGYNM8WL4KZ-SHBB4N3-29LW 1 64 0 0
+/.well-known/acme-challenge/0ZAQN-58YT6_EVKBR0AIRFS5UB67941Q 1 64 0 0
+/.well-known/acme-challenge/S8R4GQ9-WDRYTDS3G4FY5K8G0H6ZZOSI 1 64 0 0
+/wp-admin/install.php 1 567 1 1
+/.well-known/acme-challenge/LYKY4X-3MM4LRFF7IU_UWB8NTJNMGS6Z 1 64 0 0
+/.well-known/acme-challenge/E5T2Z3ST3HWAILW_6MZ5DBQIKGENQNH- 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/ 7 85165 1 3
+/conditions-generales-de-ventes/ 14 565107 2 1
+/.well-known/acme-challenge/OZV_08_KNPB8KKD8X9GXV65GOT5-O5XT 1 64 0 0
+/.well-known/acme-challenge/556NY-X6ATGOJEM14FFIQ63BJ35HQZ6C 1 64 0 0
+/.well-known/acme-challenge/JCFMMMWRFQPND-SAYVAQLU1MT9_81WK3 1 64 0 0
+/.well-known/acme-challenge/IYCSNUJW7-4-L8RV8J447D5MMS0CO1GL 1 64 0 0
+/categorie-produit/herve-arduini/tableau-rose/ 3 52980 0 0
+/.well-known/acme-challenge/0RCU3YW0RCMRBLKP-5WGH28H9--_KD9N 1 64 0 0
+/.well-known/acme-challenge/07-J2QCG8_7IH3_WKBV_Y23Y0ZA6N0CS 1 64 0 0
+/.well-known/acme-challenge/XSJ24J4KX4YM8OSZ9R93R8BGHJ49DQEG 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/pistillum/ 6 54333 2 2
+/.well-known/acme-challenge/D7TOK2WMQHN88TU5JM6JYHGQ8T17G426 1 64 0 0
+/installer-un-tableau-plexi-sur-entretoise/ 11 84022 2 1
+/boutique/herve-arduini/tableaux-sexy/little-street/ 6 71957 0 1
+/expo-plexiplay-chez-le-petit-lux/ 6 50154 0 1
+/.well-known/acme-challenge/OOKSY75-FP8KVOPI2JV3DSVI281V0PJR 1 64 0 0
+/.well-known/acme-challenge/_J2ABB1QMKA-NX9EEN9FNIYTXYXLYQTN 1 64 0 0
+/.well-known/acme-challenge/M7TXPRP84YRYQF_P3VMQXWIQF_UE10XU 1 64 0 0
+/.well-known/acme-challenge/RWXRGKMGXH0XR1QI1I4KC375YMY2HBGY 1 64 0 0
+/.well-known/acme-challenge/tteknAZ14FgXlxTllHcJx4dD0QF3HUMUPbj91W812MI 2 194 0 2
+/.well-known/acme-challenge/VD95Z2EY9C_4QHM54ZLSZQUGYXGXXIWG 1 64 0 0
+/.well-known/acme-challenge/YFC57SAZ6AXTQW780JHB6BBR75P_CI1A 1 64 0 0
+/.well-known/acme-challenge/_S0YAGN6PQ6G07_V5ABEYX9T2WH8RP__ 1 64 0 0
+/.well-known/acme-challenge/P2CHI-HAEMB9SZPM81WP0-UXPCLDT9HB 1 64 0 0
+/.well-known/acme-challenge/2COW8EQKR2XEH32NYQ83XVWR88FKV--B 1 64 0 0
+/.well-known/acme-challenge/1T4UKGSSL-JR030ZGQ8NC42UU2R01I2M 1 64 0 0
+/.well-known/acme-challenge/8OIUSDKIXM6LNZ_3HB0QKJ8JDXVVESLE 1 64 0 0
+/.well-known/acme-challenge/MX8-B6A_FSRP793E-6BT9G4642RPQ0LR 1 64 0 0
+/boutique/herve-arduini/tableau-diasec/paris-mix/ 2 26807 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/ 2 24321 0 0
+/.well-known/acme-challenge/CK_GGRGG6HQCUPUYZEB3DHLOCRXIANEF 1 64 0 0
+/.well-known/acme-challenge/N4M_PKJH509MCVG-YKSNCAKJJH3S4TC4 1 64 0 0
+/mentions-legales/ 16 231268 1 3
+/.well-known/acme-challenge/77QYB1IV5UU_TT-GG_-6MBCBDGP_VO5U 1 64 0 0
+/.well-known/acme-challenge/PSTE81YDDC936DMG7E210H46_JX3K6B6 1 64 0 0
+/.well-known/acme-challenge/E4-BT1DNYSQ71QK4_-5UTJERDRS571HH 1 64 1 0
+/.well-known/acme-challenge/OFUS9C95YS9M0_ALHYB1H8B-GQGVE8IA 1 64 0 0
+/.well-known/acme-challenge/7N69ZM5WQ3KV28P08X9L02_ZAA0XUW-F 1 64 0 0
+/.well-known/acme-challenge/68013_Q7PJ0AR5HGDOQ6-MBQFM12K6O5 1 64 0 0
+/.well-known/acme-challenge/_PD9SQ7W7ZB2CGIUK48H8FVJ89GH21FD 1 64 0 0
+/.well-known/acme-challenge/3P-QOS0ZXQKLN_01A854XM028RHAKFZP 1 64 0 0
+/wp-json/oembed/1.0/embed 5 6053 2 4
+/.well-known/acme-challenge/QOJ66_D6CMKVG19KM9LREENJM3GL5S-T 1 64 0 0
+/boutique/herve-arduini/tableau-diasec/desir/ 5 53829 1 0
+/.well-known/acme-challenge/PA5YY8QIOMHU74U24419IGBCU6AJDHAL 1 64 0 0
+/.well-known/acme-challenge/W7CZS-M0WJOO72WDI6S-DK7K6NPJPG7C 1 64 0 0
+/.well-known/acme-challenge/B_IPT0BSGPHWV-C7VRK2RX_ETD2785UF 1 64 0 0
+/.well-known/acme-challenge/TUXGJS0NAHL3W-ZY3KGZY7UBW9GO2WJP 1 64 0 0
+/.well-known/acme-challenge/Y3J9D157ZFR4K6UV3WL4XX-0IYMXABZK 1 64 1 0
+/.well-known/acme-challenge/RZCBQ5AIEElSU1fP8HBRcmNTaCzrF5oVBKdQHgtoyGQ 2 194 1 0
+/.well-known/acme-challenge/FLEU82USKB9Z1NW-CIXSFJ7NU86YMAWA 1 64 0 0
+/categorie-produit/herve-arduini/tableau-mauve/ 14 140307 0 1
+/.well-known/acme-challenge/QL06EJTQVSRDZQN415LYZDIP3CGYJ21S 1 64 0 0
+/.well-known/acme-challenge/NWY8BI_NNP-IA4H878TTIEJ7W227TW3Q 1 64 0 0
+/.well-known/acme-challenge/PX5S90RY94A0P0M6NRF_279IFWGAIS-J 1 64 0 0
+/.well-known/acme-challenge/I_GZQ1IU0XLHF2N7Q2B67QV-LFBMRLYH 1 64 0 0
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/ 7 144871 0 2
+/wp-admin/edit.php 6 248112 0 0
+/.well-known/acme-challenge/7O9FFX56GEDMUF8EC9-0MZROTJTCSV3U 1 64 0 0
+/.well-known/acme-challenge/BD50MPJ6M-XGVGKJ1A51PKRE60NO7FWQ 1 64 0 0
+/wp-admin/themes.php 1 40731 0 0
+/.well-known/acme-challenge/VUQPIWHH3K787ALV8CAFLGBYAJ00ZDSH 1 64 0 0
+/.well-known/acme-challenge/6SD7JQII152YFZFNP7I66QFYFEXSDW5- 1 64 0 0
+/.well-known/acme-challenge/DWOZBANEH8CPDDU4NH2KT9MULEMGF4Q4 1 64 0 0
+/.well-known/acme-challenge/BC965BQAO88XJJDASFE-GFZ_L4MQG0PD 1 64 0 0
+/.well-known/acme-challenge/EHX6G1FJ9PS0X-FKJA-U_YK5VA-8Y4QY 1 64 0 0
+/.well-known/acme-challenge/CHXFQGSJ9RPZDYY5IS4A3JJVHY__T1KT 1 64 0 0
+/.well-known/acme-challenge/YN3R0LY3FFBCRAGL3KQC6CP4_JULSEYE 1 64 0 0
+/.well-known/acme-challenge/PJP44D07MDHQ252_VEJT3SU6EGGOVOC- 1 64 0 0
+/.well-known/acme-challenge/X86AANEONKWN26UEPB3TAOF6_NTS7A4Z 1 64 0 0
+/wp-content/plugins/js_composer/assets/lib/flexslider/fonts/flexslider-icon.woff 16 19283 0 4
+/categorie-produit/herve-arduini/ 9 61734 1 0
+/.well-known/acme-challenge/XW3JUZTB2WNTLGDD-W7009AFUW2IIUQA 1 64 0 0
+/.well-known/acme-challenge/JNIJ1C4CZ2IC1_LW4US8M7RP0J-MW51Z 1 64 0 0
+/.well-known/acme-challenge/B-CNKYZH8MAUBXKDA50WAEHW9UTWUJPV 1 64 0 0
+/.well-known/acme-challenge/XUU3H52-IIO-FDSUTDZKO5OO7-2_OJ66 1 64 0 0
+/.well-known/acme-challenge/6PGPAYIZJSW_P9DABRN9RLAGAN4NCNOO 1 64 0 0
+/.well-known/acme-challenge/MM8D10N1_QZIAZ7ZSEWDAVNTPI7TVH1S 1 64 0 0
+/decoration-sur-mesure/ 2 18118 0 0
+/2014/10/ 1 8798 0 1
+/.well-known/acme-challenge/LBJ7RP4UC531MA79HE1OI8_SYQZBPWWP 1 64 0 1
+/.well-known/acme-challenge/HO4OHZM3AQR-5P0G153OJPY289D38TGF 1 64 1 0
+/boutique/herve-arduini/tableau-diasec/party-white/ 4 40044 1 1
+/.well-known/acme-challenge/NLWL7ZQHRIGVM-V_S5WUULX67HGS3AOU 1 64 0 0
+/.well-known/acme-challenge/RHVYUSWPJPV1YQ8UOA4T7KXIVQP2BEFS 1 64 0 0
+/.well-known/acme-challenge/-SL41BI38H3Z6UYP8R_FQ4B640OPAWPL 1 64 0 0
+/wp-admin/admin.php 10 331124 0 0
+/.well-known/acme-challenge/IEDXNZZ33J2XGNKLAAE7REMFUYU4H-HO 1 64 0 0
+/.well-known/acme-challenge/NIU9GQ5CXOIP4IQSH24NA_7EDYRCM6S3 1 64 0 0
+/.well-known/acme-challenge/TSWOXWJ4DFLA4Y86JILV_XTIU7343J5W 1 64 0 0
+/.well-known/acme-challenge/0IFGUL5SCSUMQQ7JC5BSAD1GXTQYAE3Y 1 64 0 0
+/.well-known/acme-challenge/ATOQGHVVS-1JI9KB7E0X0ZI0F9AE-RUD 1 64 0 0
+/herve-arduini/ 18 289831 7 1
+/.well-known/acme-challenge/FOWB683HSETIF7EJ-G9CLWE-_72FFIQN 1 64 0 0
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/ 3 87485 1 0
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/ 1 12458 0 0
+/.well-known/acme-challenge/_DGTR6CD0YF40OR2TCBF1BXAGS8U5V8D 1 64 0 0
+/.well-known/acme-challenge/_3D-WMIWR5Z6JX1NISW2JPD_R153FYHI 1 64 0 0
+/.well-known/acme-challenge/MGQ8-35M_SBEI3IJ1E3YTY8-958GRIRK 1 64 0 0
+/.well-known/acme-challenge/N5O0HQ8KOSPVABOT_T7X6Q1-CRSBY50Z 1 64 0 0
+/2014/08/ 1 7777 1 0
+/.well-known/acme-challenge/8HVAQEPQI7R2B51EPQ7SYNSTG1CSMIG6 1 64 0 0
+/.well-known/acme-challenge/LMS_UVHAYZBC5BLJICI4LE3RC1OF-9IT 1 64 0 0
+/.well-known/acme-challenge/O9KF6WP8_N_OWC4_RTMXA_VGFNP8-VJN 1 64 0 0
+/boutique/herve-arduini/oeuvres-detournees/folies/ 1 13737 0 0
+/.well-known/acme-challenge/WUN4O4ZVS8Q_TF49MAI7P08WHRGKC3BH 1 64 1 0
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/ 3 37929 0 0
+/.well-known/acme-challenge/GYONEVF31BTNC6NY_73ADUFWCMP6S25B 1 64 0 0
+/.well-known/acme-challenge/YJ3LT-YNEG66ODH1WLXHMY02JBQ00PFM 1 64 0 0
+/boutique/herve-arduini/tableaux-sepia/escalator/ 5 69930 3 2
+/.well-known/acme-challenge/57ZX024W48VAXTXGQPFVKU8AH2RQ2GOE 1 64 0 0
+/wp-content/plugins/js_composer/assets/lib/flexslider/fonts/flexslider-icon.eot 3 3009 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/ 2 24207 0 0
+/boutique/page/4/ 12 334940 0 2
+/.well-known/acme-challenge/S8HF61BD9NGQK76HMQ_8AW8P2POMCFP3 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/ 3 36263 1 0
+/expo-plexiplay-jazz-galerie-motus-nice/ 2 16862 1 1
+/.well-known/acme-challenge/XWR6S3FJN9CT5RMMCQRQVEBZP_PGD5S7 1 64 0 0
+/.well-known/acme-challenge/ATNH2I12FDPK_XOLM-YU8PBFG0C9ZO8L 1 64 0 0
+/.well-known/acme-challenge/OXMT3-BMS5R98DRC_X9DUYVDQ15E0NMN 1 64 0 0
+/.well-known/acme-challenge/DRANC5LL49ZFNH-ADVKTH-9Q9YYNJKAM 1 64 0 1
+/.well-known/acme-challenge/ALBVID8-MTM84WBA06_-ZWUYLM7I14H8 1 64 0 0
+/.well-known/acme-challenge/P-ZUSZ_HMS1BP9LTYGTBY2Z0IZ6DWC01 1 64 0 0
+/.well-known/acme-challenge/IPJ7Q4E89IC3O5Y5BEA_50TXI05K82_W 1 64 0 0
+/.well-known/acme-challenge/U7-SOVH_EINYP8ILHJ7O205Z_0TK2M0G 1 64 0 0
+/.well-known/acme-challenge/8VYFZVIWVDRFCG0PSN72P2SL-EO6T10S 1 64 0 0
+/.well-known/acme-challenge/XKZ_7LOP5KZ05CFEKMXKWOXX46SDBGWU 1 64 0 0
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/ 2 27254 0 0
+/tableau-ovale-plexiglas/ 2 18378 0 0
+/.well-known/acme-challenge/HZS2K87BF_VAZYCUB4CKFTLRLY_A5MCI 1 64 0 0
+/.well-known/acme-challenge/LMS9WEA6S8BQKG3UROEDWGU-4U_L31FD 1 64 0 1
+/categorie-produit/aurelie-anger/noir-et-blanc/ 16 138154 1 2
+/joseph-lopez-nice-poete/ 8 75416 1 3
+/boutique/herve-arduini/tableau-diasec/open-mind/ 4 53271 1 0
+/.well-known/acme-challenge/AS59RT9USZ-1KZUQYFAQSRWWBMA7DGNX 1 64 0 0
+/.well-known/acme-challenge/WEW8I0_5GS24LEPZM95VRX0SFTMQ2V1S 1 64 0 0
+/.well-known/acme-challenge/4GA0CXM-K14YZB877OYXIAQT7UR04NO5 1 64 1 0
+/commande/ 4 63542 0 0
+/.well-known/acme-challenge/3OY572CERXZTOOPWLCGUBGWO1Z8H35I4 1 64 0 0
+/.well-known/acme-challenge/Q-E74451D5M-XM2MHCM6R_JVMAHF6LJR 1 64 0 0
+/.well-known/acme-challenge/MVMN5ZUT-JH0681NGP0YUEDD3UIWNJRA 1 64 0 0
+/boutique/tableau-grand-format/party-white/ 3 39820 0 1
+/.well-known/acme-challenge/CFWRAQCZHVDMNS1BQQIB4BYV3GVL4G00 1 64 0 0
+/.well-known/acme-challenge/0KM4_T7E0DL3MRQ6GIYG9C0OTTNBZJN4 1 64 0 0
+/.well-known/acme-challenge/69AKD5BEF2BF-CE9L-IC1KV422QYL_93 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/dentelle/ 6 147301 0 0
+/.well-known/acme-challenge/3R4EPTADN7W9TO-OE3Z4EWAK3VLW09B- 1 64 0 0
+/2013/10/ 1 8614 0 0
+/.well-known/acme-challenge/MML1YO8EC_26ZQC171ID25DLP1ZHE23- 1 64 0 0
+/.well-known/acme-challenge/4_2PKESMCE9AXI8FAF-X5TUU8HIP7UFX 1 64 0 0
+/.well-known/acme-challenge/GPWJYNSOITV72HUMA_0201YTUY59QJ8D 1 64 0 0
+/.well-known/acme-challenge/LZKDALNOUWRPVDOMXHKBYFAZTN1FXMV- 1 64 0 0
+/.well-known/acme-challenge/L9IZTCHM-AFXGU7Q9B64WSO85YVUIBJX 1 64 0 0
+/.well-known/acme-challenge/P7_7YD4H-A75KVL8FWNR50FM43S_9WGN 1 64 0 0
+/category/blog/ 3 29742 0 0
+/.well-known/acme-challenge/KYIO3RFZFRKK89G1DN7N9VAZDV2DQIY5 1 64 0 0
+/.well-known/acme-challenge/3CV4XNYMN4UDO0E3ZIZP55U5TS-WESYD 1 64 0 0
+/.well-known/acme-challenge/ATJHQE7UUG47S0__PVFESQZH3-HFMWIR 1 64 0 0
+/boutique/aurelie-anger/couleurs-vives/blue-light/ 5 49792 0 0
+/.well-known/acme-challenge/ZP57KR39NY7QZYGYAZNHZ57OBD4OSGEI 1 64 0 0
+/.well-known/acme-challenge/DD-95JBKT4R_B9SMZVU9UREB2SOGP4_7 1 64 0 0
+/.well-known/acme-challenge/BA9JK5UWZAIFPPQQ2Z__QD7J2CE7H4PU 1 64 0 0
+/.well-known/acme-challenge/G1_CNYYFVE9UOE6W7ROIK3F39OKPNFS9 1 64 0 0
+/.well-known/acme-challenge/W-DKR5D_YE-A0PXQDELJ2QJ5XENKT2Q4 1 64 0 0
+/.well-known/acme-challenge/KHVB2FG3LRJJQR2DSUKAA2PZDPKCNFL3 1 64 1 0
+/.well-known/acme-challenge/EAZN2WHTGX32C-75GH5W_6RHK3UGGU7B 1 64 0 0
+/wp-admin/ 2 70061 0 0
+/etiquette-produit/tableau-noir-blanc/ 10 95597 0 0
+/.well-known/acme-challenge/0K60WYZJWK9M0-9NUOP741LYSC9NUSYD 1 64 0 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/ 15 224845 0 3
+/.well-known/acme-challenge/020_YVDEYL-15TP10X1EYXJGGW5HWRMG 1 64 0 0
+/.well-known/acme-challenge/FLOVFM3_TCCXEU0IYKYMPXY6U0OW59XQ 1 64 0 0
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/ 5 55102 0 0
+/.well-known/acme-challenge/RJGT8_NH2NNFYYMAIEC9HHJLQZLE36N8 1 64 0 0
+/.well-known/acme-challenge/OP2MGW2RVBTOAE7KV19XKULX2F2PCL-W 1 64 0 0
+/.well-known/acme-challenge/SE1MSJ4YTUXUSMRX61C-AUXXG9EXGQ9F 1 64 0 0
+/.well-known/acme-challenge/HI5K0D56_M3V1IO7P6_-MJ0ERDC2QA36 1 64 0 0
+/.well-known/acme-challenge/TDKMEPQC0-DV5E2QY8YYIFN7P8A13EHX 1 64 0 0
+/.well-known/acme-challenge/ENNWW-R27JQDY-212AKGFMOGEI_4MS2W 1 64 0 0
+/wp-admin/post.php 9 945403 0 0
+/.well-known/acme-challenge/ZCNQCG8A6ZSTUF1AA9A4V4B4OMKSPON5 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/vis-vis/ 10 112064 3 3
+/.well-known/acme-challenge/6T71F9JWQ61WGY4CKB4SADUSOSU9S6Y9 1 64 0 0
+/.well-known/acme-challenge/MV8OU8GHBZCZXMRANCULXTKM9O3JMX1N 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/ 1 12114 0 0
+/.well-known/acme-challenge/PNELE5PG0614P2IPR59UV1LY2EHJMG2I 1 64 0 0
+/.well-known/acme-challenge/YXFFPQPV6GX60DH7KGSEIRPMRU_E1GB8 1 64 0 0
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/page/2/ 6 54111 0 0
+/.well-known/acme-challenge/MO73KF5YPE9XT6GXS5RFEXHR_SHMMJHQ 1 64 0 1
+/.well-known/acme-challenge/4XN28I1E-QTWDF-9C9Y3AOBF62R_4417 1 64 0 0
+/.well-known/acme-challenge/ICM4NE4RD_RF-_N280-8SKSXVNI501V1 1 64 0 0
+/.well-known/acme-challenge/786KCRTUMW3W49BS1CB7HR0VGJCJN8Q3 1 64 0 0
+/.well-known/acme-challenge/V_DRK9LB2RIZSIT1H0XC78RWYZO-VJ72 1 64 0 0
+/.well-known/acme-challenge/6-TA3X-UFLHLT-8NA5TO27E6RHCPNXLN 1 64 0 0
+/.well-known/acme-challenge/NCRIEQ846EJYE9161VHJ_W--OYAQOC_5 1 64 0 1
+/.well-known/acme-challenge/F3X_OQYZB0N1P6Z27GKT-HWVZNR7WU0U 1 64 0 0
+/.well-known/acme-challenge/DUI0KB8CPP5MROTIRE3770LT_3UJ8O_Z 1 64 0 0
+/.well-known/acme-challenge/5TOE7UWZN3OFXGBLSKIXBTAP1NH6UP-T 1 64 0 0
+/.well-known/acme-challenge/ID201VGGKHXV651QIL6MRLNAA2PZ0S6A 1 64 0 0
+/.well-known/acme-challenge/9INKJTZE0WAMGVXYD9FDV-KU82NQ-J_Z 1 64 0 0
+/.well-known/acme-challenge/0OVRBUJV83-ENS6_EK0X8D2D70O5CAQQ 1 64 0 0
+/.well-known/acme-challenge/IMPOY9EOJ8TCTFS3X8_R7_DMTY353_CJ 1 64 1 0
+/.well-known/acme-challenge/DF0GBGPBNW3EXQQPQ5BRMHDIER84OWQF 1 64 0 0
+/.well-known/acme-challenge/UAAP-5-86I6_-79W49LO85C_3EVR0UO6 1 64 0 1
+/.well-known/acme-challenge/QVY3PTK36O_MCRJVRVPCW6PF2HDIST5P 1 64 0 0
+/.well-known/acme-challenge/HEMFO2H6RJXWBT822CRJ2JA4UCIVYXNQ 1 64 0 0
+/.well-known/acme-challenge/2N7RV7FALRGR-A2P4HG00NMU1UQ_NHOM 1 64 0 0
+/.well-known/acme-challenge/FPXMWIB04V2T82RTE9CLEKZ-_SP8Z-1H 1 64 0 0
+/.well-known/acme-challenge/_WD50C7HF1QK065T-WS71CKRQ810DX2K 1 64 0 0
+/.well-known/acme-challenge/RIV9MQTH83O55R1YLQEO-A3EVP57B2QZ 1 64 0 0
+/.well-known/acme-challenge/YGFBEF88MH-TZFR2UGKS6348F6O3L0WE 1 64 0 0
+/.well-known/acme-challenge/RMP172184PMBX5-3FCSUJS8O04LLFSJ0 1 64 0 0
+/.well-known/acme-challenge/EOVQ84ID_BD_2CP4N97M7QPB-J5LAUS8 1 64 0 0
+/.well-known/acme-challenge/_4B5IH7RLT96-GZB8U7SCJ02D29S2O7Y 1 64 0 0
+/.well-known/acme-challenge/RQW-PJ7RS8-O0G91MKMIPDAMFOYVQXV4 1 64 0 0
+/wishlist/view/ 1 7117 0 0
+/.well-known/acme-challenge/SE79JTRAFQ6XWXL-W5VRIAZI-6KIXAM4 1 64 0 0
+/mon-compte/lost-password/ 2 13912 0 0
+/wp-admin/upgrade.php 1 21 1 0
+/.well-known/acme-challenge/7JIXU0J2O59GK-AWUEB6EHZ2T8MWJ63I 1 64 0 0
+/.well-known/acme-challenge/VIGH36ZG58LB678KC01LQQSKS1YJIA3_ 1 64 0 0
+/.well-known/acme-challenge/PPPHBH5O988OUVIAMWRHUGOW7D33VZNC 1 64 0 0
+/.well-known/acme-challenge/BIO2ZFD6WONY4_6LT4N8USRMC8LM0ENR 1 64 0 0
+/etiquette-produit/tableau-pop-art/ 12 106876 2 0
+/.well-known/acme-challenge/PEYX8D5NGWFV25LQR_A_CIVO0Y9WY86M 1 64 0 0
+/.well-known/acme-challenge/H5QBZ5ZN_BZ-9HM6KFH1_NR-U9O_7EJ3 1 64 0 0
+/2015/01/ 1 8080 0 0
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/ 6 81889 0 0
+/.well-known/acme-challenge/-K5410JHFMN59R08BKTH5CZKU6VRS48V 1 64 0 0
+/.well-known/acme-challenge/0_JQ2P11BHB6N224EGQB0N7718LX8BIO 1 64 0 0
+/boutique/herve-arduini/tableau-diasec/xxplosive/ 2 27869 0 0
+/.well-known/acme-challenge/_D8ESJW36E-LLH0267Q0-EVM38_RLIVY 1 64 0 0
+/.well-known/acme-challenge/T8FOXR1_2PL_OM1OBBOHUC_-GC6VSY_K 1 64 0 0
+/boutique/tableau-mauve/sensation/ 1 14108 0 1
+/.well-known/acme-challenge/W9F8TRPIPV_NWLNNDEOSEK9YFRZ13WYU 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/ 3 36401 0 0
+/.well-known/acme-challenge/248F-TCN4-8OVZDLK0WOKXGYAOCK7TM3 1 64 0 0
+/.well-known/acme-challenge/CMRGVDJVCEDAMRT1ENY9Y_80EJTMTB9E 1 64 0 0
+/.well-known/acme-challenge/LSQHMYV0YU37VRF1WG-DQE6EE91Y1DTG 1 64 0 0
+/.well-known/acme-challenge/ZBY9UMV76Z7FXVE53R-V9OLBWBXBFSVW 1 64 0 0
+/.well-known/acme-challenge/-EC92OBD16PF0A3B-MH382TVXT0O0-MD 1 64 0 0
+/categorie-produit/herve-arduini/tableau-noir-et-blanc/ 15 149125 2 2
+/.well-known/acme-challenge/24FN1S0OG3YC0DVXUUFF9XWR50344QJK 1 64 0 0
+/.well-known/acme-challenge/L60HF154NOY3EI-ZAXE0N4KBP_IBB7HV 1 64 0 0
+/.well-known/acme-challenge/6ZBVLSMJJRJ-SJS9E3-LVQA4KF2XZV-2 1 64 0 0
+/.well-known/acme-challenge/L8HB1I_U__AQO43C86M_5QYVS9N4-KRU 1 64 0 0
+/livraison/ 7 101456 3 2
+/.well-known/acme-challenge/Y7AU3C-G5MINZADH4HJG4B7PYIZI-XCB 1 64 0 1
+/boutique/pastel/evanescent/ 1 13267 0 0
+/categorie-produit/aurelie-anger/ 8 114614 4 2
+/author/admin/ 7 308108 4 2
+/categorie-produit/herve-arduini/tableaux-pop-art/ 19 162795 4 3
+/.well-known/acme-challenge/EF-63VA7WKBIZ4KKGQB672011CS55TP1 1 64 0 0
+/.well-known/acme-challenge/N3SSXK6AXVOQSQTM67HVGK-RGXIUUQ5I 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/ 5 60663 0 0
+/.well-known/acme-challenge/VB5E_WP7XZ1JZQ5WQAB2PHK-BSLR33SW 1 64 0 0
+/.well-known/acme-challenge/_945BQCQW0DT7JMR3P31YQ6OAH4PDLBA 1 64 0 0
+/wp-content/plugins/woocommerce/assets/fonts/star.eot 2 1670 0 0
+/.well-known/acme-challenge/M3GZEDLP_NJKLZ8MZ3CH9C7EPG-ATSUU 1 64 0 0
+/.well-known/acme-challenge/G_W75A-VZUDRU9MI--IF3R61RN2F30XE 1 64 0 0
+/.well-known/acme-challenge/4HB7PEL-IPHSB-PXS5VXBRBWV9FXUVA8 1 64 0 0
+/.well-known/acme-challenge/-_6M0385V_8V0K3F1IG-3HBW3FKI45WC 1 64 0 0
+/.well-known/acme-challenge/H6XOEFG66E6IFB6Q4TIOE2J9RH8VE4IH 1 64 0 0
+/.well-known/acme-challenge/PD1MLRREVM100J0CJ25N7E6M2I-_KK_I 1 64 0 0
+/.well-known/acme-challenge/HU1CNOX_-9_OI5GUERXP61R1CSQR-OBN 1 64 0 0
+/.well-known/acme-challenge/PM-PJ42QY6MDYMK9O99KAKFA5AASBK1V 1 64 0 0
+/.well-known/acme-challenge/DIOIPN973ADPCNFHIDC2TNR0ZLLD38QH 1 64 0 0
+/.well-known/acme-challenge/KXE5GXD8O829440I6EYQ_ZCCWWHI6FQX 1 64 0 0
+/.well-known/acme-challenge/BVJ2FUL7JC_1VJYNWBKJX35Z_317Y_ZP 1 64 0 0
+/.well-known/acme-challenge/2WAQ89W5B0_GR7NCIHNLNY61V9L2U67S 1 64 0 0
+/.well-known/acme-challenge/0V5IK9JBDT62PB545TLA_RR4FN76EKQK 1 64 0 0
+/.well-known/acme-challenge/RNLIW2MP6N8BXR9HU3ANPVLH09DK7PLJ 1 64 0 0
+/.well-known/acme-challenge/G42TEZU6BU7V7W-25EFPJHUB_VPNX2Z5 1 64 0 0
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/ 7 90481 0 1
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/ 15 252833 0 5
+/.well-known/acme-challenge/8-CSMXHNJDIV12LB8AUEY8Z5U0M41GPF 1 64 0 0
+/.well-known/acme-challenge/AODP8JVQVF_LHPX3941W2482L610TSRZ 1 64 0 0
+/boutique/herve-arduini/tableau-mauve/sensation/ 6 70764 2 2
+/boutique/tableau-rose/la-vie-en-rose/ 4 54501 4 4
+/.well-known/acme-challenge/2CYZBUKGZQB6CL0X6O56-TCL77WW8T6F 1 64 0 1
+/wp-content/plugins/revslider/rs-plugin/font/revicons.eot 2 14938 0 0
+/.well-known/acme-challenge/DW1L69-HNHKFFMKQDNU6S92R8BEKF6NY 1 64 0 0
+/.well-known/acme-challenge/_OOJZMFSK93JON7NLTFZ1TTBN3UKUNZ4 1 64 0 0
+/.well-known/acme-challenge/0JWTJYQ8PJNO_UEOF993Y49Z8__78LGZ 1 64 0 0
+/.well-known/acme-challenge/S1ER-YHTKS22-5579A-MFPR3RVQ1URP0 1 64 0 0
+/wp-admin/load-styles.php 6 325719 0 0
+/.well-known/acme-challenge/5_64PT13CIISPXJ-CBXL1J9_BYVQ3-2Q 1 64 0 0
+/.well-known/acme-challenge/LHMSH30IERYLSD2RX05D11O99JS3R_XW 1 64 0 0
+/.well-known/acme-challenge/Z-Z2K1QCX20Z_XRKR1ULDTQW--NSNR8E 1 64 0 0
+/.well-known/acme-challenge/_YHU2VMSTTF9X9T400H2PTN8G2NEI4FY 1 64 0 0
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/ 5 50670 2 2
+/.well-known/acme-challenge/XOIQNCS7QI0JYCQRS8LZUKSRJC0OU-69 1 64 0 1
+/installer-un-tableau-diasec-plexiplay/ 12 102840 1 2
+/boutique/page/3/ 18 253070 0 1
+/.well-known/acme-challenge/JCG48ABH5LGKHW83FDF6_P3FP_E70SPI 1 64 0 0
+/.well-known/acme-challenge/CI0EQ91TFT9IQS2HSZCJLE7MPX4DEW-5 1 64 1 0
+/.well-known/acme-challenge/_WXMBGI427-BXW0KJYACU9T0MOFNJMRR 1 64 1 0
+/.well-known/acme-challenge/-5NEQ48JVGJQIYY1QGG7LL8XS2MPI4SK 1 64 0 0
+/.well-known/acme-challenge/JDLDUS1MC45-LH6Q8ZK17B874VJRFJ8C 1 64 0 0
+/.well-known/acme-challenge/_PPWP7BN-1G2COROW5BBLOB6UHSOFQFR 1 64 0 0
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/ 6 52482 1 1
+/.well-known/acme-challenge/BM981L6TI499TGSBNKXKSA2MUZ6ILTAJ 1 64 0 0
+/.well-known/acme-challenge/DEBJT2H76DB5XC08BY1SOJSIS7MI9K_E 1 64 0 0
+/.well-known/acme-challenge/ATUUDXFL59IGQSB1W-NLZ2Z4D_B5SA85 1 64 0 0
+/.well-known/acme-challenge/SD2F3QZ0OB9_Q3OY_XA3X__N37T1R8DO 1 64 1 0
+/.well-known/acme-challenge/GFEIRWU6XQZX00W9N6QUHVA7N9DE8KQ8 1 64 0 0
+/.well-known/acme-challenge/XIPV5_BWFWR72L1R2H9DHHMKU5W_V7B3 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/moon/ 1 13655 0 0
+/.well-known/acme-challenge/KBR64E0P9OB1297N-3_Z2OWI1YPVT8MS 1 64 0 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/page/2/ 2 23561 0 0
+/.well-known/acme-challenge/OA0QWVSH4KY_E0KEK8W7QQDSLYVILL1- 1 64 0 0
+/.well-known/acme-challenge/S0KC4XOQEQIMPPW2PP6XR-PWSWJUSWC3 1 64 0 0
+/.well-known/acme-challenge/5-RGCKQMLMRXLL0_A1P_VJZOXBDLUIGZ 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/ 16 221098 6 5
+/.well-known/acme-challenge/FAOKC403AEH85_5_V4RWOO-K0WW77TZC 1 64 0 0
+/wp-content/plugins/envato-wordpress-toolkit/assets/fonts/envato.woff 1 642 0 0
+/.well-known/acme-challenge/JF18M72L_LWQB5XZM2DRP68PC4NYGK7T 1 64 0 0
+/.well-known/acme-challenge/X03E_DWXKBDZLGR_3D4FA0J-ATIGB-YM 1 64 0 0
+/.well-known/acme-challenge/DE8I0ERC8FQGYEGOS1FS__AA42A_QJMC 1 64 0 0
+/.well-known/acme-challenge/IY4ELY4GXNN6-AE9PO4A24E5E0C2K3TO 1 64 0 0
+/.well-known/acme-challenge/J9P8TXBLCUWMMUM8-QN60FE8CPTITEME 1 64 0 0
+/.well-known/acme-challenge/LJJXNQ0GD21_BG5-R0RMAN-YPUT0PSUZ 1 64 0 0
+/.well-known/acme-challenge/Q-GRPISQBKTIN1IZ73XVIEQYZD567Z85 1 64 0 0
+/.well-known/acme-challenge/U2QE6TN9NYRUSJE-UYWAXYM54AZYITK7 1 64 0 0
+/.well-known/acme-challenge/-CMK2Q0APU29-9DT1Z-2CURM7RAEBT9Z 1 64 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/ 4 42452 1 2
+/.well-known/acme-challenge/HDKLA_6ZRLZQ96CKZ1FQOPOJBKEV8LID 1 64 0 0
+/.well-known/acme-challenge/33M_R46KEIDFEP44ZCHH-F3JTT1WI--N 1 64 0 0
+/.well-known/acme-challenge/-Q0PZIP_N3XCXY_82DJ3U7SB5OIQR19B 1 64 0 0
+/.well-known/acme-challenge/1SR2GA8W0W90076K75X87TE2RD9GP8JT 1 64 0 0
+/.well-known/acme-challenge/WAAH88B0OOGCBIXR-Q_SVZ_HYIDYQ-A7 1 64 0 0
+/.well-known/acme-challenge/LJ21WSIC-MYVMFK6GMWZ2U8F005EDO2_ 1 64 0 0
+/.well-known/acme-challenge/M8IHSAT9MGB-HUXI0V3-IIH05K_NY31J 1 64 0 0
+/.well-known/acme-challenge/B4Q3IIFYSGONA-UE4Z5NL6BO1-847AHA 1 64 0 0
+/.well-known/acme-challenge/8DNIUY9WA0JHUQ0KOSWJIPDI6KJCK4EG 1 64 0 0
+/.well-known/acme-challenge/MI35BQSQH1R-TSCS8J8M-5T6U0SJD3H- 1 64 0 0
+/.well-known/acme-challenge/X-D82X78F5_BN2ZZJ9H0NTZREQX855E_ 1 64 0 0
+/.well-known/acme-challenge/WEBNO7L0HGKWWMJ7O3-4B6B-PEGXWH7V 1 64 0 0
+/.well-known/acme-challenge/M60U18S_GSFSJHV9RH7AT-_JDWARU4MK 1 64 0 0
+/.well-known/acme-challenge/RG5ZTQ05TC9IXYB4D_HBY50TGE_-1V_9 1 64 0 0
+/.well-known/acme-challenge/71VWC5EW5K1AA9TFE-Q5RX0VPWWOXM72 1 64 0 0
+/.well-known/acme-challenge/3Z8CC5M20LTLPCL_VNEX33HVJFF02IP7 1 64 0 0
+/.well-known/acme-challenge/XP9E-OJCGS63JKM51I8CEPQRI-WF2BCP 1 64 0 0
+/.well-known/acme-challenge/GJD49H60F8UM40I9BNS1VXLCD5SML5E0 1 64 0 0
+/.well-known/acme-challenge/NX5R_0JE_P-1DSUWNHOR-TFBBAIIESBU 1 64 0 0
+/categorie-produit/herve-arduini/illustration-dherve/ 13 124111 0 0
+/.well-known/acme-challenge/-5GZ6JD_JANJ138867HPTNUDO-LKKSGZ 1 64 0 0
+/.well-known/acme-challenge/670QWAEJPRX446E3JXPH7JRPCJBZI_BO 1 64 0 0
+/tableau-plexi-art-numerique/ 2 8762 0 0
+/.well-known/acme-challenge/-8_BFJAWSH4TXHD7SS3BQTR68I-0X22K 1 64 0 0
+/.well-known/acme-challenge/JYGBZM4HV4XY1MRVEPG_PCX_LAMXUOJ_ 1 64 0 0
+/.well-known/acme-challenge/1QV26W8Z8HIREMX8_LBTQZGAI-XGABXY 1 64 0 0
+/.well-known/acme-challenge/05JCUG102BPJYXV0-SK4MRLF2097P5BT 1 64 0 0
+/.well-known/acme-challenge/3VL2DM3VF6TRR0NI3JGNZGSSDDEOYMAM 1 64 0 0
+/.well-known/acme-challenge/MD5JJ79PNAMOKYW8NXMJMCQ_VMPX9-MI 1 64 1 0
+/.well-known/acme-challenge/2_LHNIB2-HPA2P632QFL30EU2B4G228M 1 64 0 0
+/.well-known/acme-challenge/E7JQ_944F33L2_GRPIGMN8MFWFBVRI3T 1 64 0 0
+/.well-known/acme-challenge/K9U0Q91WQD03E8CHR14ZWJH9DOBZU7JE 1 64 0 0
+/.well-known/acme-challenge/ZBIIY_VE0Y06XXIKKLL0TRP4R7WFD85V 1 64 0 0
+/.well-known/acme-challenge/PRM5W6WKGJELQE23R06RHRI5NVG-ZB0T 1 64 0 0
+/.well-known/acme-challenge/R0FZGGJ0KVOIZL61ZDIAIMAKRDSAOD3I 1 64 0 0
+/categorie-produit/herve-arduini/tableaux-surrealistes/ 18 190428 0 3
+/.well-known/acme-challenge/B6MBSMFX5WQU26W4GHQJ8JBKFFTID7C7 1 64 0 0
+/.well-known/acme-challenge/RF8SUG0MIHMOL2A76ID7FS1UGTNKKWQZ 1 64 0 0
+/.well-known/acme-challenge/LIR2HZUAU9SYWZOKU1TOEGWCEC5O_5XR 1 64 0 0
+/.well-known/acme-challenge/CNQ_BQTTIKQ-HTF32QM1O4QYOHREZ1WW 1 64 0 0
+/.well-known/acme-challenge/B3LW1-1STUTQ_WCYYLDBF_03ELA7IFYY 1 64 0 0
+/.well-known/acme-challenge/6ZY2RQYTS4_DCXL38E90PSMFPM40CPPO 1 64 0 0
+/.well-known/acme-challenge/GAKO163KG1JVBF01G8W5DVX89U6B3PH7 1 64 0 0
+/.well-known/acme-challenge/P-NBI4T6_ITYQ99RGSD4ETT84XPKE4J_ 1 64 0 1
+/.well-known/acme-challenge/ADN3E-ZA2TIL50TVKBGWD4-ZWUAJ28FJ 1 64 0 0
+/.well-known/acme-challenge/ZL1066U_A-SWW_5BU0B8STXSX5J4Q0HZ 1 64 0 0
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/ 3 101008 0 1
+/.well-known/acme-challenge/T5DQANGQB32QB0SKU1RXJ3J66YQ_1BF8 1 64 0 0
+/.well-known/acme-challenge/0J8RXPRUELSGN-2LI7G41Z422H0ED-1R 1 64 0 0
+/.well-known/acme-challenge/8R9D71V8G7_GEA3S2A233V26FBDVITZT 1 64 0 0
+/.well-known/acme-challenge/S97GHMUO-EBKU79DIDCLLK_LO57-JJ7G 1 64 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/ 4 55989 0 0
+/.well-known/acme-challenge/7OI06ACCVD1MK5HDO_TDZ6NRS40W_AP5 1 64 0 0
+/.well-known/acme-challenge/8JI72389-_3XBM1VC3675RNIFUJEO5EP 1 64 0 0
+/.well-known/acme-challenge/J9W_TDMOUGJQV0MLRLYD-OG-GUX2_1S- 1 64 0 0
+/.well-known/acme-challenge/JPD8NZAQMZBTMUSPYLJAGYO61EKV3UPT 1 64 0 0
+/feed/ 1 7061 1 1
+/.well-known/acme-challenge/4AVXOWP758DA6O9L6NQ11POGBOEJTWZ9 1 64 0 0
+/.well-known/acme-challenge/D1U3-DEGXUESISKZ2RYBZBR_C_8L5T5S 1 64 0 0
+/categorie-produit/herve-arduini/fashion-week-art/ 2 16488 0 0
+/.well-known/acme-challenge/R9BPGYBWH3NET89R48UFLD6_QWYYYDEV 1 64 0 0
+/.well-known/acme-challenge/27PZBF_FD-ONOSIT84RP_6DDP671UWK0 1 64 0 0
+/.well-known/acme-challenge/FR6J9675XO0JYIEI60J89P162DLPU8TX 1 64 0 0
+/.well-known/acme-challenge/RKUIXX61V2KMXX0UC0BIC_JD_MNV9OG- 1 64 0 0
+/.well-known/acme-challenge/IR_DGWU_14QK6ZGSGBPLOVC4369CGLIU 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/ 3 36363 0 0
+/categorie-produit/alexandra-chatenet/ 10 76151 0 0
+/.well-known/acme-challenge/Z3UX3VC8VE8P-N88CR1YYPGT3TFQN6-_ 1 64 0 0
+/.well-known/acme-challenge/YKZAFKCK7J-31YYOFFQ_FZ821UA-LQFZ 1 64 0 0
+/.well-known/acme-challenge/-IY79IRJ2R8-211RLV89F_E0EWYNW29V 1 64 0 0
+/.well-known/acme-challenge/65WQKRPEVZ7PQ_LEPLCFR8I59T21MYXV 1 64 0 0
+/.well-known/acme-challenge/W0PY7_W1CLA6NOA7FY0W1I6KN1KM0ZFO 1 64 0 0
+/.well-known/acme-challenge/VZV33FEDY02PAB4ECUNSW3XKPYFU86T2 1 64 0 0
+/.well-known/acme-challenge/CXACDH2KAPMV2E5KKL2W91YOLGMLMZRK 1 64 0 0
+/.well-known/acme-challenge/TEZ6XXTL987EBUS2N7DYBCUB1G_FJFZ6 1 64 0 0
+/decoration-partie-commune/ 12 187143 0 1
+/.well-known/acme-challenge/OB5SD59FF_CDWE64OEEAZL5T20ZLUN0P 1 64 0 0
+/.well-known/acme-challenge/FLZ65344MOSO-4KFJ3OVGJI49M6ACP_K 1 64 0 0
+/boutique/tableaux-sur-plexi/v-i-p/ 5 68575 2 1
+/.well-known/acme-challenge/GMNRCYDM6QHD2EZHRBRF_61YBI24N0YH 1 64 0 0
+/.well-known/acme-challenge/00W5BNZWG_TI3TIFPLSGG0EZPOV1AOKE 1 64 0 0
+/.well-known/acme-challenge/649YPMLMWQ57600N651U4QIU2A9AMRSQ 1 64 0 1
+/.well-known/acme-challenge/KG_MPQO794CYMTBHS275XW4GPI4QO5UD 1 64 0 0
+/selfiesky/ 13 132522 7 6
+/.well-known/acme-challenge/WGMGZ2K1-BW7BHGNUV9IV5L59RXAXLFP 1 64 0 0
+/.well-known/acme-challenge/Y0NLPHXU7YHLCEQ6_6HJINAO1N1X0M-0 1 64 0 0
+/.well-known/acme-challenge/2NW-Q4G8I604IX3276A33XWTBR8N61-Z 1 64 0 0
+/.well-known/acme-challenge/1HKQ_TYCWZE_EGTD7ASD13TODY1G4VUH 1 64 0 0
+/boutique/aurelie-anger/pastel/sanctuary/ 3 86548 0 0
+/.well-known/acme-challenge/X7PN3GGGUP2AHPC2V_LVHCY1GA1IMJOF 1 64 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 16 197260 0 4
+/.well-known/acme-challenge/V16Q40Y_B8U3Y13-12XWYS-BP7SJ4ZP7 1 64 0 0
+/.well-known/acme-challenge/GSMF65WTGAVG-PMUZGNRHCDMS6G2QN4N 1 64 1 0
+/.well-known/acme-challenge/RMGX0BT2SLVLDXQIG-KNE3OC86-RV-6- 1 64 0 0
+/.well-known/acme-challenge/IUELTX65EN1D46VAQD2WE2PML3LL0P-S 1 64 0 0
+/.well-known/acme-challenge/UPDSFJSO5H9MUVI7D6__GK9S0N0QCI4X 1 64 0 0
+/.well-known/acme-challenge/ZKQHMG7QT16SU4MW0JFQ1R_1LXYIG0TC 1 64 0 0
+/wp-admin/options-general.php 1 38370 0 0
+/boutique/aurelie-anger/couleurs-vives/hippie/ 7 198587 1 2
+/.well-known/acme-challenge/9UL7HW2198G9W1Y3P9-K8SRO77X__-5A 1 64 0 0
+/wp-admin/customize.php 1 67969 0 0
+/.well-known/acme-challenge/SWVTT83N9ZQ1VY80H3RITKILC_QR4TMA 1 64 0 0
+/.well-known/acme-challenge/TRQQH7J9_V6PODWZ7FA2SDFO-1G8T_IZ 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/pinky-2/ 2 27612 1 1
+/.well-known/acme-challenge/QYB-RQJX-Q-EMI_G7VRI3-_7LPJFMDST 1 64 0 0
+/.well-known/acme-challenge/F3E4025BU-8-V5T1WRU0FFZLFIX8WQ4J 1 64 0 0
+/mon-compte/ 14 101157 2 4
+/.well-known/acme-challenge/7XYF6M1KAP7I0MNB-GHJI4IB5J2Y-1L_ 1 64 0 0
+/.well-known/acme-challenge/W9V74PGZK03K5MXPEGGIVMJGMUCLU1K3 1 64 0 0
+/category/blog/aod-blog/ 13 446458 8 1
+/.well-known/acme-challenge/NNTDSI4R_W04P7N06ASAKQJCEAFVR6L2 1 64 0 0
+/plexiplay-sur-m6/ 3 28548 1 1
+/.well-known/acme-challenge/AAQGYXJPB50MURI_KNH3AVYW5EQETMNX 1 64 0 0
+/.well-known/acme-challenge/-KPQ_XGBY4EGF0E3ZK9XDHWPO21P4EQG 1 64 0 0
+/.well-known/acme-challenge/G4E_NIQD9ERKR0WC1MSW9Y8GM2M1LVZQ 1 64 0 0
+/.well-known/acme-challenge/0CEW5QV3KDLNP3-7GBZ2E4OT9MCCLOEX 1 64 0 0
+/.well-known/acme-challenge/Y61MY4KCTRR0Y6B1ZSAUG3A6T-Z-Q8GD 1 64 0 0
+/.well-known/acme-challenge/5P42I_DHYXZNJPGAJUAKJ4EA556VH7S9 1 64 0 0
+/.well-known/acme-challenge/V4BKM1X-CAF610DOUEOGX4_4PWPJVC-P 1 64 0 0
+/categorie-produit/herve-arduini/tableau-diasec/ 19 274620 2 1
+/.well-known/acme-challenge/MM2YMDLG38WUDRE2ZOC7HKXRNZGVC8D7 1 64 0 0
+/.well-known/acme-challenge/A_25APEHTR6N9O8GQWGVPUH7XKKXNQUW 1 64 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.eot 12 509269 1 2
+/.well-known/acme-challenge/5BVW1VC5T9GQ0ELXCNDP-M03SRWMKE1C 1 64 0 0
+/.well-known/acme-challenge/TJO2VB09U8X7AE80CFU1HUDYLTC0A9DR 1 64 0 0
+/.well-known/acme-challenge/4P5AU8V3TSJPRBF7HPM2U5AYG-SXPP8S 1 64 1 0
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/page/2/ 8 114548 0 0
+/.well-known/acme-challenge/BKW4GG54KBX9MRBP15RZ9U7LW8ENMPVU 1 64 0 0
+/.well-known/acme-challenge/4O9T2SI87CPTDR8MO-PS3M_9OAA7HDJK 1 64 0 0
+/.well-known/acme-challenge/NDTAR0G6-FF_Y46VB0V7XUZE5LIDITDV 1 64 0 0
+/.well-known/acme-challenge/LUKCFBI9X5I3QS_DWIR-Q31JG_RMF5_M 1 64 0 0
+/.well-known/acme-challenge/NO005NBLUGURLGY9JAF9_1JVYVIEASQ0 1 64 0 0
+/.well-known/acme-challenge/V1VCSQS2VTTGOQTG2R5BE0P84-W7DH1D 1 64 0 0
+/xmlrpc.php 6 581910 2 4
+/.well-known/acme-challenge/RYUS7D73LZK_QXGO0O6386Y6N7TJM1E2 1 64 0 0
+/.well-known/acme-challenge/S-L5U53_GICTRD1UAP3R8TOET-1_Q24I 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/ 4 48632 1 1
+/.well-known/acme-challenge/14LNRQC7N_I505NS2P2APP4R-4K6Q85O 1 64 0 0
+/.well-known/acme-challenge/RLNJVWX2S97DCZRB7D591_2I7EXZPMGY 1 64 0 0
+/boutique/tableau-diasec/disco-ball/ 6 84799 0 1
+/.well-known/acme-challenge/XUV1NGW7KTI0ROZHBX4OL4G-MLHWL0HI 1 64 0 0
+/.well-known/acme-challenge/XWJA7F0MHEG0XZPG9-D_KI-V_QCLNPSJ 1 64 0 0
+/.well-known/acme-challenge/7FJY00RV4P2O6S_LMLV6UFCH7HY4JVUM 1 64 0 0
+/categorie-produit/herve-arduini/tableau-diasec/page/2/ 3 43226 0 1
+/.well-known/acme-challenge/T7-AD5AJ2P6TDCTVIT1TWETRDZYDTRB7 1 64 0 0
+/.well-known/acme-challenge/O9KU8UK_M5S2-V-2Q8E8STACWOVBWNRY 1 64 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf 1 8024 0 0
+/.well-known/acme-challenge/3UU5F-E_Q8L5V0I2RZM04G2G57C8C2M8 1 64 0 0
+/2014/03/ 2 15668 1 1
+/.well-known/acme-challenge/LJ5ETETMJ7_NYQWWMBNJ9-3AS91KXEI- 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/ 1 13799 0 0
+/.well-known/acme-challenge/OZW382WN518D0A9SXP-2J6KPV_081ICT 1 64 0 0
+/categorie-produit/herve-arduini/tableaux-grands-formats/ 19 194515 2 2
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/ 7 134662 0 1
+/.well-known/acme-challenge/FRBMV9TX-5EFIKFTQOXS1O31X3S7_FWN 1 64 0 0
+/.well-known/acme-challenge/LT5RGDWUCFQF4DCHTU14FXAIHG3V3OCD 1 64 0 0
+/.well-known/acme-challenge/ITIZ-45J5Z0FGHYP1JG41H2EII4PSNS- 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/ 1 12199 0 0
+/.well-known/acme-challenge/ZTFMJB46YASS-G7BUMJW6SM4MZKQ4E_O 1 64 0 0
+/.well-known/acme-challenge/-V5AFDP2RSU5SWTSCHS3P1-8LKM1QDEF 1 64 0 0
+/categorie-produit/aurelie-anger/couleurs-vives/ 16 178237 0 1
+/wp-content/plugins/yith-woocommerce-wishlist/assets/fontawesome/fontawesome-webfont.eot 4 242976 1 2
+/.well-known/acme-challenge/4QM8Q8-HYJPTZY9EIG5YC_AE-AQW7LGC 1 64 0 0
+/.well-known/acme-challenge/VL5ZK352Z1267ACYXRY2_PK4G2TMG5J- 1 64 1 0
+/boutique/page/5/ 11 116563 0 3
+/.well-known/acme-challenge/O_PEH8721VPDGD87FKA-2LHVA1WXO18M 1 64 0 0
+/.well-known/acme-challenge/GXJZ7GLR53-KR4B46EPZZJ6QJKT-0PJW 1 64 0 0
+/.well-known/acme-challenge/X0DYHGDGVMW1Q43T3120F2DQG9WAOOO0 1 64 0 0
+/.well-known/acme-challenge/0L6U9RT2BL-WDM6G0KBTR_1US9-XDWA1 1 64 0 0
+/.well-known/acme-challenge/51Q-K1XTPAYY_Q7FU4-T80ZOJD6BHGAY 1 64 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/ 6 67881 1 1
+/.well-known/acme-challenge/I0CO1GC-E_NG22-NBE5C9ECY-LDFEKFY 1 64 0 0
+/2015/03/ 1 7696 0 0
+/boutique/aurelie-anger/couleurs-vives/virginia/ 4 49939 0 0
+/.well-known/acme-challenge/M1C8LCP1XDKEJ1BV2BFR7IFW3_GW6E07 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/ 4 48557 0 0
+/.well-known/acme-challenge/OTM0XLHQARPCZF9Z11XREZY68RFB2OE3 1 64 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/ 3 36538 0 1
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/ 3 87291 0 0
+/.well-known/acme-challenge/0OZPQY71U_W75MOPZNXNXXN2UWG9432S 1 64 0 0
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/ 2 25464 0 0
+/.well-known/acme-challenge/LQW7UWY7EUPA4L4O3KNBJCW77U7I8_FY 1 64 0 0
+/.well-known/acme-challenge/R1U8Y0SI05XDM-5AUP-3KY01V6AW7BID 1 64 0 0
+/.well-known/acme-challenge/CS-JJLF3L6ST442DFJKZ30YF99ULIOG8 1 64 0 0
+/.well-known/acme-challenge/DUG-TP148I5T2RX8ZK47E6X4IVSAWACU 1 64 0 0
+/.well-known/acme-challenge/XIU7RS8D54DEOW5ZLYKO8AIJV68E028H 1 64 0 0
+/.well-known/acme-challenge/A7EZAJGFDKEZOBT2FU4SC69F6FD9VNB8 1 64 0 0
+/.well-known/acme-challenge/Q-WX75SQBCMO58_YPXZQRG_5ZCSOSN-9 1 64 0 0
+/.well-known/acme-challenge/EEA79BLH_E2JHN3VE945MFYW78IYHVB2 1 64 0 0
+/.well-known/acme-challenge/OI5BWUMQNDUU2HT1XKXA49Q5UDFGW1ZL 1 64 0 0
+/boutique/herve-arduini/tableaux-sexy/disco-ball/ 11 155409 1 2
+/.well-known/acme-challenge/_Q47--SDA772YN8Z1TKE75TLQ0CWEJRE 1 64 0 0
+/.well-known/acme-challenge/A9NVVVFFCQXBSO30JEY5R0C1_M_K290_ 1 64 0 0
+/.well-known/acme-challenge/4_-BVNXZFKS79INCXS9JLKOVFBJ9SJ5Y 1 64 0 0
+/.well-known/acme-challenge/TJL60_CF9UR86L_BVDJ3ASU1UKNIR3RK 1 64 0 0
+/blog-design/page/2/ 4 36420 0 1
+/.well-known/acme-challenge/-JATP9OCW1EAEKE1M6_OQ95BOW0-JBJW 1 64 0 0
+/.well-known/acme-challenge/HNLVZOBMCJM7OGA3F8SCXQA641ZDW2UN 1 64 0 0
+/.well-known/acme-challenge/N98M6GX50BMUAK-8BPVPVAY44QNZX9S_ 1 64 0 0
+/.well-known/acme-challenge/337Z5F3O-8-3RIFKUYH5G15VEE2-YE96 1 64 0 0
+/.well-known/acme-challenge/3MI24KQLMINBJ66EYNH60MDC6O5M9VE5 1 64 0 0
+/finitions/ 1 7191 0 0
+/.well-known/acme-challenge/44NU-OMOAJ3O710S0E3EQ1GA1GWCR5-R 1 64 0 0
+/.well-known/acme-challenge/7XL2FWU46METJ3-XJHM5MPA0J5L-65B9 1 64 0 0
+/.well-known/acme-challenge/-4NK44042APSZ-MJSJSH1J-JQVL8FW_M 1 64 0 0
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/ 4 159827 1 1
+/.well-known/acme-challenge/IDB2M4CZW4AZ_GIUZYWWC93JTDNUIFAD 1 64 0 1
+/.well-known/acme-challenge/TY-GA0LB9AIC6Q_BZOB5JMQVL_8C_NX0 1 64 0 0
+/.well-known/acme-challenge/7TLL9TALGTA-BS6S0Z93W7JWIBD1QUSL 1 64 0 0
+/categorie-produit/herve-arduini/tableau-orientaliste/ 3 24594 0 0
+/.well-known/acme-challenge/MS849NIJFS3KA5KLLXIDI85U491Y5210 1 64 0 0
+/boutique/herve-arduini/tableau-diasec/speed/ 3 39749 0 1
+/categorie-produit/herve-arduini/oeuvres-detournees/ 15 140132 0 1
+/.well-known/acme-challenge/JIGZ_FIW2GDMZCCW548CYSQO01FGPR-C 1 64 0 0
+/.well-known/acme-challenge/D03Q2W0DIX98I4CE264L9ANMQQ4FT0MM 1 64 0 0
+/.well-known/acme-challenge/T8X651K6WPI2QNPSYOAC_2G9HEU336XG 1 64 0 0
+/.well-known/acme-challenge/SHVP90O07_ICF2U32L9X53_AOC7FLZA8 1 64 1 0
+/wp-json/ 1 4848 1 1
+/boutique/aurelie-anger/pastel/evanescent/ 2 79683 0 0
+/plexiplay-chez-resto-incontro-enrico-co/ 1 8774 0 0
+/plexiplay-collection-tableaux/ 2 16944 0 1
+/.well-known/acme-challenge/E52F6AZSDQXDA4S94MH63XQXN_-4MQ7L 1 64 0 0
+/.well-known/acme-challenge/GL42I-2N2ATCT51ENPQ0HVEOY_QIWDH0 1 64 0 0
+/.well-known/acme-challenge/PHSJ3P3VD18X7OZJQRIJVAGWKNVO17X1 1 64 0 0
+/.well-known/acme-challenge/3LU_ND-HU9CEN71BL8XFY2RNGWCDP4TE 1 64 0 0
+/.well-known/acme-challenge/PHSE_C2-GA2XYXQ5VANKATCWLAOVH1AH 1 64 0 0
+/categorie-produit/herve-arduini/tableaux-deco-art/ 5 33250 1 1
+/.well-known/acme-challenge/K69LS592Q3A2XV98-LPA_AB6MRPXPKZ4 1 64 0 0
+END_SIDER

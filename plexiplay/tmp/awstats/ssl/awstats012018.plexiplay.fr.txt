@@ -1,0 +1,260 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201801 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2684                
+POS_VISITOR 6131                
+POS_DAY 6355                
+POS_DOMAIN 3209                
+POS_LOGIN 3456                
+POS_ROBOT 3611                
+POS_WORMS 3808                
+POS_EMAILSENDER 3939                
+POS_EMAILRECEIVER 4082                
+POS_SESSION 6622                
+POS_SIDER 6781                
+POS_FILETYPES 4217                
+POS_DOWNLOADS 4312                
+POS_OS 4360                
+POS_BROWSER 4471                
+POS_SCREENSIZE 4573                
+POS_UNKNOWNREFERER 4647                
+POS_UNKNOWNREFERERBROWSER 4850                
+POS_ORIGIN 5048                
+POS_SEREFERRALS 5180                
+POS_PAGEREFS 5324                
+POS_SEARCHWORDS 5472                
+POS_KEYWORDS 5624                
+POS_MISC 2348                
+POS_ERRORS 5683                
+POS_CLUSTER 3312                
+POS_SIDER_404 5790                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180201023706 1 0 6695924566314
+FirstTime 20180102113414
+LastTime 20180130005828
+LastUpdate 20180201131229 1 0 0 0 0
+TotalVisits 15                  
+TotalUnique 4                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 4                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 18458 0 0 0
+1 1 1 18546 0 0 0
+2 0 0 0 0 0 0
+3 0 0 0 2 2 0
+4 2 2 36741 0 1 55
+5 3 3 36091 0 0 0
+6 0 0 0 1 1 0
+7 0 0 0 1 1 0
+8 0 0 0 2 2 0
+9 0 0 0 1 1 0
+10 0 0 0 0 0 0
+11 2 2 18327 0 0 0
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 0 0 0 1 1 1334
+15 0 0 0 1 2 4734
+16 0 0 0 2 2 126580
+17 2 2 18152 0 0 0
+18 0 0 0 1 1 0
+19 0 0 0 0 0 0
+20 3 3 36381 0 0 0
+21 0 0 0 1 1 0
+22 2 2 18388 0 0 0
+23 1 1 18263 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 9 9 164672
+gb 4 4 54675
+it 4 4 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 1 55 20180113044814 1
+netcraft 1 126580 20180109160929 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+php 4 0 0 0
+html 13 219347 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+Unknown 4 4
+macosx12 2 2
+macosx 7 7
+winnt 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 3
+Unknown 4 4
+firefox56.0 4 4
+chrome61.0.3163.100 9 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+WordPress/4.3.15;_https://www.plexiplay.fr 20180126225107
+WordPress/4.3.14;_https://www.plexiplay.fr 20180105173936
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.3.15;_https://www.plexiplay.fr 20180126225107
+WordPress/4.3.14;_https://www.plexiplay.fr 20180105173936
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 13
+From1 4 4
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 11 0
+404 1 4734
+403 1 1334
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/.well-known/dnt-policy.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 4
+54.183.130.127 9 9 164672 20180130005828
+185.2.4.29 4 4 0 20180126225107
+163.172.190.211 2 2 26692 20180113053200
+51.15.128.42 2 2 27983 20180113051126
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20180102 2 2 18327 2
+20180105 2 2 18152 2
+20180108 1 1 18111 1
+20180111 1 1 18263 1
+20180113 4 4 54675 2
+20180115 1 1 18546 1
+20180120 1 1 18157 1
+20180123 2 2 18270 2
+20180126 2 2 18388 2
+20180130 1 1 18458 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 13
+15mn-30mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 10 183256 10 9
+/wp-cron.php 4 0 4 4
+/panier/ 1 18398 0 1
+/mentions-legales/ 1 9399 0 1
+/contact/ 1 8294 1 0
+END_SIDER

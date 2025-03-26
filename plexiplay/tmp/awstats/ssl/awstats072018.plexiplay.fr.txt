@@ -1,0 +1,394 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201807 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2687                
+POS_VISITOR 12836               
+POS_DAY 13297               
+POS_DOMAIN 3307                
+POS_LOGIN 3575                
+POS_ROBOT 3730                
+POS_WORMS 4090                
+POS_EMAILSENDER 4221                
+POS_EMAILRECEIVER 4364                
+POS_SESSION 13745               
+POS_SIDER 13912               
+POS_FILETYPES 4499                
+POS_DOWNLOADS 4634                
+POS_OS 4682                
+POS_BROWSER 4830                
+POS_SCREENSIZE 5068                
+POS_UNKNOWNREFERER 5142                
+POS_UNKNOWNREFERERBROWSER 5428                
+POS_ORIGIN 5624                
+POS_SEREFERRALS 5758                
+POS_PAGEREFS 5902                
+POS_SEARCHWORDS 6138                
+POS_KEYWORDS 6290                
+POS_MISC 2351                
+POS_ERRORS 6349                
+POS_CLUSTER 3431                
+POS_SIDER_404 6489                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180801125505 2 201 10100133497983
+FirstTime 20180702025230
+LastTime 20180731143938
+LastUpdate 20180801141925 2 0 1 0 0
+TotalVisits 28                  
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 19303 1 3 211598
+1 0 0 0 148 191 1858401
+2 3 3 156590 288 290 2085510
+3 4 4 133692 208 324 864544
+4 1 1 134226 0 0 0
+5 0 0 0 1 1 0
+6 0 0 0 1 3 1110369
+7 0 0 0 0 0 0
+8 0 0 0 2 3 0
+9 0 0 0 0 2 0
+10 0 0 0 0 0 0
+11 3 3 135402 1 1 0
+12 0 0 0 0 0 0
+13 1 1 133205 2 2 0
+14 7 7 117166 0 0 0
+15 1 1 19559 0 0 0
+16 1 2 1110300 2 2 0
+17 1 2 1130198 0 0 0
+18 1 1 0 2 2 0
+19 0 1 71975 1 2 19311
+20 3 3 19510 72 112 1097010
+21 2 2 0 298 303 2617078
+22 1 1 0 275 393 1104370
+23 5 5 272346 68 68 596402
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+us 20 20 1023910
+it 10 10 0
+de 5 5 136987
+fr 0 3 2292575
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+crawl 1094 7976452 20180725223514 8
+no_user_agent 314 971292 20180725222834 0
+robot 3 29082 20180722202059 1
+Googlebot\-Image/ 2 1321829 20180727004253 0
+archive\.org_bot 2 138 20180716224411 2
+Googlebot/ 2 138 20180727004251 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+jpg 1 71975 0 0
+png 2 2220600 0 0
+html 20 888127 0 0
+php 15 272770 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win7 7 6
+win10 1 0
+ios_ipad 1 0
+Unknown 11 11
+macosx12 11 11
+winlong 2 2
+linux 5 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+Unknown 10 10
+chrome26.0.1410.63 4 4
+safari11.0 1 0
+chrome40.0.2214.85 4 4
+msie11.0 1 0
+chrome41.0.2228.0 2 2
+firefox60.0 1 0
+chrome61.0.3163.100 11 11
+mozilla 2 2
+chrome46.0.2754.75 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180709111104
+WordPress/4.9.6;_https://www.plexiplay.fr 20180705162342
+WordPress/4.9.7;_https://www.plexiplay.fr 20180725222007
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+WordPress/4.9.6;_https://www.plexiplay.fr 20180705162342
+WordPress/4.9.7;_https://www.plexiplay.fr 20180725222007
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 23 23
+From1 2 3
+From2 0 0
+From3 0 2
+From4 10 10
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://humantraffickingindicators.org/frais-cadre-plexiglas-grand-format-co83.php5 0 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+302 9 0
+301 104 0
+404 164 1258156
+400 1 1
+500 2 5872
+410 5 1633
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 95
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/%3C 2 -
+/com_sexycontactform/fileupload/index.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/blue-light/%3C 2 -
+/wp-content/plugins/showbiz/temp/update_extract/v4.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/speed/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/lolita/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/pistillum/%3C 2 -
+/wp-content/plugins/inboundio-marketing/admin/partials/csv_uploader.php 1 -
+/wp-content/plugins/reflex-gallery/admin/scripts/FileUploader/php.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/%3C 2 -
+/v4 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/party-night/%3C 2 -
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/%3C 2 -
+/wp-content/plugins/wp-mobile-detector/cache/v4.php 1 -
+/boutique/herve-arduini/tableau-diasec/desir/%3C 2 -
+/wp-content/themes/synoptic/lib/avatarupload/upload.php 1 -
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/virginia/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/blind-date/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/%3C 2 -
+/boutique/aurelie-anger/pastel/sanctuary/%3C 2 -
+/wp-content/uploads/v4.php 3 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/%3C 2 -
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/%3C 2 -
+/com_sexycontactform/fileupload/files/v4.php 1 -
+/boutique/herve-arduini/oeuvres-detournees/folies/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/vis-vis/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/eventail-or/%3C 2 -
+/wp-content/plugins/downloads-manager/upload/v4.php 1 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 2 -
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/%3C 2 -
+/_input_3_hex.html 1 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/%3C 2 -
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 2 -
+/wp-content/plugins/inboundio-marketing/admin/partials/uploaded_csv/v4.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/open-mind/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/%3C 2 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/%3C 2 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/files/v4.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/%3C 2 -
+/ 2 -
+/wp-content/plugins/wpshop/includes/ajax.php 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 2 -
+/wp-content/plugins/formcraft/file-upload/server/php/ 1 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/%3C 2 -
+/wp-content/plugins/php-event-calendar/server/file-uploader/ 1 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/%3C 2 -
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/%3C 2 -
+/wp-content/plugins/dzs-zoomsounds/admin/upload/v4.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/%3C 2 -
+/wp-content/plugins/wp-mobile-detector/resize.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/%3C 2 -
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/dentelle/%3C 2 -
+/wp-content/uploads/markets/avatars/v4.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/%3C 2 -
+/wordpress/wp-admin/setup-config.php 1 -
+/wp-content/plugins/sexy-contact-form/includes/fileupload/index.php 1 -
+/boutique/herve-arduini/tableau-mauve/sensation/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/hippie/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/disco-ball/%3C 2 -
+/boutique/aurelie-anger/couleurs-vives/highway-hell/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/%3C 2 -
+/boutique/herve-arduini/tableau-diasec/xxplosive/%3C 2 -
+/wp-content/plugins/simple-ads-manager/sam-ajax-admin.php 1 -
+/wp-content/plugins/work-the-flow-file-upload/public/assets/jQuery-File-Upload-9.5.0/server/php/ 1 -
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 2 -
+/wp-content/plugins/sexy-contact-form/includes/fileupload/files/v4.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/%3C 2 -
+/wp-content/uploads/wysija/themes/v4wysija/v4.php 1 -
+/boutique/herve-arduini/tableau-diasec/paris-mix/%3C 2 -
+/wp-content/plugins/cherry-plugin/admin/import-export/upload.php 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/v4.php 1 -
+/boutique/aurelie-anger/pastel/lost/%3C 2 -
+/boutique/aurelie-anger/pastel/evanescent/%3C 2 -
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/%3C 2 -
+/wp-content/plugins/dzs-zoomsounds/admin/upload.php 1 -
+/boutique/herve-arduini/tableau-diasec/party-white/%3C 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+13.57.233.99 11 11 215039 20180731143938
+185.2.4.29 10 10 0 20180725222007
+72.9.105.62 5 5 272346 20180716231447
+138.246.253.5 4 4 0 20180725205710
+104.197.141.11 2 2 267918 20180707045033
+144.76.235.84 1 1 136987 20180707021230
+159.65.187.142 1 1 135402 20180709111104
+209.141.54.221 1 1 133205 20180703135037
+37.70.57.154 0 1 1110300 
+80.11.46.234 0 1 1110300 
+212.47.241.47 0 1 71975 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20180702 1 1 19603 1
+20180703 1 1 133205 1
+20180705 2 2 19303 2
+20180706 1 1 0 1
+20180707 4 4 424415 3
+20180709 2 2 135402 2
+20180710 1 1 19898 1
+20180712 2 2 0 2
+20180713 1 1 19513 1
+20180716 6 6 291905 2
+20180719 1 1 19716 1
+20180720 1 1 0 1
+20180721 1 1 0 1
+20180722 2 3 91418 2
+20180725 7 7 19454 5
+20180727 0 1 1110300 0
+20180728 1 1 19582 1
+20180730 0 1 1110300 0
+20180731 1 1 19458 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30mn-1h 2
+30s-2mn 1
+0s-30s 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/ 20 888127 17 17
+/wp-cron.php 10 0 8 8
+/index.php 2 270192 2 2
+/wp-admin/admin-ajax.php 1 43 0 0
+/wp-admin/admin-post.php 1 0 0 1
+/wp-login.php 1 2535 1 0
+END_SIDER

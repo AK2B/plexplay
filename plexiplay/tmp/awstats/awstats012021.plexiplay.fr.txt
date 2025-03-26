@@ -1,0 +1,2953 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202101 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2692                
+POS_VISITOR 55518               
+POS_DAY 108682              
+POS_DOMAIN 3709                
+POS_LOGIN 4882                
+POS_ROBOT 5037                
+POS_WORMS 6434                
+POS_EMAILSENDER 6565                
+POS_EMAILRECEIVER 6708                
+POS_SESSION 109648              
+POS_SIDER 109863              
+POS_FILETYPES 6843                
+POS_DOWNLOADS 7191                
+POS_OS 7571                
+POS_BROWSER 7952                
+POS_SCREENSIZE 12255               
+POS_UNKNOWNREFERER 12329               
+POS_UNKNOWNREFERERBROWSER 13174               
+POS_ORIGIN 13683               
+POS_SEREFERRALS 13832               
+POS_PAGEREFS 14126               
+POS_SEARCHWORDS 14987               
+POS_KEYWORDS 15139               
+POS_MISC 2355                
+POS_ERRORS 15198               
+POS_CLUSTER 4738                
+POS_SIDER_404 15386               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210201001325 410 97567 13384919788365
+FirstTime 20210101001140
+LastTime 20210131235424
+LastUpdate 20210201131740 410 0 409 0 0
+TotalVisits 1814                
+TotalUnique 1343                
+MonthHostsKnown 0                   
+MonthHostsUnknown 1392                
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 31 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 251 1386 81528391 244 429 13364327
+1 273 608 23675513 302 630 19794075
+2 101 108 491724 225 430 19092944
+3 126 660 41028576 228 407 18814166
+4 137 140 1492673 233 414 14669561
+5 144 451 21908876 275 494 21946825
+6 146 148 965939 639 975 23215147
+7 188 1063 69719605 237 514 23576920
+8 246 840 48075948 519 741 26449315
+9 215 406 13943995 381 599 24016338
+10 184 967 60126950 287 451 15817580
+11 216 1654 97435886 263 608 20064676
+12 509 1603 78048768 250 437 17630754
+13 290 3706 188942059 167 313 12480337
+14 195 1616 113178753 237 463 14036111
+15 225 2364 170601513 253 498 17411119
+16 165 696 36639205 206 425 14293019
+17 206 2097 161016949 194 418 13232279
+18 240 2136 137551808 283 431 16864263
+19 212 862 52061944 224 442 9962409
+20 175 717 26834670 206 356 13398045
+21 299 1495 92335486 393 611 13554784
+22 274 2482 204413284 449 845 24079356
+23 221 1407 83555747 422 822 15939780
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 64
+it 1228 1279 827837
+us 1188 1764 45794092
+fr 898 18391 1348235471
+gb 432 4427 247252476
+ru 191 329 13449295
+de 153 372 16107652
+ca 111 168 1669841
+ro 98 252 16047089
+in 96 267 6119976
+ua 85 85 6301565
+nl 64 65 174253
+se 60 60 730830
+be 54 916 66824206
+vn 47 47 215406
+au 45 45 48262
+lt 34 34 13940
+gr 33 33 36469
+pl 27 41 326830
+tr 26 26 56180
+cz 26 26 82494
+tw 24 24 52184
+kr 24 24 79712
+mx 21 21 72911
+id 16 59 375047
+uz 16 16 45192
+ma 4 96 3032124
+sa 1 1 19046
+es 12 102 3725522
+sg 15 15 41086
+br 4 17 160752
+am 3 3 1223
+hr 1 1 410
+mu 4 4 1640
+ch 5 113 5146744
+tn 8 8 6772
+bb 1 1 3586
+nc 1 1 3586
+cw 4 4 344668
+cn 13 26 259576
+hk 2 2 3019
+th 7 7 3651
+cl 6 6 40115
+kz 8 8 11128
+my 5 5 2050
+by 7 7 12926
+za 9 9 9140
+dk 14 14 11406
+eu 10 10 11508
+rs 2 2 19650
+pt 4 4 5564
+hu 7 139 8922989
+bg 4 4 1640
+ie 4 156 12673350
+jp 14 14 9256
+il 6 6 23087
+fi 1 1 410
+ir 5 5 2050
+lu 8 8 17176
+no 4 4 3542
+sc 14 14 35170
+la 1 1 3586
+co 5 5 17930
+ba 11 11 39446
+at 7 7 8528
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 32
+bingbot/ 2247 258818017 20210131222515 127
+Googlebot/ 1560 11529294 20210131220736 46
+no_user_agent 1008 8882066 20210131070428 0
+bot[\s_+:,\.\;\/\\-] 615 5003110 20210131192404 191
+Googlebot\-Image/ 583 69291921 20210131215220 0
+SemrushBot/ 563 4321105 20210126232958 134
+crawl 521 8414823 20210131063919 16
+bingpreview 510 10188903 20210131115415 0
+Applebot/ 450 4001685 20210131132834 21
+AhrefsBot/ 392 4060399 20210131232755 34
+MegaIndex\.ru/ 275 3059170 20210109062702 1
+SeznamBot/ 247 62642 20210131091607 119
+robot 195 1797957 20210123105748 2
+Mail\.RU_Bot/ 96 264872 20210129062002 40
+MJ12bot/ 84 587849 20210129121312 31
+facebookexternalhit/ 80 9044138 20210129070342 0
+LinkpadBot/ 62 699573 20210120220147 0
+CCBot/ 48 583113 20210117113259 4
+unknown 39 2683 20210130090749 39
+yandex 26 10660 20210128095247 0
+YandexBot/ 20 136635 20210129190650 13
+oBot/ 18 2030929 20210104200542 1
+Dalvik/ 18 6547517 20210131225126 0
+MojeekBot/ 14 103453 20210114215201 7
+DuckDuckGo\-Favicons\-Bot/ 14 158574 20210131211239 0
+SafeDNSBot 5 38019 20210104043334 1
+DotBot/ 1 67 20210116203134 1
+(firefox/)([0-9]\.|[0-1][0]\.) 8 75263 20210123142258 0
+CFNetwork 1 3419 20210131224918 0
+baidu 1 410 20210105031951 0
+curl 3 97370 20210109095845 0
+java 6 8346 20210107095343 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+xml 2 1416 0 0
+Unknown 13 136617 0 0
+woff 316 8758204 0 0
+gif 391 1514622 0 0
+eot 2 60606 0 0
+php 3481 2958460 0 0
+png 1749 289299739 0 0
+txt 10 60532 0 0
+jpg 14095 1401497547 0 0
+ttf 2 63625 0 0
+css 2859 21549855 0 0
+html 1422 32621538 0 0
+jpeg 192 6582075 0 0
+js 5078 40469426 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 7
+/wp-content/plugins/woocommerce/readme.txt 4 0 35984
+/wp-includes/js/tinymce/license.txt 1 0 9359
+/wp-includes/images/crystal/license.txt 1 0 143
+/wp-includes/js/swfupload/license.txt 1 0 844
+/wp-content/plugins/contact-form-7/readme.txt 1 0 3926
+/wp-includes/ID3/license.commercial.txt 1 0 608
+/wp-includes/ID3/readme.txt 1 0 9668
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 22
+win98 4 4
+win2003 53 53
+Unknown 1843 1216
+macosx12 276 17
+win7 233 113
+win2000 3 3
+win10 10331 1294
+macosx9 1 1
+linuxandroid 5339 866
+macosx11 524 18
+win95 6 6
+ios_iphone 3762 195
+macosx10 5 4
+macosx8 1 1
+winxp 68 68
+macosx 5049 318
+win8 9 9
+winlong 11 11
+linux 1170 900
+win8.1 316 121
+winphone 2 2
+ios_ipad 606 18
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 198
+firefox81 1 1
+safari10.0 152 7
+chrome85.0.4183.102 92 36
+chrome88.0.4324.96 972 50
+firefox34.1 4 4
+chrome60.0.3112.50 46 2
+mozilla 673 42
+chrome83.0.4086.0 5 5
+chrome77.0.2490.71 1 1
+chrome71.0.3578.80 383 11
+edge18 2 0
+firefox77.0 107 5
+chrome41.0.2228.0 2 2
+chrome84.0.4143.7 587 19
+chrome74.0.3729.136 14 14
+firefox26.0 1 1
+msie7.0 4 4
+chrome67.0.3396.87 16 16
+chrome75.0.3770.143 2 2
+firefox52.9 24 24
+opera73.0.3856.329 47 1
+firefox33.0 2 2
+chrome50.0.2661.75 2 2
+opera48.0.2685.52 4 4
+msie6.0 88 88
+opera9.0 3 3
+opera55.1.2719.50626 6 6
+opera73.0.3856.344 333 14
+opera47.0.2631.39 2 2
+chrome81.0.4044.129 54 54
+safari14.0.3 1 1
+chrome28.0.1500.94 4 4
+firefox78.0 507 350
+chrome83.0.4103.61 38 38
+chrome78.0.3904.62 5 5
+chrome78.0.3904.108 309 203
+chrome80.0.3987.116 1 1
+chrome70.0.3538.102 893 35
+chrome77.0.3865.73 2 2
+chrome37.0.2049.0 4 4
+chrome87.0.4280.88 1104 40
+chrome63.0.3239.111 10 10
+firefox52.0 6 6
+firefox81.0 7 7
+opera12.17 2 2
+opera6.01 6 6
+chrome76.0.3809.111 4 4
+firefox28.0 4 4
+chrome5.0.375.99 14 14
+opera12.16 2 2
+chrome59.0.3071.125 9 9
+msie10.0 4 4
+chrome60.0.3112.116 3 3
+firefox79.0 1 1
+firefox17.0 2 2
+chrome40.0.2214.89 11 11
+chrome79.0.3945.116 44 1
+chrome64.0.3282.186 12 12
+chrome68.0.3440.75 6 6
+chrome77.0.3865.90 3 2
+chrome53.0.2785.124 4 4
+chrome66.0.3359.181 3 3
+opera8.01 3 3
+chrome55.0.2883.91 3 3
+android 38 38
+chrome76.0.3809.89 7 7
+chrome38.0.1025.166 3 3
+chrome74.0.3729.157 12 12
+chrome61.0.3163.100 6 6
+firefox66.0 2 2
+firefox67.0 2 2
+firefox29.0 2 2
+chrome61.0.3163.98 4 4
+chrome65.0.3325.109 4 4
+chrome83.0.3770.100 1 1
+safari14.0.2 3645 142
+firefox21.0 1 1
+chrome74.0.3729.169 6 6
+chrome66.0.3359.139 3 3
+chrome64.0.3282.137 2 2
+opera12.51 2 2
+chrome62.0.3202.84 14 14
+chrome58.0.1145.75 1 1
+chrome76.0.3803.0 1 0
+safari13.1.2 964 62
+firefox18.0 2 2
+firefox68.0 2 2
+chrome65.0.3325.146 4 4
+chrome59.0.3071.115 145 33
+chrome67.0.3396.99 3 3
+chrome78.0.3904.97 8 8
+chrome65.0.3325.181 7 7
+chrome88.0.4324.93 747 25
+firefox30.0 2 2
+firefox54.0 1 1
+chrome84.0.4147.125 19 14
+chrome79.0.3945.88 18 18
+firefox62.0 795 795
+chrome85.0.4183.121 36 36
+chrome66.0.3359.126 4 4
+chrome75.0.3770.142 5 5
+chrome71.0.3578.98 2 2
+opera34.0.2036.25 2 2
+chrome75.0.3729.169 39 39
+chrome85.0.4183.127 207 7
+firefox65.0 7 7
+chrome72.0.3626.121 5 5
+firefox43.0 9 9
+Unknown 1197 1173
+opera36.0.2130.32 2 2
+chrome70.0.3538.77 2 2
+chrome87.0.4280.141 4362 244
+firefox85.0 93 4
+chrome83.0.4103.106 695 30
+chrome83.0.4103.101 62 3
+opera54.0.2952.54 4 4
+chrome84.0.4147.105 32 13
+firefox82.0 6 6
+chrome56.0.2924.87 6 6
+chrome43.0.2376.69 2 2
+msie11.0 158 23
+firefox51.0 2 2
+chrome88.0.4240.193 1 1
+chrome80.0.3987.149 144 6
+chrome30.0.0.0 2 2
+safari14.0 520 34
+chrome26.0.1410.65 1 1
+chrome34.0.1847.76 1 1
+firefox59.0 4 4
+chrome49.0.2623.75 2 1
+firefox80.0 11 3
+chrome77.0.3865.92 11 11
+msie5.0 4 4
+edge15 1 1
+chrome87.0.4280.101 839 33
+chrome35.0.1916.47 1 1
+chrome83.0.4103.0 2 2
+chrome83.0.4093.3 4 4
+opera54.3.2672.50220 3 3
+chrome57.0.2987.108 2 2
+chrome78.0.3904.96 288 12
+safari11.1.2 471 14
+chrome86.0.4240.193 73 73
+chrome60.0.3112.113 256 256
+chrome73.0.3683.90 3 3
+chrome86.0.4240.198 143 4
+netscape5.0 2 2
+safari 556 45
+chrome68.0.3440.91 6 6
+chrome78.0.3904.90 15 15
+chrome62.0.3202.94 18 18
+firefox64.0 1 1
+chrome58.0.3029.110 9 9
+opera43.0.2442.991 6 6
+chrome79.0.3945.130 1 1
+chrome70.0.3538.110 4 4
+firefox45.0 7 7
+edge17 656 26
+firefox72.0 121 8
+firefox63.0 1006 42
+iphone 252 8
+chrome66.0.3359.158 4 4
+firefox84.0 1362 185
+chrome71.0.3578.99 10 10
+chrome41.0.2224.3 4 4
+chrome84.0.4147.111 2 2
+chrome68.0.3440.1805 1 1
+chrome78.0.3904.87 22 22
+msie9.0 9 8
+chrome39.0.2171.95 1 0
+chrome88.0.4324.104 799 29
+safari11.0 59 3
+chrome52.0.2743.98 2 2
+opera11.2.3.102637 2 2
+chrome58.0.3029.83 8 8
+chrome60.0.3112.107 3 3
+chrome68.0.3440.84 4 4
+firefox40.1 2 2
+firefox57.0 2 2
+chrome45.0.2454.94 2 2
+chrome79.0.3945.79 24 24
+firefox56.0 1 1
+safari12.1.2 372 12
+chrome80.0.3987.132 1 1
+chrome38.0.2125.102 3 3
+chrome77.0.3865.116 28 28
+safari14.0.1 1158 41
+chrome75.0.3770.100 9 9
+chrome43.0.2357.93 7 7
+chrome83.0.4103.96 1 1
+chrome63.0.3239.132 2 2
+chrome70.0.3538.80 10 10
+chrome60.0.3112.90 4 4
+chrome69.0.3497.100 35 35
+chrome76.0.3809.132 3 3
+chrome27.0.1500.55 1 1
+safari13.1.1 134 5
+chrome53.0.2785.143 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 15
+Photon/1.0 20210130004222
+adreview/1.0 20210129070323
+Go-http-client/1.1 20210114040704
+cortex/1.0 20210123184021
+SEMrushBot 20210113182845
+Apache/2.4.34_(Ubuntu)_OpenSSL/1.1.1_(internal_dummy_connection) 20210130060506
+axios/0.19.2 20210129055613
+Qwantify/1.0 20210131221607
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210128204627
+Foregenix_Web_Scan_1.100000_(www.foregenix.com/scan) 20210112050739
+Mozilla/5.0_(compatible;_Domains_Project/1.2.7;__https://domainsproject.org) 20210119022403
+Mozilla/5.0_(S60V5;_U;_en-us;_Nokia5250)/UC_Browser8.2.0.132/50/355/UCWEB_Mobile 20210104045600
+builtwith 20210116185306
+Mozilla/5.0_(compatible;_Dataprovider.com) 20210130030035
+WordPress/4.9.16;_http://www.plexiplay.fr 20210131232755
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 11
+Go-http-client/1.1 20210114040704
+cortex/1.0 20210123184021
+Apache/2.4.34_(Ubuntu)_OpenSSL/1.1.1_(internal_dummy_connection) 20210130060506
+SEMrushBot 20210113182845
+axios/0.19.2 20210129055613
+Photon/1.0 20210130004222
+builtwith 20210116185306
+adreview/1.0 20210129070323
+Foregenix_Web_Scan_1.100000_(www.foregenix.com/scan) 20210112050739
+WordPress/4.9.16;_http://www.plexiplay.fr 20210131232755
+Qwantify/1.0 20210131221607
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2628 2731
+From1 5 5
+From2 128 139
+From3 57 71
+From4 2420 26666
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 9
+google_com 13 13
+www_google_com 75 81
+ecosia 3 3
+duckduckgo 1 1
+bing 8 13
+fr_search_yahoo_com 1 1
+www_google_be 3 3
+qwant_com 2 2
+www_google_fr 22 22
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 22
+https://1001desert.com 6 6
+https://badavit.com.ua 6 6
+https://obiavo.kz 6 6
+http://www.plexiplay.com 5 5
+https://credit.co.ua/ru/ 3 3
+https://www.pinterest.cl 3 3
+https://obiavo.ru 3 3
+https://teencastingporn.com 3 3
+https://dojki365.online 3 3
+https://greenshop.su 3 3
+https://porno-home365.com 3 3
+https://siteripz.net 3 3
+http://0-0.fr 2 2
+http://plexiplay.com 2 2
+http://wuots.pedpls.com/blog/21970860/view/ 1 4
+http://shmt.pedpls.com/blog/21970860/view/ 1 4
+http://uxip.pedpls.com/blog/78132636/view/ 1 3
+https://fb.me/3vUXBB1uz 1 1
+http://plexiplay.com 1 1
+http://ogidsf.pedpls.com/blog/21970860/view/ 1 4
+http://fgflwc.pedpls.com/blog/77812216/view/ 0 2
+http://www.brooksbrokerage.com/library/pdf.php 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+410 128 41017
+400 21 361
+404 1271 11333127
+405 1 60
+500 23 29785
+302 62 0
+301 1461 0
+206 37 2465059
+403 8 10739
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 778
+/author/admin/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 10 -
+/wp-config.php.copy 1 http://plexiplay.fr/wp-config.php.copy
+/boutique/aurelie-anger/couleurs-vives/virginia/< 1 -
+/wordpress-5.5.tar.gz 1 http://plexiplay.fr/wordpress-5.5.tar.gz
+/asset-manifest.json 3 http://www.plexiplay.fr/
+/.wp-config.php.BCK 1 http://plexiplay.fr/.wp-config.php.BCK
+/js.zip 1 http://plexiplay.fr/js.zip
+/www.plexiplay.fr/ 1 -
+/vendor/.env 2 -
+/win/.env 1 -
+/hivcxa.php 1 -
+/wp-content/uploads/2014/class-wp-customize.php 2 -
+/wp-content/plugins/recent-backups/download-file.php 1 http://plexiplay.fr/wp-content/plugins/recent-backups/download-file.php
+/media-admin.php 2 http://plexiplay.fr/media-admin.php
+/fitness.zip 1 http://plexiplay.fr/fitness.zip
+/wp1/ 1 -
+/wordpress/ 3 -
+/wp-content/plugins/angwp/assets/fonts/font-awesome/css/font-awesome.min.css 1 -
+http://www.plexiplay.fr/s_eval.php 1 -
+/apple-touch-icon-120x120.png 1 -
+/wp-content/plugins/google-document-embedder/libs/pdf.php 2 http://plexiplay.fr/wp-content/plugins/google-document-embedder/libs/pdf.php
+/admin/assets/jquery-file-upload/server/php/ 1 http://www.google.com/
+/Archive.zip 4 -
+/wp-content/plugins/angwp/assets/dist/angwp.bundle.js.css 1 http://plexiplay.fr/wp-content/plugins/angwp/assets/dist/angwp.bundle.js.css
+/media/log.php 1 http://plexiplay.fr/media/log.php
+/rest.zip 1 http://plexiplay.fr/rest.zip
+/baindex.php 4 www.plexiplay.fr
+/.psql_history 1 http://plexiplay.fr/.psql_history
+/wp-options.php 2 plexiplay.fr
+/temp/.env 1 -
+/wordpress-5.2.3.zip 1 http://plexiplay.fr/wordpress-5.2.3.zip
+/fckeditor/editor/ 1 http://www.baidu.com/
+/test/.env.php 1 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%83%C2%A9%20By%20PLEXIPLAY 1 -
+/plexiplay.fr.zip 3 -
+/2019-bk.zip 1 http://plexiplay.fr/2019-bk.zip
+/cache/content-post.php 2 http://plexiplay.fr/cache/content-post.php
+/wp-config.php._inc 1 http://plexiplay.fr/wp-config.php._inc
+/mysql 1 http://plexiplay.fr/mysql
+/wordpress-4.8.14.tar.gz 1 http://plexiplay.fr/wordpress-4.8.14.tar.gz
+/categorie-produit/herve-arduini/tableau-trame-courbe/ 2 -
+/skin/test.php 1 http://plexiplay.fr/skin/test.php
+/categorie-produit/herve-arduini/tableau-trame-ligne/ 2 -
+/backup.zip 2 http://plexiplay.fr/backup.zip
+/wordpress%204.9.8-fa.zip 1 http://plexiplay.fr/wordpress%204.9.8-fa.zip
+/boutique/herve-arduini/tableaux-sexy/little-street/< 1 -
+/boutique/herve-arduini/tableau-diasec/paris-mix/ 5 -
+/shop1/.env 1 -
+/php/.env 1 -
+/wp-config.tar.gz 1 http://plexiplay.fr/wp-config.tar.gz
+/boutique/aurelie-anger/kiss-kiss/%3C 1 -
+/inc.php 2 http://plexiplay.fr/inc.php
+/wp-content/themes/themes.php 1 -
+/wp-content/uploads/2017/class-wp-customize.php 2 -
+/public/assets/jquery-file-upload/server/php/ 1 http://www.google.com/
+/wp-admin/includes/class-wp-filesystem-import.php 9 http://google.com
+/simple.php5 2 http://plexiplay.fr/simple.php5
+/test/ 1 -
+/ads.txt 9 -
+/wp-content/plugins/userpro/css/userpro-editor.css 1 -
+/atom.xml 1 -
+/wp-content/uploads/wpcf7_uploads 1 http://plexiplay.fr/wp-content/uploads/wpcf7_uploads
+/wp-config.php.OLD 1 http://plexiplay.fr/wp-config.php.OLD
+/assets/images/doc.php 2 http://google.com
+/assets/plugins/jquery-file-upload/server/php/ 1 http://www.google.com/
+/categorie-produit/herve-arduini/tableau-ligne/ 3 -
+/phqmv.php 1 -
+/wp-includes/css/wp-config.php 1 plexiplay.fr
+/wp-content/uploads/2020/10/content-post.php 1 http://google.com
+/wp-config.php.BACK 1 http://plexiplay.fr/wp-config.php.BACK
+/wp-content/plugins/letme/weblinks.php 1 http://plexiplay.fr/wp-content/plugins/letme/weblinks.php
+/wp-config.php.resetwp_bak 4 -
+/good.txt 1 -
+/wp-admin.php 2 http://plexiplay.fr/wp-admin.php
+/v1/ 1 -
+/wp-admin/images/404.php 1 http://plexiplay.fr/wp-admin/images/404.php
+/2020-new.zip 1 http://plexiplay.fr/2020-new.zip
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/< 1 -
+/config.inc 1 http://plexiplay.fr/config.inc
+/wp-content/uploads/2020/08/doc.php 1 http://google.com
+/site/ 1 -
+/wp-content/plugins/redirection/models/wp-contentt.php 3 http://google.com
+/wordpress-5.5.3.tar.gz 1 http://plexiplay.fr/wordpress-5.5.3.tar.gz
+/boutique/aurelie-anger/couleurs-vives/lolita/< 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/ 4 -
+/xo.php 2 -
+/wp-content/uploads/2020/02/doc.php 2 http://google.com
+/wp-content/themes/fincorp/about3.php 1 http://plexiplay.fr/wp-content/themes/fincorp/about3.php
+/wp-content/uploads/2020/05/doc.php 5 http://google.com
+/wp-content/plugins/wp-diambar/includes/loadme.php 1 -
+/media/c.php 1 http://plexiplay.fr/media/c.php
+/wp-config.TXT 1 http://plexiplay.fr/wp-config.TXT
+/larva.php 2 -
+/wp-content-backup.zip 1 http://plexiplay.fr/wp-content-backup.zip
+/wp-content/plugins/superstorefinder-wp/css/ssf-wp-admin.css 1 -
+/wp-content.tar 1 http://plexiplay.fr/wp-content.tar
+/css.php 1 http://plexiplay.fr/css.php
+/boutique/aurelie-anger/couleurs-vives/lie/< 1 -
+/service/.env 1 -
+/boutique/herve-arduini/tableau-diasec/open-mind/< 1 -
+/wp-config.php.1 1 http://plexiplay.fr/wp-config.php.1
+/wp-content/uploads/2019/03/wp-console.php 1 http://site.ru
+/panel/kcfinder/browse.php 1 -
+/wp-config.php.ORIGINAL 1 http://plexiplay.fr/wp-config.php.ORIGINAL
+/wp-content/uploads/2020/12/doc.php 3 http://google.com
+/infected.tar.gz 1 http://plexiplay.fr/infected.tar.gz
+/newsleter.php 1 http://plexiplay.fr/newsleter.php
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/ 3 -
+/wp-content/uploads/2021/01/doc.php 1 http://google.com
+/wp-content/access.log 1 http://plexiplay.fr/wp-content/access.log
+/.env1 1 -
+/boutique/herve-arduini/tableaux-sexy/disco-ball/< 1 -
+/wordpress-5.2.2.zip 1 http://plexiplay.fr/wordpress-5.2.2.zip
+/wp-content/uploads/doc.php 3 http://google.com
+/admin/fckeditor/editor/ 1 http://www.baidu.com/
+/wp-content/themes/aemi1/footer1.php 1 http://plexiplay.fr/wp-content/themes/aemi1/footer1.php
+/wp-content/uploads/2020/09/doc.php 2 http://google.com
+/media/a.php 3 http://plexiplay.fr/media/a.php
+/wp-content/uploads/2020/12/content-post.php 3 http://google.com
+/tg.zip 1 http://plexiplay.fr/tg.zip
+/blackhat.php 1 http://plexiplay.fr/blackhat.php
+/ckeditor/kcfinder/browse.php 1 -
+/indexe.php 2 http://plexiplay.fr/indexe.php
+/bac.zip 1 http://plexiplay.fr/bac.zip
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 3 -
+/env/.env 1 -
+/old/wp-admin/ 2 http://plexiplay.fr/
+/boutique/herve-arduini/tableaux-sexy/moon/< 1 -
+/wp-includes/theme-compat/images.php 1 http://site.ru
+/V2/.env 1 -
+/boutique/tableau-diasec/vis-vis/%3C 1 -
+/skin/xml.php 1 http://plexiplay.fr/skin/xml.php
+/wp-content/plugins/simple-image-manipulator/controller/download.php 1 http://plexiplay.fr/wp-content/plugins/simple-image-manipulator/controller/download.php
+/index.atom 1 -
+/wordpress-4.9.1-fa_IR.zip 1 http://plexiplay.fr/wordpress-4.9.1-fa_IR.zip
+/media/wso.php 2 http://plexiplay.fr/media/wso.php
+/blog/.env 3 -
+/wp-content/plugins/wc-frontend-manager/readme.txt 1 -
+/wp-config.SAVE 1 http://plexiplay.fr/wp-config.SAVE
+/img.php 2 http://plexiplay.fr/img.php
+/wordpress-4.9.9.tar.gz 1 http://plexiplay.fr/wordpress-4.9.9.tar.gz
+/media/sitemap.php 1 http://plexiplay.fr/media/sitemap.php
+/wp-content/plugins/background-image-cropper/wp-console.php 2 http://plexiplay.fr/wp-content/plugins/background-image-cropper/wp-console.php
+/.plan 1 http://plexiplay.fr/.plan
+/weblogic.xml 2 http://plexiplay.fr/weblogic.xml
+/localhost/.env 1 -
+/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css 1 -
+/wp-config.php.old 3 http://plexiplay.fr/wp-config.php.old
+/boutique/herve-arduini/tableaux-sexy/dentelle/%3C 3 -
+/mod.php 3 http://plexiplay.fr/mod.php
+/wp/wp-admin/ 1 http://plexiplay.fr/
+/wp-content/plugins/revslider/temp/update_extract/warz0ne/warz0ne.php 1 -
+/templates/ja_purity/ 1 http://plexiplay.fr/templates/ja_purity/index.php
+/wordpress-5.1.1.zip 1 http://plexiplay.fr/wordpress-5.1.1.zip
+/wp-content/plugins/filedownload/download.php/ 1 -
+/node.xml 1 http://plexiplay.fr/node.xml
+/downloader 1 -
+/errors/m.php 2 http://plexiplay.fr/errors/m.php
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/< 1 -
+/wp-content/uploads/2018/class-wp-customize.php 2 -
+/test1/.env 1 -
+/.FBCIndex 1 http://plexiplay.fr/.FBCIndex
+/sitemap.xml.gz 1 http://plexiplay.fr/sitemap.xml.gz
+/git/.env 1 -
+/services/.env 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/ 2 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique%2C%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 1 http://www.plexiplay.fr/
+/wp-content/plugins/unicode/w.php 2 http://plexiplay.fr/wp-content/plugins/unicode/w.php
+/wp-content/uploads/2020/03/doc.php 1 http://google.com
+/yusa.php 3 http://plexiplay.fr/yusa.php
+/post.php 2 http://plexiplay.fr/post.php
+/js 1 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/< 1 -
+/composer.json 1 http://plexiplay.fr/composer.json
+/backup/wp-admin/ 1 http://plexiplay.fr/
+/api/.env 3 -
+/rss.xml 1 -
+/wp-includes/css/hi.php 1 -
+/license.php 1 http://plexiplay.fr/license.php
+/OLD/wp-admin/ 2 http://plexiplay.fr/
+/wp-content/themes/twentytwelve/class-wp-customize.php 2 -
+/boutique/tableaux-sur-plexi/v-i-p/%3C 1 http://www.plexiplay.fr/boutique/tableaux-sur-plexi/v-i-p/
+/google-site-verification-content-fpk8ez12pdbewljjo9xhbxlv7lhxa9nplpcode87.php 3 http://google.com
+/htaccess.php 2 http://plexiplay.fr/htaccess.php
+/xml.php 2 http://plexiplay.fr/xml.php
+/boutique/aurelie-anger/pastel/evanescent/< 1 -
+/wp-content/plugins/sf-booking/lib/downloads.php 1 http://plexiplay.fr/wp-content/plugins/sf-booking/lib/downloads.php
+/boutique/herve-arduini/tableau-mauve/sensation/< 1 -
+/wp-content/plugins/background-image-cropper/content-post.php 9 http://google.com
+/1.zip 1 http://plexiplay.fr/1.zip
+/wp-content/plugins/smartsupp-live-chat/assets/style.css 1 -
+/wp-content/plugins/newsletter/admin.js 1 http://plexiplay.fr/wp-content/plugins/newsletter/admin.js
+/system/.env 1 -
+/back.zip 1 http://plexiplay.fr/back.zip
+/docindex.php 10 http://google.com
+/wp-content/plugins/wp-file-manager/readme.txt 1 www.google.com
+/sts.zip 1 http://plexiplay.fr/sts.zip
+/well-known.zip 3 -
+/Archive1.zip 1 http://plexiplay.fr/Archive1.zip
+/wp-config-backup1.txt 1 http://plexiplay.fr/wp-config-backup1.txt
+/boutique/tous-les-tableaux-dherve-arduini/enigma/%3C 1 -
+/gank.php.PhP 6 http://google.com
+/config.bak 1 http://plexiplay.fr/config.bak
+/seo_script.php 1 -
+/wp2/ 1 -
+/about.php 2 http://plexiplay.fr/about.php
+/.env.dev 1 -
+/backups.php 1 -
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/< 1 -
+/server.xml 1 http://plexiplay.fr/server.xml
+/resources.xml 1 http://plexiplay.fr/resources.xml
+/wp-config.save 1 http://plexiplay.fr/wp-config.save
+/developer/.env 1 -
+/wp-content/uploads/2020/06/doc.php 4 http://google.com
+/assets/ckeditor/kcfinder/browse.php 1 -
+/locally/.env 1 -
+/wp-content/themes/wp-update.php 2 www.google.com
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/< 1 -
+/boutique/herve-arduini/tableau-diasec/party-white/< 1 -
+/v2/.env 1 -
+/wp-content/plugins/superlogoshowcase-wp/css/super-logo-showcase.css 1 -
+/woo.zip 1 http://plexiplay.fr/woo.zip
+/wp-admin/code87/5.php 2 http://google.com
+/wp-admin/access.log 1 http://plexiplay.fr/wp-admin/access.log
+/wp-config.ZIP 1 http://plexiplay.fr/wp-config.ZIP
+/wp-includes/widgets/class-wp-widget-header.php 1 http://google.com
+/bk.zip 1 http://plexiplay.fr/bk.zip
+/wp-content/plugins/dzs-videogallery/deploy/designer/preview.php 1 -
+/index.xml 1 -
+/wp-config.php~ 3 -
+/wordpress-5.4.1.zip 1 http://plexiplay.fr/wordpress-5.4.1.zip
+/my-account 1 -
+/wp-content/themes/mTheme-Unus/css/css.php 1 -
+/wordpress-5.5.1.zip 1 http://plexiplay.fr/wordpress-5.5.1.zip
+/wp-content/uploads/2020/11/doc.php 4 http://google.com
+/CHANGELOG.md 1 http://plexiplay.fr/CHANGELOG.md
+/check.php 1 http://plexiplay.fr/check.php
+/wp-includes.zip 1 http://plexiplay.fr/wp-includes.zip
+/boutique/page/5/ 5 -
+/boutique/herve-arduini/tableau-diasec/party-white/%3C 3 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/ 1 -
+/public_html.zip 5 -
+/phpmyadmin 1 http://plexiplay.fr/phpmyadmin
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/
+/wp-admin.zip 3 -
+/wp-config.php.swp 1 http://plexiplay.fr/wp-config.php.swp
+/boutique/tableau-diasec/disco-ball/%3C 1 -
+/plexiplay.fr/ 3 -
+/.wp-config.php.bck 1 http://plexiplay.fr/.wp-config.php.bck
+/wp-content/plugins/simple-file-list/ee-upload-engine.php 1 -
+/wordpress-5.3.2.zip 1 http://plexiplay.fr/wordpress-5.3.2.zip
+/checkout 1 http://plexiplay.fr/checkout
+/wp-xmlrpc.php 2 http://plexiplay.fr/wp-xmlrpc.php
+/php_errors.log 1 http://plexiplay.fr/php_errors.log
+/avtogear63_ru_cron.php 1 -
+/system.php 2 http://plexiplay.fr/system.php
+/boutique/tableau-grand-format/party-white/< 1 -
+/old-site/ 1 -
+/website.zip 1 http://plexiplay.fr/website.zip
+/wordpress-5.3.2-ru_RU.zip 1 http://plexiplay.fr/wordpress-5.3.2-ru_RU.zip
+/local/.env 2 -
+/category/blog/aod-blog/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 10 -
+/home/.env 1 -
+/wp-content/themes/beep/widget.php 1 -
+/boutique/herve-arduini/tableau-diasec/party-night/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/party-night/
+/boutique/herve-arduini/tableau-diasec/desir/%3C 1 -
+/template/.env 1 -
+/wp-blog.php 1 http://plexiplay.fr/wp-blog.php
+/templates/beez/ 1 http://plexiplay.fr/templates/beez/index.php
+/public/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.google.com/
+/sitemap.php 3 http://plexiplay.fr/sitemap.php
+/wp-config.test 1 http://plexiplay.fr/wp-config.test
+/wp/.env 1 -
+/wp-config.php.restore 1 http://plexiplay.fr/wp-config.php.restore
+/m.php 2 http://plexiplay.fr/m.php
+/wp-config.BACK 1 http://plexiplay.fr/wp-config.BACK
+/wp-content/wp-info.php 2 http://plexiplay.fr/wp-content/wp-info.php
+/wp-content/plugins/wp-special-textboxes/stb-uploader.php 1 -
+/cache/wp-plugins.php 2 http://google.com
+/file-backup.zip 1 http://plexiplay.fr/file-backup.zip
+/wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php 1 http://plexiplay.fr/wp-content/plugins/aspose-doc-exporter/aspose_doc_exporter_download.php
+/shop/cron.php 1 http://plexiplay.fr/shop//cron.php
+/sites/.env 3 -
+/wp-config 5 -
+/.history 1 http://plexiplay.fr/.history
+/wp-config.php.save 2 -
+/admin/assets/plugins/jquery-file-upload/server/php/ 1 http://www.google.com/
+/phpcs.xml 1 http://plexiplay.fr/phpcs.xml
+/pma 1 http://plexiplay.fr/pma
+/sitemap.txt 7 -
+/wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php 5 -
+/tags.txt 1 http://plexiplay.fr/tags.txt
+/wp-content/plugins/tera-charts/charts/treemap.php 1 http://plexiplay.fr/wp-content/plugins/tera-charts/charts/treemap.php
+/wp-content/plugins/angwp/UPDATES.txt 1 -
+/.wp-config.php.SWP 1 http://plexiplay.fr/.wp-config.php.SWP
+/search/ 2 http://www.plexiplay.fr/
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 2 -
+/wp-config.php.swo 1 http://plexiplay.fr/wp-config.php.swo
+/1.php 1 http://plexiplay.fr/1.php
+/apple-touch-icon-120x120-precomposed.png 1 -
+/wp-content/themes/dulcet/footer1.php 5 http://plexiplay.fr/wp-content/themes/dulcet/footer1.php
+/media/htaccess.php 2 http://plexiplay.fr/media/htaccess.php
+/wordpress-5.4.zip 1 http://plexiplay.fr/wordpress-5.4.zip
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/< 1 -
+/VERSION 1 http://plexiplay.fr/VERSION
+/wp-content/uploads/404.php 8 http://google.com
+/wp-content/uploads/2020/08/content-post.php 1 http://google.com
+/wp-info.php 5 http://google.com
+/boutique/herve-arduini/tableau-diasec/xxplosive/%3C 1 -
+/wp-plugins.php 2 http://plexiplay.fr/wp-plugins.php
+/wp-admin_old.zip 1 http://plexiplay.fr/wp-admin_old.zip
+/wp-content/uploads/2020/02/content-post.php 2 http://google.com
+/seter.php 2 http://plexiplay.fr/seter.php
+/wp-config.BAK 1 http://plexiplay.fr/wp-config.BAK
+/media/alfa.php 2 http://plexiplay.fr/media/alfa.php
+/.addressbook 1 http://plexiplay.fr/.addressbook
+/web/.env 2 -
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 2 -
+/admin/editor/editor/ 1 http://www.baidu.com/
+/boutique/herve-arduini/tableaux-sexy/pistillum/< 1 -
+/new-site/ 1 -
+/wp-class.php 1 -
+/wp-config.php.original 1 http://plexiplay.fr/wp-config.php.original
+/wp-config.txt 1 http://plexiplay.fr/wp-config.txt
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/%3C 1 -
+/php_error.log 1 http://plexiplay.fr/php_error.log
+/config.json 1 http://plexiplay.fr/config.json
+/.gitignore 1 http://plexiplay.fr/.gitignore
+/wp-includes/css/wp-pointer.php 2 http://plexiplay.fr/wp-includes/css/wp-pointer.php
+/wp-content/plugins/easy-wp-smtp/readme.txt 3 -
+/Fckeditor/editor/ 1 http://www.baidu.com/
+/ini.php 1 http://plexiplay.fr/ini.php
+/wp-content/plugins/wp-conns.php 2 -
+/boutique/herve-arduini/tableaux-sexy/dentelle/< 1 -
+/boutique/herve-arduini/tableaux-sexy/eventail-or/< 1 -
+/assets/jquery-file-upload/server/php/ 1 http://www.google.com/
+/wp-config.BACKUP 1 http://plexiplay.fr/wp-config.BACKUP
+/ALL_FILES.zip 1 http://plexiplay.fr/ALL_FILES.zip
+/footer.php 1 http://plexiplay.fr/footer.php
+/boutique/herve-arduini/tableau-diasec/open-mind/%3C 1 -
+/.proclog 1 http://plexiplay.fr/.proclog
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/< 1 -
+/dev/.env 1 -
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/%3C 2 -
+/wp-content/uploads/2020/11/content-post.php 2 http://google.com
+/media/lib.php 1 http://plexiplay.fr/media/lib.php
+/public_html.tar.gz 1 http://plexiplay.fr/public_html.tar.gz
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/< 1 -
+/boutique/tableau-noir-et-blanc/moon/%3C 1 -
+/media/mod.php 1 http://plexiplay.fr/media/mod.php
+/sqladmin 1 http://plexiplay.fr/sqladmin
+/boutique/tableau-noir-et-blanc/le-reverbere/%3C 1 -
+/installer-backup.php 8 -
+/bk/ 1 -
+/wordpress%20%281%29.zip 1 http://plexiplay.fr/wordpress%20%281%29.zip
+/apiv1/.env 1 -
+/php.php 1 http://plexiplay.fr/php.php
+/public/Fckeditor/editor/ 1 http://www.baidu.com/
+/wp-config.TEST 1 http://plexiplay.fr/wp-config.TEST
+/xmlrp.php 2 -
+/demo/ 1 -
+/wp-content/plugins/themegrill-demo-importer/readme.txt 2 -
+/installer.php 8 -
+/media/cron.php 1 http://plexiplay.fr/media/cron.php
+/config.xml 1 http://plexiplay.fr/config.xml
+/latest.zip 1 http://plexiplay.fr/latest.zip
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 13 -
+/ 7 http://plexiplay.fr///
+/member/.env 1 -
+/boutique/herve-arduini/tableaux-sepia/escalator/< 1 -
+/gtde.php 1 -
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/< 1 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/< 1 -
+/public/.env 1 -
+/api1/.env 1 -
+/boutique/tableaux-pop-art/folies/ 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/< 1 -
+/sites/all/libraries/elfinder/src/connectors/php/connector.php 1 http://www.google.com/
+/wp-content/uploads/2021/01/content-post.php 1 http://google.com
+/test.txt 1 http://plexiplay.fr/test.txt
+/without%20wp-content%20wordpress.zip 1 http://plexiplay.fr/without%20wp-content%20wordpress.zip
+/new/ 1 -
+/.env.backup 1 -
+/admin.zip 1 http://plexiplay.fr/admin.zip
+/boutique/tous-les-tableaux-dherve-arduini/napo-wall-street/ 6 -
+/wp-content/plugins/redirection/models/tik.php 1 www.plexiplay.fr
+/boutique/tableau-grand-format/party-white/%3C 2 -
+/temp/ 1 -
+/wp-content/wp-muen.php 1 http://plexiplay.fr/wp-content/wp-muen.php
+/shop 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 3 -
+/log.txt 1 http://plexiplay.fr/log.txt
+/wp-content/plugins/sid/sidwso.php 1 http://plexiplay.fr/wp-content/plugins/sid/sidwso.php
+/wordpress-5.4.2.zip 1 http://plexiplay.fr/wordpress-5.4.2.zip
+/wp-config.TAR.GZ 1 http://plexiplay.fr/wp-config.TAR.GZ
+/cms/ 1 -
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/< 1 -
+/wp-content/plugins/ee-simple-file-list-folders/readme.txt 4 -
+/test.php 2 http://plexiplay.fr/test.php
+/wp-config.back 1 http://plexiplay.fr/wp-config.back
+/boutique/herve-arduini/tableaux-sexy/disco-ball/%3C 2 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/disco-ball/
+/wp-content/plugins/ulisting/README.txt 1 -
+/wp-content/plugins/123contactform-for-wordpress/README.txt 2 -
+/wp-config.php.dat 1 http://plexiplay.fr/wp-config.php.dat
+/wp-content/uploads/2016/class-wp-customize.php 2 -
+/wso.php 5 -
+/blackhat.php.suspected 2 http://plexiplay.fr/blackhat.php.suspected
+/data/.env 2 -
+/wp-admin/css/common.php 2 http://plexiplay.fr/wp-admin/css/common.php
+/http:.zip 3 http://plexiplay.fr/http:.zip
+/wp-content/plugins/custom-registration-form-builder-with-submission-manager/readme.txt 1 -
+/cgi-bin.zip 5 -
+/all.zip 1 http://plexiplay.fr/all.zip
+/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php 1 http://plexiplay.fr/wp-content/plugins/wp-support-plus-responsive-ticket-system/includes/admin/downloadAttachment.php
+/www.googletagmanager.com/ns.html 1 -
+/media/media-admin.php 1 http://plexiplay.fr/media/media-admin.php
+/.ssh 1 http://plexiplay.fr/.ssh
+/index.rdf 1 -
+/config.php 5 http://google.com
+/wp-config.php_bak 1 http://plexiplay.fr/wp-config.php_bak
+/store/log.php 1 http://plexiplay.fr/store//log.php
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/< 1 -
+/blog1/.env 1 -
+/wp-config.php.ORIG 1 http://plexiplay.fr/wp-config.php.ORIG
+/versions.php 1 -
+/wp-content/plugins/advanced-import/readme.txt 2 -
+/web.config 1 http://plexiplay.fr/web.config
+/wp-config.php.tar.gz 1 http://plexiplay.fr/wp-config.php.tar.gz
+/.mysql_history 1 http://plexiplay.fr/.mysql_history
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/< 1 -
+/.meta 2 http://plexiplay.fr/.meta
+/bak/ 1 -
+/wp-content/uploads/2020/09/content-post.php 1 http://google.com
+/alfa.php 1 http://plexiplay.fr/alfa.php
+/.env.txt 1 -
+/wp-config.php.BAK 1 http://plexiplay.fr/wp-config.php.BAK
+/wp-content/themes/NativeChurch/download/download.php 1 http://plexiplay.fr/wp-content/themes/NativeChurch/download/download.php
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 1 -
+/a.php 1 http://plexiplay.fr/a.php
+/store 1 -
+/wp-content/plugins/google-mp3-audio-player/direct_download.php 2 http://plexiplay.fr/wp-content/plugins/google-mp3-audio-player/direct_download.php
+/wp-content/plugins/disclosure-policy-plugin/functions/action.php 1 -
+/site/.env 2 -
+/.DS_Store 2 http://plexiplay.fr/.DS_Store
+/.web 1 http://plexiplay.fr/.web
+/boutique/herve-arduini/tableaux-sepia/ 1 -
+/boutique/page/4/ 3 -
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/< 1 -
+/.well-known.tar.gz 1 http://plexiplay.fr/.well-known.tar.gz
+/wp-content/plugins/404.php 1 http://plexiplay.fr/wp-content/plugins/404.php
+/public/fckeditor/editor/ 1 http://www.baidu.com/
+/media/error.php 1 http://plexiplay.fr/media/error.php
+/general.php 1 -
+/wp-content/plugins/dm-albums/template/album.php 1 -
+/cache/blackhat.php 1 http://plexiplay.fr/cache/blackhat.php
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/%3C 2 -
+/platform/.env 1 -
+/boutique/aurelie-anger/couleurs-vives/highway-hell/< 1 -
+/boutique/aurelie-anger/pastel/lost/%3C 1 -
+/test/.env 4 -
+/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php 4 http://plexiplay.fr/wp-content/plugins/media-library-assistant/includes/mla-file-downloader.php
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/ 4 -
+/data.php 1 http://plexiplay.fr/data.php
+/wp-content/themes/distance-lite/languages/namespaces.php 7 http://plexiplay.fr/wp-content/themes/distance-lite/languages/namespaces.php
+/plexiplay2020 1 www.google.com
+/version.xml 1 http://plexiplay.fr/version.xml
+/apple-touch-icon.png 14 -
+/readme.php 3 http://plexiplay.fr/readme.php
+/wp-check.php 1 -
+/fruits.zip 1 http://plexiplay.fr/fruits.zip
+/config/.env 1 -
+/.passwd 1 http://plexiplay.fr/.passwd
+/core/.env 1 -
+/boutique/herve-arduini/tableau-diasec/desir/< 1 -
+/content-post.php 2 http://plexiplay.fr/content-post.php
+/boutique/herve-arduini/tableaux-sexy/vis-vis/%3C 2 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/vis-vis/
+/production/.env 1 -
+/boutique/tous-les-tableaux-dalexandra-chatenet/olympia/ 2 -
+/media/config.php 1 http://plexiplay.fr/media/config.php
+/adminer.php 1 http://plexiplay.fr/adminer.php
+/wp-logout.php 3 http://plexiplay.fr/wp-logout.php
+/wp-content/plugins/angwp/package.json 1 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/%3C 1 -
+/stag/.env 1 -
+/wp-content/uploads/content-post.php 2 http://google.com
+/test2/.env 1 -
+/wp-content/plugins/product-input-fields-for-woocommerce/readme.txt 2 -
+/generator/ 1 -
+/log.php 1 http://plexiplay.fr/log.php
+/.travis.yml 1 http://plexiplay.fr/.travis.yml
+/wp-content/plugins/ait-csv-import-export/changelog.txt 3 -
+/boutique/aurelie-anger/pastel/lost/< 1 -
+/a-y-t.zip 1 http://plexiplay.fr/a-y-t.zip
+/js/kcfinder/browse.php 1 -
+/info.php 1 http://plexiplay.fr/info.php
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/%3C 2 http://www.plexiplay.fr/boutique/tous-les-tableaux-dherve-arduini/v-i-p/
+/boutique/aurelie-anger/couleurs-vives/blue-light/< 1 -
+/.wwwacl 1 http://plexiplay.fr/.wwwacl
+/boutique/tableau-sensuel-nb/le-reverbere/%3C 1 -
+/wp-content/plugins/dm-albums/dm-albums.php 1 -
+/categorie-produit/herve-arduini/tableau-trame-rond/ 1 -
+/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php 3 http://plexiplay.fr/wp-content/plugins/cherry-plugin/admin/import-export/download-content.php
+/wordpress-5.3-fa_IR.zip 1 http://plexiplay.fr/wordpress-5.3-fa_IR.zip
+/user.ini 1 http://plexiplay.fr/user.ini
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/%3C 3 -
+/access.log 1 http://plexiplay.fr/access.log
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/%3C 1 -
+/.sh_history 1 http://plexiplay.fr/.sh_history
+/FCKeditor/editor/ 1 http://www.baidu.com/
+/config.status 1 http://plexiplay.fr/config.status
+/wp-config.php.TEST 1 http://plexiplay.fr/wp-config.php.TEST
+/old/ 1 -
+/website/.env 1 -
+/wp-config.DB 1 http://plexiplay.fr/wp-config.DB
+/wordpress-4.9.8.zip 1 http://plexiplay.fr/wordpress-4.9.8.zip
+/cache/content-post.php.suspected 1 http://plexiplay.fr/cache/content-post.php.suspected
+/test/.env.test 1 -
+/.www_acl 1 http://plexiplay.fr/.www_acl
+/wp-admin/debug.log 1 http://plexiplay.fr/wp-admin/debug.log
+/wp-includes/js/js.php 2 -
+/sites/all/libraries/elfinder/connectors/php/connector.php 1 http://www.google.com/
+/assets/kcfinder/browse.php 1 -
+/wp-content/themes/twentynineteen/class-wp-customize.php 2 -
+/.env 11 http://plexiplay.fr/.env
+/boutique/aurelie-anger/couleurs-vives/hippie/< 1 -
+/boutique/tableaux-sur-plexi/v-i-p/< 1 -
+/wp-config.php.bak.a2 3 -
+/main/ 1 -
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/< 1 -
+/wp-config.php.DB 1 http://plexiplay.fr/wp-config.php.DB
+/root/.env 1 -
+/categorie-produit/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ 7 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/< 1 -
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 2 -
+/wp-includes/dcomay.php 3 http://google.com
+/boutique/aurelie-anger/pastel/evanescent/%3C 2 -
+/wordpress.zip 3 http://plexiplay.fr/wordpress.zip
+/boutique/herve-arduini/tableau-diasec/speed/< 1 -
+/wordpress 1 www.google.com
+/emergency.php 10 www.google.com
+/v1/.env 1 -
+/wp-content/plugins/background-image-cropper/simple.php5 3 http://plexiplay.fr/wp-content/plugins/background-image-cropper/simple.php5
+/boutique/herve-arduini/tableaux-sexy/vis-vis/< 1 -
+/wp-config.phpa 1 http://plexiplay.fr/wp-config.phpa
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 1 -
+/wp-content/force-download.php 1 http://plexiplay.fr/wp-content/force-download.php
+/wp-content/uploads/zupxxw.php 1 http://google.com
+/wp-content/themes/twentyseventeen/content-post.php 2 http://plexiplay.fr/wp-content/themes/twentyseventeen/content-post.php
+/web/ 1 -
+/wp-content/plugins/db-backup/download.php 2 http://plexiplay.fr/wp-content/plugins/db-backup/download.php
+/Makefile.in 1 http://plexiplay.fr/Makefile.in
+/db 1 http://plexiplay.fr/db
+/boutique/tous-les-tableaux-dalexandra-chatenet/olympia/%3C 1 -
+/wp-content/uploads/2020/06/content-post.php 1 http://google.com
+/shop/.env 1 -
+/dev/ 1 -
+/1.txt 4 -
+/admin/Fckeditor/editor/ 1 http://www.baidu.com/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/ 1 -
+/wp-content/uploads/2015/class-wp-customize.php 2 -
+/content-post.php.suspected 1 http://plexiplay.fr/content-post.php.suspected
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/< 1 -
+/kcfinder/browse.php 1 -
+/editor/editor/ 1 http://www.baidu.com/
+/media/info.php 2 http://plexiplay.fr/media/info.php
+/wp-content/plugins/ait-csv-import-export/admin/assets/css/admin.css 2 plexiplay.fr
+/\xd0\xb0pi.php 1 http://www.plexiplay.fr/\xd0\xb0pi.php
+/wp-content/uploads/2020/01/doc.php 1 http://google.com
+/wp-content/plugins/worprees-plugin-bug-dar/ultimate-member/includes/admin/core/class-admin-upgrade.php 1 -
+/.well-known.zip 4 http://plexiplay.fr/.well-known.zip
+/wordpress/wp-admin/ 4 http://plexiplay.fr/
+/wordpress-5.3.zip 1 http://plexiplay.fr/wordpress-5.3.zip
+/boutique/tableau-noir-et-blanc/le-prisonnier/%3C 1 -
+/doc.php 2 http://plexiplay.fr/doc.php
+/cron.php 2 http://plexiplay.fr/cron.php
+/boutique/aurelie-anger/couleurs-vives/blind-date/< 1 -
+/wp-content/plugins/ubb/uk.php 1 -
+/wp-admin/user/user-profile.php 2 http://google.com
+/barcode.zip 1 http://plexiplay.fr/barcode.zip
+/backup/ 1 -
+/wp-content/plugins/wordfence/modules/login-security/classes/model/wp-pingg.php 1 http://plexiplay.fr/wp-content/plugins/wordfence/modules/login-security/classes/model/wp-pingg.php
+/wp-config.ORIGINAL 1 http://plexiplay.fr/wp-config.ORIGINAL
+/admin/.env 3 -
+/wp-content/plugins/dukapress/lib/dp_image.php 1 -
+/boutique/tous-les-tableaux-dherve-arduini/sensation/%3C 1 -
+/wp-config.php.orig 3 http://plexiplay.fr/wp-config.php.orig
+/README.md 1 http://plexiplay.fr/README.md
+/old-wp/ 1 -
+/apple-touch-icon-precomposed.png 2 -
+/wp-config-backup 1 http://plexiplay.fr/wp-config-backup
+/wp-config-backup.txt 1 http://plexiplay.fr/wp-config-backup.txt
+/Backup.zip 1 http://plexiplay.fr/Backup.zip
+/wp-content/plugins/sniplets/modules/syntax_highlight.php 1 http://plexiplay.fr/wp-content/plugins/sniplets/modules/syntax_highlight.php
+/boutique/aurelie-anger/couleurs-vives/highway-hell/%3C 2 -
+/404.php 2 http://plexiplay.fr/404.php
+/boutique/couleurs-vives/lolita/%3C 1 -
+/debug.log 1 http://plexiplay.fr/debug.log
+/wp-content/uploads/2020/10/doc.php 1 http://google.com
+/dump.sql 1 -
+/wp.zip 1 http://plexiplay.fr/wp.zip
+/js/m.php 1 http://plexiplay.fr/js/m.php
+/wp-config.dat 1 http://plexiplay.fr/wp-config.dat
+/.bashrc 1 http://plexiplay.fr/.bashrc
+/plexiplay.zip 7 -
+/wp-config.php.3 1 http://plexiplay.fr/wp-config.php.3
+/media/about.php 1 http://plexiplay.fr/media/about.php
+/wp-config.php.SWO 1 http://plexiplay.fr/wp-config.php.SWO
+/admin/FCKeditor/editor/ 1 http://www.baidu.com/
+/wp-config.bak 1 -
+/haraj.zip 1 http://plexiplay.fr/haraj.zip
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/< 1 -
+/controller.php 1 http://plexiplay.fr/controller.php
+/.wp-config.php.swp 1 http://plexiplay.fr/.wp-config.php.swp
+/account 1 -
+/.git/.env 1 -
+/test/.env.local 1 -
+/Laravel/.env 1 -
+/online/.env 1 -
+/.htaccess.sample 1 http://plexiplay.fr/.htaccess.sample
+/wp-content/plugins/simple-file-list/readme.txt 1 -
+/wp-content/uploads/2020/07/doc.php 1 http://google.com
+/mysqladmin 1 http://plexiplay.fr/mysqladmin
+/public/assets/plugins/jquery-file-upload/server/php/ 1 http://www.google.com/
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/ 4 -
+/betheme.zip 1 http://plexiplay.fr/betheme.zip
+/boutique/tableaux-sexy/dentelle/%3C 1 -
+/wp-content/uploads/2020/04/doc.php 1 http://google.com
+/ups.php 2 http://plexiplay.fr/ups.php
+/.htaccess.bak 1 http://plexiplay.fr/.htaccess.bak
+/sys.php.php 1 -
+/wp-config.php_BAK 1 http://plexiplay.fr/wp-config.php_BAK
+/wp-content/themes/deep/widget.php 1 -
+/error.txt 1 http://plexiplay.fr/error.txt
+/site.zip 2 http://plexiplay.fr/site.zip
+/boutique/herve-arduini/tableau-diasec/xxplosive/< 1 -
+/boutique/tableau-diasec/disco-ball/< 1 -
+/apiv2/.env 1 -
+/wp-content/plugins/ungallery/source_vuln.php 1 http://plexiplay.fr/wp-content/plugins/ungallery/source_vuln.php
+/tmp/ 1 -
+/wp-content/admin.php 4 http://www.plexiplay.fr/wp-content/admin.php
+/boutique/herve-arduini/tableau-diasec/speed/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/speed/
+/sites/all/libraries/elfinder/elfinder.html 1 http://www.google.com/
+/wp-config.php.bak 5 -
+/wp-content/themes/404.php 1 http://plexiplay.fr/wp-content/themes/404.php
+/wp-includes/class-oembase.php 1 -
+/wp-content/themes/CP35/content-post.php 1 http://google.com
+/wp-admin/includes/images.php 2 http://plexiplay.fr/wp-admin/includes/images.php
+/home/ 1 -
+/cache/blackhat.php.suspected 1 http://plexiplay.fr/cache/blackhat.php.suspected
+/wp-content/plugins/ultimate-member/assets/js/um-modal.js 1 http://plexiplay.fr/wp-content/plugins/ultimate-member/assets/js/um-modal.js
+/admin1/.env 1 -
+/wp-content/themes/holding_pattern/admin/upload-file.php 1 http://plexiplay.fr/wp-content/themes/holding_pattern/admin/upload-file.php
+/.rhosts 1 http://plexiplay.fr/.rhosts
+/config.ini 1 http://plexiplay.fr/config.ini
+/force-download.php 1 http://plexiplay.fr/force-download.php
+/file.php 1 http://plexiplay.fr/file.php
+/V1/.env 1 -
+/backup.sql 1 -
+/wp-content/uploads/2020/05/content-post.php 2 http://google.com
+/wp-includes/js/tinymce/plugins/spellchecker/changelog.txt 1 http://plexiplay.fr/wp-includes/js/tinymce/plugins/spellchecker/changelog.txt
+/assets/js/kcfinder/browse.php 1 -
+/new.zip 1 http://plexiplay.fr/new.zip
+/mini.php 2 http://google.com
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/< 1 -
+/media/inc.php 1 http://plexiplay.fr/media/inc.php
+/media/doc.php 3 http://plexiplay.fr/media/doc.php
+/php.ini.sample 1 http://plexiplay.fr/php.ini.sample
+/.procmailrc 1 http://plexiplay.fr/.procmailrc
+/wp-config.php.bck 1 http://plexiplay.fr/wp-config.php.bck
+/upload/.env 1 -
+/wp-content/plugins/contact-form-manager/readme.txt 1 -
+/nutri1.zip 1 http://plexiplay.fr/nutri1.zip
+/laravel/.env 4 -
+/2019/ 1 -
+/boutique/tableaux-pop-art/big-kiss-lipstick/%3C 1 -
+/.access 1 http://plexiplay.fr/.access
+/wp-content/plugins/easy-wp-smtp/ 7 -
+/art-on-demand/ 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/ 1 -
+/boutique/herve-arduini/tableaux-sexy/eventail-or/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/eventail-or/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/ 3 -
+/wp-config.php.BCK 1 http://plexiplay.fr/wp-config.php.BCK
+/wp-admin/links.php 2 http://google.com
+/media/index2.php 1 http://plexiplay.fr/media/index2.php
+/serverindex.xml 1 http://plexiplay.fr/serverindex.xml
+/wplatest.zip 1 http://plexiplay.fr/wplatest.zip
+/work/.env 1 -
+/boutique/tableaux-surrealistes/paris-mix/ 4 http://www.plexiplay.fr/boutique/tableaux-surrealistes/paris-mix/
+/.quarantine.zip 1 http://plexiplay.fr/.quarantine.zip
+/2018/ 1 -
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/%3C 1 -
+/wp-includes/class-wp-customize.php 2 -
+/apps/.env 1 -
+/media/m.php 1 http://plexiplay.fr/media/m.php
+/55index.php 3 http://plexiplay.fr/55index.php
+/admin/kcfinder/browse.php 1 -
+/installer.zip 1 http://plexiplay.fr/installer.zip
+/boutique/aurelie-anger/pastel/sanctuary/%3C 1 -
+/testing/.env 3 -
+/wp-content/uploads/2020/04/content-post.php 2 http://google.com
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 2 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/kiss-kiss/
+/assets.zip 1 http://plexiplay.fr/assets.zip
+/wp-config.php.backup 2 http://plexiplay.fr/wp-config.php.backup
+/v2/ 1 -
+/wp-config.php.2 1 http://plexiplay.fr/wp-config.php.2
+/errors/404.php 1 http://plexiplay.fr/errors/404.php
+/admin/ckeditor/kcfinder/browse.php 1 -
+/wp-zload.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/< 1 -
+/feeds/ 1 -
+/wp-content/themes/twentythirteen/fonts/COPYING.txt 1 http://plexiplay.fr/wp-content/themes/twentythirteen/fonts/COPYING.txt
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/ 4 -
+/wordpress-5.2.1.zip 1 http://plexiplay.fr/wordpress-5.2.1.zip
+/cache/doc.php 2 http://plexiplay.fr/cache/doc.php
+/boutique/tableaux-sepia/escalator/< 1 -
+/checkout/ 4 -
+/wp-content/uploads/2020/07/class-wp-widget-archives.php 1 http://plexiplay.fr/wp-content/uploads/2020/07/class-wp-widget-archives.php
+/wp-admin/user/mide.php 2 http://plexiplay.fr/wp-admin/user/mide.php
+/staging/.env 1 -
+/env 1 -
+/latest.tar.gz 1 http://plexiplay.fr/latest.tar.gz
+/.gitattributes 1 http://plexiplay.fr/.gitattributes
+/logs.txt 1 http://plexiplay.fr/logs.txt
+/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.google.com/
+/wp-content/plugins/ait-csv-import-export/admin/assets/scripts/scripts.js 1 http://plexiplay.fr/wp-content/plugins/ait-csv-import-export/admin/assets/scripts/scripts.js
+/hello.php 2 http://plexiplay.fr/hello.php
+/wikindex.php 4 www.plexiplay.fr
+/wp-content/themes/twentythirteen/fonts/LICENSE.txt 1 http://plexiplay.fr/wp-content/themes/twentythirteen/fonts/LICENSE.txt
+/demo/.env 1 -
+/2020/ 1 -
+/.svn 1 http://plexiplay.fr/.svn
+/2.php 1 http://plexiplay.fr/2.php
+/web.xml 1 http://plexiplay.fr/web.xml
+/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css 1 www.google.com
+/wp-content/plugins/miniorange-2-factor-authentication/readme.txt 1 -
+/wp-content/plugins/mygallery/myfunctions/mygallerybrowser.php 1 http://plexiplay.fr/wp-content/plugins/mygallery/myfunctions/mygallerybrowser.php
+/lib.php 1 http://plexiplay.fr/lib.php
+/phpmanager 1 http://plexiplay.fr/phpmanager
+/wp-config.COPY 1 http://plexiplay.fr/wp-config.COPY
+/wp-includes/Requests/Cookie/images.php 2 http://plexiplay.fr/wp-includes/Requests/Cookie/images.php
+/wp/ 3 -
+/app/.env 1 -
+/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 9 -
+/wp-content/plugins/smartsupp-live-chat/README.txt 1 -
+/simple.php5.suspected 1 http://plexiplay.fr/simple.php5.suspected
+/robots 1 http://plexiplay.fr/robots
+/wp-config.php.db 1 http://plexiplay.fr/wp-config.php.db
+/wp-content/themes/twentyseventeen/doc.php 1 http://plexiplay.fr/wp-content/themes/twentyseventeen/doc.php
+/wp-content/plugins/background-image-cropper/seo_script.php 1 -
+/wp-content/plugins/duplicator/readme.txt 2 -
+/feeds 1 -
+/wp-content/plugins/easy-wp-smtp/css/style.css 1 -
+/wp-content/plugins/background-image-cropper/doc.php 6 http://plexiplay.fr/wp-content/plugins/background-image-cropper/doc.php
+/boutique/aurelie-anger/pastel/sanctuary/< 1 -
+/conf.php 1 http://plexiplay.fr/conf.php
+/error.php 3 http://plexiplay.fr/error.php
+/.git 1 http://plexiplay.fr/.git
+/js/editor/editor/ 1 http://www.baidu.com/
+/wp 1 www.google.com
+/media/404.php 1 http://plexiplay.fr/media/404.php
+/admin/assets/global/plugins/jquery-file-upload/server/php/ 1 http://www.google.com/
+/js/data.php 1 http://plexiplay.fr/js/data.php
+/wp-config.php.zip 1 http://plexiplay.fr/wp-config.php.zip
+/development/.env 1 -
+/wp-config.OLD 1 http://plexiplay.fr/wp-config.OLD
+/wp-content/plugins/eshop-magic/download.php 1 http://plexiplay.fr/wp-content/plugins/eshop-magic/download.php
+/wp-admin/maint/images.php 2 http://plexiplay.fr/wp-admin/maint/images.php
+/modules/mod_footer/tmpl/ 1 http://plexiplay.fr/modules/mod_footer/tmpl/index.php
+/boutique/herve-arduini/tableau-diasec/party-night/< 1 -
+/index.rss 1 -
+/wp-includes/debug.log 1 http://plexiplay.fr/wp-includes/debug.log
+/assets/admin/ckeditor/kcfinder/browse.php 1 -
+/categorie-produit/alexandra-chatenet/ 8 -
+/wp-content/themes/churchope/lib/downloadlink.php 2 http://plexiplay.fr/wp-content/themes/churchope/lib/downloadlink.php
+/wp-config.tmp 1 http://plexiplay.fr/wp-config.tmp
+/mdocs-posts/ 1 -
+/old.zip 1 http://plexiplay.fr/old.zip
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 1392
+185.2.4.29 1146 1146 410 20210131232755
+51.161.119.105 103 2555 121539090 20210108132735
+78.96.115.79 52 52 3568252 20210105212115
+79.143.185.111 48 48 924524 20210125095137
+90.59.98.101 46 573 52201106 20210120021135
+78.125.120.229 37 541 50939736 20210130223752
+18.217.197.141 34 85 567611 20210122012444
+193.252.0.68 27 697 66037062 20210118154031
+83.196.13.202 26 770 52977225 20210127154010
+90.1.205.108 24 291 22370510 20210121135743
+93.158.90.128 23 23 305411 20210108011340
+98.162.25.28 22 22 78892 20210128122243
+91.175.133.112 20 528 43809373 20210116035856
+176.188.221.222 20 438 40444352 20210127142358
+34.77.35.166 20 20 240035 20210122015622
+51.77.246.67 18 595 46995673 20210119073510
+45.6.29.44 18 18 153083 20210110215321
+213.239.193.124 18 18 258801 20210113101050
+90.8.126.238 18 312 24752274 20210109111342
+42.119.252.182 18 18 145923 20210125145038
+89.92.22.33 17 447 42708239 20210112183812
+91.121.5.103 16 21 209872 20210103232004
+91.168.154.197 15 402 39285729 20210103174741
+109.217.25.9 13 379 35502646 20210122085223
+51.222.43.123 12 12 1111141 20210119073022
+185.192.113.15 1 1 410 20210112002647
+31.170.161.96 1 1 410 20210105122205
+212.83.151.112 2 2 2782 20210108063430
+107.180.108.24 1 1 410 20210110082346
+194.187.171.121 1 1 19388 20210119165251
+176.223.120.40 2 2 820 20210101153508
+38.145.77.155 1 1 19234 20210112030337
+93.188.160.27 2 2 820 20210120230543
+3.237.46.158 1 1 19443 20210124060827
+52.66.253.220 3 3 2976 20210110135959
+93.174.93.133 0 1 100062 
+104.192.0.226 1 1 19262 20210131155926
+95.168.166.47 1 1 410 20210106155906
+194.59.164.40 1 1 410 20210123064242
+185.132.125.82 2 2 820 20210101152636
+80.214.79.49 1 1 19192 20210128105333
+34.240.161.226 1 1 19130 20210106171042
+88.125.7.196 6 117 5167735 20210117154904
+35.213.179.131 1 1 410 20210126105406
+81.31.156.30 1 1 410 20210127064549
+185.104.44.83 1 1 410 20210105113513
+77.81.191.198 2 2 2782 20210118073141
+176.226.129.196 5 5 187145 20210128051456
+35.208.186.0 1 1 410 20210128122541
+190.2.131.175 4 4 344668 20210105224423
+18.188.145.252 1 1 18845 20210127121207
+89.46.110.201 1 1 410 20210106115138
+148.72.232.149 2 2 820 20210112164323
+31.13.127.17 0 1 128350 
+178.62.110.145 10 10 11508 20210122055730
+194.59.164.105 1 1 410 20210124182650
+80.215.86.232 4 150 11588968 20210120111820
+64.246.165.180 1 1 19694 20210101064254
+151.106.96.235 1 1 410 20210122082725
+82.253.252.219 5 191 12895367 20210113152220
+103.1.209.206 2 2 820 20210103012620
+51.159.37.202 7 7 59453 20210130144736
+196.240.57.44 2 2 2782 20210108134407
+163.172.220.36 1 1 206 20210112043412
+192.71.142.35 1 1 19322 20210108224949
+35.208.158.106 1 1 410 20210112092633
+37.120.204.52 2 2 2782 20210101192450
+89.187.189.232 2 2 2782 20210131153151
+194.187.171.135 0 1 3419 
+159.65.3.164 4 4 18594 20210105195541
+83.97.23.12 2 2 2782 20210115084510
+103.42.110.15 2 2 820 20210128085944
+186.64.118.130 1 1 410 20210107125528
+5.135.177.5 5 5 5754 20210127192534
+167.114.244.150 5 5 5746 20210113225351
+103.27.34.4 1 1 410 20210117062419
+68.183.87.153 5 5 5754 20210106064743
+194.187.171.66 1 1 19399 20210121235629
+23.94.32.243 1 1 19717 20210117073227
+198.46.134.245 1 1 410 20210104181519
+46.182.4.115 1 1 410 20210125013048
+173.201.196.59 2 2 820 20210106004148
+185.224.137.163 1 1 410 20210105235705
+188.40.113.31 8 8 115090 20210105160125
+192.0.101.218 0 1 1758968 
+134.209.148.125 5 5 5754 20210113214644
+185.214.126.160 4 4 4305 20210105151734
+89.46.110.222 1 1 410 20210114235527
+3.237.46.108 1 1 19428 20210105152503
+35.209.211.67 1 1 410 20210120222422
+134.122.12.227 1 1 137784 20210101035541
+72.221.232.146 1 1 3586 20210110210726
+34.77.168.63 3 3 3000 20210116011817
+3.249.254.166 2 2 28745 20210105073854
+34.254.156.122 1 1 7064 20210124045514
+109.228.48.129 2 2 820 20210125222124
+156.67.222.47 1 1 410 20210120004407
+198.71.240.2 1 1 410 20210112043812
+3.15.153.150 1 1 19207 20210131060925
+116.127.123.40 1 1 410 20210105003852
+178.128.115.35 5 5 5754 20210103081912
+194.187.171.93 1 1 19263 20210103135000
+193.27.220.254 4 110 4956421 20210108133608
+90.110.53.233 5 161 13906800 20210102123037
+108.61.219.223 1 1 410 20210114140451
+2.59.1.187 1 1 19075 20210124045451
+86.210.62.233 4 110 4956420 20210113154326
+109.245.214.49 1 1 19240 20210104064033
+31.220.104.198 1 1 410 20210106075137
+135.181.145.128 1 1 18795 20210111145030
+163.172.22.94 1 1 8568 20210131112059
+64.227.58.145 5 5 5746 20210122191212
+185.136.195.242 2 2 820 20210106002816
+156.67.222.52 1 1 410 20210121094135
+93.95.216.70 1 1 410 20210125135412
+104.131.18.212 5 5 5754 20210102223036
+192.81.214.168 5 5 5754 20210105120011
+74.125.212.8 0 38 3139942 
+198.20.104.206 1 1 410 20210120021221
+185.220.70.216 2 2 2782 20210130074012
+184.168.46.187 2 2 820 20210110081530
+107.180.103.185 5 5 5754 20210111215502
+84.17.42.119 1 1 19379 20210104171945
+51.159.36.128 1 1 8277 20210131124821
+159.65.128.164 5 5 5754 20210109000147
+178.159.37.128 11 11 866593 20210107183955
+185.128.25.236 2 2 2782 20210128113140
+116.202.246.212 1 1 410 20210105121746
+45.40.135.135 1 1 410 20210125190305
+46.17.172.62 1 1 410 20210121224125
+18.222.185.31 1 1 19248 20210101121151
+91.134.184.247 2 2 820 20210115011458
+54.190.247.53 1 1 8512 20210119023948
+77.134.58.78 4 70 1703264 20210106212231
+162.0.229.122 1 1 410 20210119204606
+178.128.181.178 5 5 5754 20210109012548
+92.169.165.140 8 277 21590847 20210116112005
+194.5.156.57 1 1 410 20210124102246
+51.79.159.176 9 9 24340 20210122005129
+163.172.21.241 2 2 17511 20210131082932
+45.87.80.194 1 1 410 20210124040601
+198.71.238.11 2 2 820 20210106003456
+86.236.1.65 4 64 1009941 20210121194551
+50.62.208.86 2 2 820 20210101152811
+156.67.222.159 1 1 410 20210123045400
+45.119.83.238 3 3 1230 20210117121510
+118.69.173.199 5 5 5754 20210115061708
+185.2.4.40 1 1 410 20210122232338
+23.92.15.148 1 1 410 20210103014206
+5.9.238.21 1 1 410 20210114210535
+97.74.24.174 2 2 820 20210101152904
+165.22.35.21 4 4 18594 20210114224101
+148.72.232.66 1 1 410 20210121084939
+138.197.94.209 3 3 1230 20210101093354
+3.133.84.185 1 1 19272 20210105121304
+41.222.32.12 1 1 410 20210125031819
+184.168.152.64 2 2 820 20210101153224
+81.88.52.52 1 1 410 20210122001557
+65.60.10.250 1 1 410 20210111205941
+3.239.82.71 1 1 19187 20210118121448
+36.72.219.231 1 1 61 20210106093216
+43.250.140.31 2 2 820 20210107034554
+51.77.246.206 8 295 23841995 20210129234937
+185.224.137.157 1 1 410 20210123223724
+217.138.207.164 2 2 2782 20210123081756
+80.241.218.189 1 1 410 20210126023922
+50.62.176.106 1 1 410 20210119102628
+35.214.193.182 1 1 410 20210113104025
+47.242.151.73 8 8 111859 20210103035249
+5.253.206.156 4 4 5564 20210103114302
+141.136.39.223 1 1 410 20210122060315
+109.234.164.107 2 2 820 20210117184240
+81.88.52.34 2 2 820 20210112064109
+80.215.106.59 1 1 182 20210104084121
+185.169.255.31 2 2 2782 20210122172051
+142.93.127.129 5 5 5754 20210122125406
+45.84.204.108 1 1 410 20210123084344
+37.29.144.85 4 94 3712098 20210124154748
+192.0.102.140 0 1 138566 
+109.95.157.35 1 1 410 20210110075834
+5.39.82.14 5 5 5746 20210108103818
+185.212.171.67 2 2 2782 20210113213917
+45.61.146.241 1 1 403 20210121013727
+176.177.123.228 2 61 5011077 20210124145956
+176.65.90.122 3 54 567658 20210117153854
+198.71.226.40 3 3 1230 20210128161932
+23.94.191.226 1 1 410 20210105220658
+103.108.220.126 1 1 410 20210105024637
+194.35.233.164 2 2 2782 20210101100841
+93.114.235.168 5 5 5754 20210127070724
+81.244.218.26 11 293 24943236 20210128123744
+45.13.252.2 1 1 410 20210123145052
+91.178.92.151 11 11 39446 20210128122302
+213.190.6.77 1 1 410 20210122054742
+35.214.247.216 1 1 410 20210123225003
+185.211.244.132 1 1 410 20210126005318
+46.101.139.73 6 6 7075 20210127184332
+46.166.171.50 2 2 820 20210110080027
+163.172.21.249 2 2 17302 20210131200154
+91.234.195.182 4 4 1640 20210126122127
+43.250.249.8 1 1 410 20210104123913
+54.171.86.188 3 3 235413 20210101041122
+148.72.232.128 3 3 1230 20210111184739
+52.146.0.177 5 5 61041 20210120094214
+198.54.126.98 1 1 410 20210104125257
+176.74.24.103 1 1 410 20210120061817
+81.16.28.84 1 1 410 20210121115934
+198.12.153.159 10 10 11500 20210108220015
+173.236.243.150 1 1 410 20210115145335
+81.88.52.83 1 1 410 20210111160310
+161.35.124.51 1 1 19190 20210130102234
+52.37.53.217 0 1 3419 
+45.89.204.253 1 1 410 20210121091644
+159.89.48.237 5 5 5754 20210123051653
+167.71.132.176 5 5 5754 20210112233551
+185.214.126.149 1 1 410 20210123051836
+77.222.40.32 4 4 18594 20210107064542
+159.65.83.68 5 5 5754 20210127101115
+50.62.161.12 1 1 410 20210112025712
+148.72.232.104 2 2 820 20210110080757
+92.249.45.193 1 1 410 20210121203231
+107.180.122.15 2 2 820 20210110082136
+71.209.33.111 6 6 21516 20210128122642
+185.224.137.180 1 1 410 20210123203842
+35.245.188.175 5 5 494163 20210127080311
+35.195.243.150 2 2 262964 20210126160021
+139.59.148.242 1 1 410 20210118190629
+95.136.168.8 5 150 11291987 20210103104914
+46.252.153.21 1 1 410 20210120064437
+150.95.59.6 1 1 410 20210117072554
+77.68.64.30 3 3 4309 20210114015800
+176.145.91.58 7 157 9283965 20210102185628
+35.214.211.217 1 1 410 20210114123226
+94.152.206.24 2 2 820 20210106170750
+150.95.55.134 1 1 410 20210122235313
+162.144.78.149 5 5 5754 20210103121620
+194.35.233.155 2 2 2782 20210126044423
+35.209.224.248 1 1 410 20210119185029
+77.74.177.114 1 1 19168 20210112084844
+81.213.183.164 11 11 39446 20210128123110
+34.122.18.76 2 2 820 20210127143353
+45.93.126.49 1 1 410 20210120081055
+194.59.164.208 1 1 410 20210124134443
+67.209.114.160 2 2 820 20210103012534
+51.38.140.4 3 3 268379 20210115110918
+93.14.78.11 5 141 11132756 20210130130155
+116.202.113.215 1 1 19732 20210102190623
+198.20.105.79 1 1 410 20210126081750
+150.95.54.137 1 1 410 20210124200843
+45.93.102.56 2 2 820 20210121221104
+199.244.88.132 1 1 19403 20210110005333
+74.125.212.10 2 52 4106918 20210112013928
+51.178.17.214 10 10 11508 20210115151916
+52.64.58.107 1 1 410 20210126014427
+184.168.46.56 2 2 820 20210106003544
+197.247.229.51 4 96 3032124 20210118200944
+185.244.214.20 8 8 11128 20210124041620
+18.224.181.155 10 10 10790 20210103092113
+35.209.126.133 1 1 410 20210119182318
+54.246.232.72 1 1 7064 20210103041144
+3.227.240.196 1 1 19426 20210111121827
+198.71.239.39 2 2 820 20210103011305
+50.62.176.144 1 1 410 20210118160529
+37.172.159.217 6 150 11913764 20210130104133
+81.67.190.211 5 229 21847666 20210124180511
+182.50.130.30 2 2 820 20210110075024
+109.24.174.194 4 155 10441315 20210119195647
+51.159.37.236 2 2 17511 20210119120133
+185.16.206.84 2 2 2782 20210106151724
+78.142.210.210 1 1 410 20210114145221
+128.199.133.8 5 5 5754 20210106112451
+160.153.154.1 2 2 820 20210101153534
+34.227.157.163 1 1 0 20210122135103
+185.97.206.222 1 110 9264552 20210129174225
+88.198.58.29 1 1 410 20210121021002
+188.227.170.64 3 115 8687477 20210108110542
+72.217.158.197 11 11 39446 20210128124344
+81.19.215.12 1 1 410 20210123184440
+80.214.28.222 0 41 337776 
+104.238.120.7 1 1 410 20210106004605
+207.244.253.64 5 5 5754 20210108081742
+159.89.144.221 1 1 19091 20210130024253
+212.129.20.162 2 2 2782 20210128035442
+91.172.230.136 1 1 36832 20210118214708
+213.190.6.122 1 1 410 20210124202927
+81.88.52.86 1 1 410 20210113082602
+77.205.52.48 1 1 19673 20210125135035
+31.13.115.16 0 2 202251 
+185.2.4.118 1 1 410 20210119180358
+173.236.184.136 1 1 410 20210106022837
+62.210.7.116 4 4 5564 20210115040445
+192.145.127.244 4 4 5564 20210102140908
+62.210.140.214 1 1 206 20210112094048
+160.153.156.133 1 1 410 20210106004410
+185.20.205.33 1 1 410 20210111194356
+35.247.150.59 1 1 410 20210112084937
+178.159.37.104 9 9 1187218 20210130170600
+93.125.75.19 5 5 5754 20210106011655
+94.23.31.193 1 1 410 20210127174505
+198.46.81.18 1 1 2601 20210103102310
+18.188.26.182 1 1 19541 20210103061130
+80.88.88.126 1 1 410 20210115123933
+51.159.37.33 1 1 8277 20210112194601
+91.167.87.123 10 269 25020408 20210123195347
+184.168.152.143 2 2 820 20210101091823
+80.214.126.108 4 107 5123056 20210127115845
+107.180.89.170 2 2 820 20210110081559
+184.168.27.108 2 2 820 20210110080906
+195.158.5.11 11 11 39446 20210128122505
+159.65.184.79 5 5 5746 20210109230333
+90.92.129.88 1 1 19130 20210123125345
+112.140.180.24 1 1 410 20210106063840
+31.31.198.249 1 1 410 20210106061413
+5.135.243.208 1 1 410 20210125104649
+167.71.216.37 5 5 5754 20210106124916
+177.240.107.34 9 9 32274 20210128121050
+95.140.42.186 1 1 410 20210114225413
+34.219.90.95 5 50 408253 20210129000327
+185.228.228.194 4 142 11589314 20210102163823
+94.224.21.163 12 115 3654740 20210101141503
+185.201.11.140 1 1 410 20210123065901
+37.120.152.155 1 1 1191 20210102013840
+34.247.215.54 3 3 46116 20210116054734
+198.71.239.31 4 4 1640 20210101153653
+80.214.27.177 4 145 12070165 20210120185959
+89.46.109.113 1 1 410 20210116102402
+46.242.145.95 2 2 820 20210101091332
+182.75.112.254 3 3 10758 20210110210030
+43.250.140.43 2 2 820 20210113193421
+69.171.251.117 0 43 2721735 
+194.187.171.81 0 1 3419 
+194.127.172.77 2 2 2782 20210104071604
+34.90.175.76 1 1 410 20210117210648
+151.106.116.75 1 1 410 20210119190611
+50.62.30.145 2 2 820 20210101153929
+31.13.115.116 0 7 833005 
+91.164.73.161 5 145 11962697 20210120230821
+194.59.164.61 1 1 410 20210122102258
+37.120.203.204 2 2 2782 20210112012246
+35.208.120.39 1 1 410 20210115110334
+46.119.94.239 1 1 133646 20210127133204
+62.210.113.228 5 5 5746 20210108212308
+34.64.218.102 5 5 5754 20210105180447
+78.142.63.31 1 1 410 20210106225226
+92.184.105.48 1 1 19430 20210109102200
+170.249.250.167 1 1 410 20210114174206
+103.101.162.209 5 5 5754 20210122052733
+81.88.52.107 1 1 410 20210111033352
+45.87.80.133 1 1 410 20210121143141
+67.213.74.78 3 3 3000 20210115161934
+93.10.1.129 1 47 596739 20210112201848
+158.255.107.202 4 161 13193407 20210121110938
+90.9.219.24 1 1 12412 20210130193846
+45.152.181.212 2 2 2782 20210112151312
+206.189.54.104 1 1 569 20210130060506
+148.72.232.39 2 2 820 20210101091425
+166.62.122.244 5 5 5754 20210117143250
+159.65.10.195 1 1 410 20210120175254
+192.3.143.183 2 2 18946 20210123061143
+31.220.16.253 1 1 410 20210121095341
+31.222.1.135 11 11 39446 20210128121721
+141.136.39.111 1 1 410 20210124053604
+175.158.170.213 1 1 3586 20210128122549
+156.67.222.209 1 1 410 20210125210513
+36.75.67.189 2 2 820 20210110081828
+31.220.16.243 2 2 820 20210125185042
+46.101.120.8 5 5 5746 20210106085817
+162.214.172.201 1 1 410 20210122160938
+46.0.203.99 4 4 150974 20210124224319
+46.17.172.169 1 1 410 20210123020547
+89.252.191.187 2 2 820 20210110081730
+18.130.115.228 1 2 17508 20210131044336
+203.113.173.19 1 1 410 20210106004014
+196.244.71.211 4 4 21260 20210122203306
+107.180.108.21 1 1 410 20210111100033
+3.249.13.229 1 1 7064 20210131050042
+72.217.158.208 1 1 3586 20210110210702
+94.23.196.86 2 2 820 20210101153431
+45.80.182.233 5 5 5754 20210109030652
+195.216.155.220 6 6 191101 20210108232649
+46.17.172.93 1 1 410 20210119202413
+192.0.99.59 0 2 866260 
+31.170.166.160 1 1 410 20210106021136
+154.16.173.92 4 4 1640 20210126163758
+150.95.52.74 1 1 410 20210106101651
+195.154.232.125 2 2 18914 20210130173027
+193.50.175.39 7 195 11238898 20210127093329
+172.115.82.234 6 6 136281 20210124080320
+31.33.164.175 4 91 2300557 20210121133446
+46.182.4.117 1 1 410 20210121000456
+31.220.104.226 1 1 410 20210105173148
+31.13.115.118 0 10 144241 
+151.106.117.57 1 1 410 20210119233010
+70.39.233.211 1 1 410 20210119003048
+84.17.62.208 4 4 5564 20210104045600
+148.72.151.196 1 1 410 20210120130333
+81.255.175.113 4 110 4956421 20210125113528
+89.252.191.172 5 5 5754 20210115104120
+109.123.76.182 1 1 410 20210119204106
+198.1.88.23 1 1 410 20210116154913
+31.13.103.22 0 1 80860 
+185.28.21.200 1 1 410 20210125144625
+163.172.21.238 2 2 18850 20210130030626
+156.67.222.77 1 1 410 20210106144529
+50.63.197.69 2 2 820 20210103011452
+14.161.20.194 11 11 39446 20210110210356
+35.214.140.162 1 1 410 20210120225213
+81.19.211.39 1 1 410 20210123214031
+142.4.14.247 5 5 5754 20210108135259
+45.84.204.150 1 1 410 20210124012926
+176.119.140.91 3 3 127075 20210108232646
+46.114.111.40 0 1 211529 
+35.175.112.174 1 1 19551 20210129121301
+93.188.160.81 4 4 1640 20210121185445
+138.197.4.141 5 5 5746 20210111202339
+50.62.208.106 2 2 820 20210106003429
+91.201.52.96 1 1 410 20210106150645
+91.121.79.16 1 1 134987 20210113150128
+163.172.21.104 2 2 17808 20210130191223
+35.238.175.1 1 1 410 20210123222653
+185.201.10.132 1 1 410 20210120051725
+50.62.177.24 2 2 820 20210106003146
+31.170.161.37 1 1 410 20210121144815
+35.209.97.91 2 2 820 20210115145403
+92.184.124.202 7 100 4709878 20210127232858
+185.201.10.106 2 2 820 20210123033058
+89.46.106.219 1 1 410 20210106121334
+3.21.34.176 1 1 19305 20210112121338
+51.159.37.51 1 1 8277 20210113003206
+37.187.252.148 5 5 5746 20210110033114
+80.215.39.208 4 93 4571678 20210113144709
+43.250.140.12 2 2 820 20210121011735
+92.184.106.223 5 229 21461559 20210125220631
+91.177.177.89 2 2 38730 20210120195105
+78.193.234.147 1 1 19025 20210115125155
+185.243.183.10 2 2 820 20210106003146
+185.201.11.196 1 1 410 20210105042513
+198.12.243.230 1 1 2613 20210102203937
+23.94.30.18 1 1 410 20210121000215
+194.201.253.190 5 5 5754 20210113201253
+74.208.58.125 1 1 410 20210125090655
+61.79.201.105 11 11 39446 20210128124245
+165.22.53.233 5 5 5754 20210108203543
+83.196.40.3 10 320 23885260 20210125175617
+141.136.34.127 1 1 410 20210124122721
+62.210.92.175 1 1 19174 20210121093025
+163.172.20.30 2 2 16634 20210130223916
+31.170.166.157 1 1 410 20210123143334
+31.220.104.180 2 2 820 20210122061729
+82.165.86.184 1 1 410 20210120072007
+37.120.197.60 2 2 2782 20210105085701
+149.255.58.6 1 1 410 20210104154907
+5.180.62.94 2 2 2782 20210121035314
+192.0.102.120 0 1 945105 
+176.179.147.25 1 44 363824 20210107130737
+198.71.237.15 1 1 410 20210119021825
+151.80.45.51 5 5 5754 20210103000908
+185.224.137.177 2 2 820 20210123235043
+194.187.171.150 1 1 19457 20210126160631
+138.201.121.104 1 1 410 20210120115241
+90.22.170.49 4 105 4655621 20210104145909
+123.30.136.234 1 1 410 20210111232802
+142.4.4.229 5 5 5754 20210106054404
+92.63.168.160 1 1 410 20210113062802
+92.249.44.240 1 1 410 20210121061018
+203.253.67.224 11 11 39446 20210128121551
+117.230.80.219 3 62 4891407 20210109075317
+184.168.152.125 2 2 820 20210110081249
+134.122.72.53 5 5 5754 20210127210246
+66.113.221.43 2 2 820 20210106003045
+182.50.130.5 2 2 820 20210101152254
+35.214.130.247 1 1 410 20210123213304
+82.112.28.123 11 11 39446 20210128124201
+213.190.6.116 1 1 410 20210120215414
+5.189.177.94 2 2 820 20210127205559
+3.239.96.134 1 1 19419 20210106120948
+51.159.36.139 4 4 35795 20210130112428
+46.101.117.79 5 5 5746 20210109170450
+23.227.131.242 2 2 820 20210116232731
+109.129.61.14 5 242 21598420 20210126172728
+198.12.224.76 2 2 2770 20210113125622
+181.214.36.78 1 1 19107 20210118194649
+212.102.48.76 2 2 2782 20210124114002
+139.59.40.233 4 4 18594 20210111131352
+198.71.239.42 1 1 410 20210101153816
+183.253.80.124 2 7 107140 20210110214603
+92.249.44.41 1 1 410 20210123061809
+62.149.7.171 3 3 3649 20210128161208
+69.162.154.7 1 1 1149 20210102175855
+194.35.233.221 2 2 2782 20210125001905
+209.236.72.7 3 3 2976 20210110194642
+68.65.122.155 1 1 410 20210106152811
+85.128.142.53 1 1 410 20210111050127
+45.9.189.198 1 1 410 20210105151018
+176.152.18.100 0 4 43899 
+194.5.156.3 2 2 820 20210123001953
+176.151.227.225 5 109 5126858 20210127132853
+3.131.159.150 1 1 19558 20210130201033
+95.216.69.175 1 1 410 20210126195453
+91.201.52.147 1 1 410 20210126120117
+92.53.96.231 5 5 5754 20210117045230
+102.130.115.177 2 2 820 20210106003742
+46.182.4.116 1 1 410 20210126110625
+103.130.153.126 1 1 410 20210107042914
+89.158.144.205 4 63 2051154 20210105211052
+62.210.127.14 1 1 206 20210112081449
+194.5.156.17 1 1 410 20210125091736
+104.236.45.171 5 5 5754 20210110004624
+114.236.155.221 4 4 21260 20210111172218
+141.136.33.163 1 1 410 20210124021918
+160.153.154.4 2 2 820 20210106004159
+86.229.92.242 8 260 23173946 20210127235442
+64.31.6.60 1 1 410 20210120115228
+92.169.189.191 4 141 10634663 20210129144636
+46.30.45.74 2 2 820 20210110082019
+69.171.251.19 1 16 1335820 20210129070248
+35.208.1.62 1 1 410 20210121205808
+132.148.28.20 5 5 5754 20210112002525
+91.134.248.235 1 1 410 20210117134703
+161.97.115.17 3 3 2976 20210110213218
+97.74.24.114 2 2 820 20210110075442
+87.237.238.185 5 5 5746 20210122214337
+50.62.145.149 1 1 410 20210105014120
+209.205.209.34 1 1 410 20210111151215
+97.74.24.223 1 1 410 20210118024256
+185.201.11.48 1 1 410 20210120074152
+83.78.1.203 1 1 14307 20210106091458
+160.153.147.141 4 4 1640 20210110075304
+92.249.47.107 1 1 410 20210106174909
+211.20.154.167 10 10 11508 20210131193333
+185.2.31.171 1 1 2593 20210118222142
+184.168.27.112 3 3 1230 20210106144727
+198.71.239.46 4 4 1640 20210101153652
+199.188.200.24 1 1 410 20210104130056
+93.188.160.23 3 3 1230 20210124155644
+193.160.67.96 1 1 410 20210120144122
+107.161.181.250 1 1 410 20210125173956
+207.180.231.254 5 5 5754 20210111170908
+109.131.196.157 1 1 19431 20210109162256
+202.28.123.198 1 1 1191 20210110143746
+103.67.235.26 1 1 410 20210122141908
+187.227.218.112 1 1 1191 20210120214914
+198.71.238.14 1 1 410 20210110082346
+92.184.102.141 6 105 4341911 20210120074859
+180.235.149.193 1 1 410 20210112141808
+194.187.171.112 1 2 22938 20210130141507
+194.187.171.80 1 1 19171 20210131221605
+199.188.201.66 1 1 410 20210119174521
+93.188.160.78 1 1 410 20210119231358
+91.174.228.201 11 425 42625639 20210103194242
+194.5.156.71 1 1 410 20210123233009
+77.68.64.31 1 1 230 20210114015800
+180.215.64.98 10 10 11500 20210131190521
+45.12.221.220 2 2 2782 20210126071300
+51.159.37.117 2 2 16951 20210131103549
+51.77.246.208 1 1 410 20210115200608
+88.160.135.209 3 57 660332 20210104000244
+185.201.11.76 1 1 410 20210125022243
+185.224.138.203 3 3 1230 20210121004746
+51.159.88.90 2 2 2782 20210109124823
+51.159.36.101 4 4 34277 20210131041417
+185.2.5.96 2 2 820 20210120041450
+185.81.2.81 1 1 410 20210125082707
+45.40.166.167 2 2 820 20210103013521
+92.170.165.80 4 110 4956422 20210104120809
+94.252.121.104 1 1 14306 20210110182736
+64.119.197.115 1 1 3586 20210128120421
+83.97.23.4 2 2 2782 20210108090340
+50.63.197.20 2 2 820 20210101091742
+35.208.226.222 1 1 410 20210116124554
+90.78.179.101 0 1 495970 
+82.165.87.128 1 1 410 20210106130908
+198.46.214.38 1 1 19616 20210123061133
+194.110.84.137 2 2 2782 20210115014348
+77.68.77.215 1 1 410 20210112150414
+189.113.174.22 1 1 410 20210116195838
+160.153.154.31 2 2 820 20210103012954
+193.124.184.72 4 4 169395 20210106231543
+34.87.103.236 2 2 5224 20210102184442
+141.136.39.110 2 2 820 20210125213607
+185.245.85.76 2 2 2782 20210119123206
+192.185.219.16 5 5 5746 20210113211040
+185.224.137.174 1 1 410 20210121054853
+3.95.133.86 1 1 19399 20210125120818
+35.208.59.255 1 1 410 20210126133310
+82.202.227.174 1 1 410 20210114004916
+195.154.184.174 1 1 206 20210112054210
+176.164.197.137 1 2 23561 20210108214330
+62.171.168.212 1 1 410 20210107161826
+23.251.45.133 1 1 2606 20210103115752
+173.201.196.10 2 2 820 20210106003241
+185.138.42.68 1 1 410 20210104233822
+198.71.237.24 2 2 820 20210101153638
+192.200.102.246 2 2 820 20210123060351
+107.180.122.4 2 2 820 20210110075241
+94.237.74.175 1 1 410 20210106123218
+77.72.0.150 1 1 410 20210112114117
+185.245.85.172 2 2 2782 20210108042918
+130.255.163.161 8 8 111240 20210102215953
+46.119.94.217 12 12 1582448 20210131080513
+51.255.120.231 3 3 1230 20210119192634
+62.210.139.128 5 5 5746 20210102221212
+18.220.166.110 1 1 19397 20210104121044
+194.187.171.134 0 1 3419 
+74.208.59.23 1 1 410 20210120131917
+35.208.44.81 1 1 410 20210125110505
+51.159.36.122 1 1 8568 20210130230810
+46.101.95.65 5 5 5754 20210108063711
+86.218.127.84 4 4 77111 20210116112936
+5.180.62.145 2 2 2782 20210111134219
+108.167.187.53 5 5 5746 20210117214529
+184.161.88.186 3 54 1169390 20210120151513
+94.108.10.201 3 3 57726 20210102133345
+163.172.22.99 2 2 16845 20210131071604
+122.201.124.29 1 1 410 20210125055121
+184.95.34.34 1 1 410 20210113123505
+69.171.251.3 2 31 1038642 20210129070248
+45.40.165.8 2 2 820 20210110082211
+202.189.181.2 2 2 820 20210119022044
+185.92.247.200 3 3 11374 20210117175343
+144.202.74.77 2 2 28603 20210114212546
+77.87.194.223 1 1 410 20210105000922
+156.67.222.123 1 1 410 20210106043528
+212.129.1.36 4 110 4956421 20210120132743
+66.249.93.223 0 1 3419 
+66.199.191.89 2 2 820 20210106004014
+93.177.74.166 2 2 2782 20210110163505
+141.98.100.172 2 2 2782 20210127145512
+68.183.144.198 1 1 1194 20210121100436
+54.246.132.225 1 1 19389 20210110013502
+185.224.137.42 3 3 1230 20210120172224
+37.120.209.196 2 2 2782 20210126020533
+78.210.169.243 4 63 2403154 20210124144824
+31.170.161.9 1 1 410 20210122010053
+185.81.157.136 2 2 38504 20210131071241
+61.219.114.108 11 11 39446 20210128122820
+81.88.52.120 1 1 410 20210121045044
+198.20.127.197 1 1 410 20210105112423
+89.83.170.97 7 287 25124939 20210111223020
+45.80.183.202 1 1 410 20210125164435
+46.37.6.66 1 1 410 20210103013725
+51.159.37.178 2 2 16554 20210131174011
+52.116.29.190 1 1 410 20210107121750
+207.148.94.249 5 5 5754 20210118053616
+195.78.66.116 2 2 820 20210105184021
+178.122.125.208 2 2 7172 20210128121908
+193.124.188.201 1 1 42320 20210104232957
+35.208.206.246 1 1 410 20210114121719
+176.226.184.88 4 4 150974 20210102072518
+185.61.154.51 1 1 410 20210120154101
+203.205.21.159 4 4 1640 20210101153334
+194.5.156.42 1 1 410 20210121103137
+78.247.208.123 0 2 5291 
+49.12.165.64 1 1 410 20210111124349
+185.145.203.195 2 2 820 20210103012903
+164.132.48.179 5 5 5754 20210118003736
+97.74.24.220 1 1 410 20210120040556
+89.46.108.248 1 1 410 20210127064046
+185.134.114.45 2 2 2782 20210130212503
+18.191.159.198 1 1 19327 20210110061237
+184.168.27.170 2 2 820 20210110080028
+77.205.116.103 4 140 11058555 20210124003839
+194.59.164.180 1 1 410 20210122040035
+34.255.215.238 1 1 19196 20210104171724
+97.74.24.195 2 2 820 20210110081929
+81.88.52.117 1 1 410 20210122122617
+93.113.111.193 5 5 5746 20210103042052
+192.145.127.252 2 2 2782 20210112081311
+193.56.252.100 4 4 5564 20210114092823
+35.224.216.78 5 5 5746 20210108140357
+185.224.137.30 1 1 410 20210122171136
+129.146.113.119 1 1 19145 20210110150205
+37.200.100.226 1 1 410 20210121082119
+191.190.126.158 1 14 140589 20210104165948
+93.26.105.91 6 236 21193551 20210112182351
+217.149.7.234 2 2 820 20210101152403
+201.31.0.252 1 1 19343 20210122161644
+199.250.217.130 1 1 410 20210112111211
+116.203.194.221 1 1 19544 20210130030617
+46.185.117.199 6 6 769385 20210111192822
+128.199.21.230 5 5 5754 20210109072238
+194.187.171.118 0 1 3419 
+194.187.171.86 0 1 3419 
+109.169.85.38 6 157 10155291 20210112050745
+173.212.219.223 5 5 5754 20210106012937
+93.104.213.124 1 1 410 20210112185910
+80.84.57.6 3 112 8762778 20210127205916
+90.63.242.1 8 8 439152 20210116185306
+156.38.171.148 1 1 410 20210106085612
+35.213.132.254 1 1 410 20210116132854
+184.168.193.212 2 2 820 20210101091834
+67.201.57.102 1 1 2597 20210128115823
+92.249.44.196 1 1 410 20210121062313
+194.187.171.149 0 1 3419 
+46.17.172.148 1 1 410 20210122050702
+51.159.37.21 3 3 25894 20210129222213
+160.153.154.145 1 1 410 20210115123836
+77.68.64.29 3 3 3961 20210114015759
+72.210.252.144 11 11 39446 20210128122621
+104.219.248.44 1 1 410 20210119211301
+93.25.249.222 7 221 18337098 20210126163536
+51.15.12.217 1 1 8277 20210117022731
+2.59.119.19 1 1 410 20210121162743
+46.101.143.68 10 10 11500 20210121223421
+37.120.131.137 2 2 2782 20210102070950
+78.153.241.205 6 6 98149 20210128235305
+91.121.65.57 4 4 38562 20210124022819
+139.59.2.181 5 5 5754 20210122045816
+184.179.216.138 11 11 39446 20210128123231
+185.217.0.224 1 1 19175 20210129004859
+3.209.82.77 1 1 19170 20210113121300
+51.158.24.101 4 4 5564 20210123131706
+103.27.34.14 1 1 410 20210108000218
+72.167.190.29 2 2 820 20210106004503
+172.81.129.98 1 1 19233 20210128184925
+108.179.229.244 2 2 820 20210110080533
+89.46.106.231 1 1 410 20210127033240
+185.224.137.50 2 2 820 20210122041607
+158.69.128.56 9 9 24340 20210112184503
+18.130.194.251 1 1 410 20210126171800
+46.185.127.176 3 3 393967 20210102105820
+160.153.146.146 1 1 410 20210120204832
+35.204.172.12 10 10 11508 20210114025751
+163.172.21.179 2 2 17302 20210131230307
+195.206.183.251 2 2 2782 20210118195437
+160.153.146.165 2 2 820 20210103011648
+91.234.46.35 1 1 410 20210111154726
+82.102.21.57 2 2 2782 20210129081921
+35.206.112.123 1 1 410 20210125095433
+80.15.5.33 0 4 43899 
+93.22.151.142 1 1 19228 20210110143818
+50.62.177.116 2 2 820 20210101092045
+176.63.24.142 4 136 8921759 20210131220215
+92.184.98.17 1 1 19561 20210103225634
+167.172.208.162 5 5 5754 20210127232122
+198.71.236.27 3 3 1230 20210107065850
+31.170.161.16 1 1 410 20210120220515
+78.153.241.195 2 2 38629 20210122153016
+194.110.84.105 2 2 2782 20210126133900
+37.167.3.51 1 1 19299 20210111202717
+198.71.228.30 1 1 410 20210104232041
+195.206.183.82 2 2 2782 20210102022244
+86.107.43.67 2 2 820 20210124023834
+45.133.192.132 2 2 2782 20210125102417
+192.169.200.145 5 5 5746 20210110015659
+195.154.40.254 2 2 2782 20210128062932
+51.77.129.159 9 316 24757354 20210130030155
+80.215.225.12 4 163 10305326 20210108182144
+159.65.87.133 1 1 410 20210105092716
+195.181.166.100 2 2 2782 20210127172338
+184.168.152.191 2 2 820 20210110082230
+64.46.54.220 11 11 39446 20210128120611
+49.12.126.16 4 116 955217 20210105161002
+209.205.221.250 1 1 410 20210105120657
+35.214.203.181 1 1 410 20210127085139
+82.165.81.50 1 1 410 20210106183002
+81.88.52.61 1 1 410 20210121233846
+102.130.112.193 5 5 5746 20210131231941
+45.145.185.99 3 3 37036 20210120033834
+77.144.143.75 8 377 32688262 20210129144955
+5.34.180.192 6 6 810530 20210128220952
+31.170.166.133 1 1 410 20210122034143
+64.246.165.210 1 1 19461 20210125115444
+142.54.232.1 1 1 2597 20210110205637
+49.51.52.137 4 4 4305 20210131201945
+204.48.30.64 2 2 820 20210110080709
+184.168.193.60 2 2 820 20210110082125
+103.66.68.170 5 5 5754 20210117211222
+210.210.117.90 11 11 39446 20210128121747
+185.224.137.160 1 1 410 20210122195811
+45.88.3.179 1 1 19342 20210106130107
+141.136.43.91 1 1 410 20210122173550
+64.227.2.2 5 5 5754 20210113193540
+23.94.30.178 1 1 410 20210123111118
+5.188.62.214 6 6 8640 20210127230909
+43.250.249.5 1 1 410 20210120083803
+3.133.59.168 1 1 19575 20210115122240
+157.245.245.159 10 10 11508 20210127085319
+46.17.175.17 1 1 410 20210120020609
+91.169.128.112 9 323 29272410 20210111211227
+129.146.84.192 5 5 76694 20210112061845
+185.169.255.10 2 2 2782 20210116004639
+198.71.239.29 2 2 820 20210103012703
+81.88.52.119 1 1 410 20210122134449
+50.62.177.20 2 2 820 20210126231703
+148.72.232.117 1 1 410 20210123112031
+94.229.75.84 2 2 2782 20210115175705
+77.205.142.174 5 5 96408 20210124235531
+213.232.87.66 2 2 2782 20210122045739
+167.114.175.39 1 7 34128 20210121024705
+82.66.163.87 1 1 19408 20210113215140
+81.19.214.131 2 2 2782 20210128193644
+207.244.250.95 5 5 5754 20210122145218
+185.220.70.226 2 2 2782 20210128011951
+104.238.118.25 5 5 5746 20210109041111
+77.74.177.113 1 1 19109 20210126084849
+103.129.97.111 1 1 410 20210122115419
+3.250.214.118 3 3 231329 20210119181817
+50.62.177.117 1 1 410 20210111115604
+78.118.182.6 3 55 643664 20210129210436
+167.172.56.36 5 5 5754 20210117205510
+194.110.84.145 2 2 2782 20210116122058
+194.187.171.96 1 1 19654 20210124094735
+194.59.164.200 7 7 2870 20210121165202
+35.209.226.170 1 1 410 20210120075404
+54.190.141.60 1 1 18902 20210126044225
+37.173.123.99 4 108 5126475 20210111173043
+194.5.156.9 1 1 410 20210121223712
+207.244.226.172 3 3 3000 20210115145325
+163.172.22.83 3 3 25979 20210131235424
+198.71.234.10 1 1 410 20210127025213
+34.243.81.214 2 2 28212 20210121130203
+37.120.194.158 2 2 2782 20210127200140
+146.0.189.140 5 159 12428302 20210110125438
+97.74.24.43 2 2 820 20210110075735
+134.209.97.97 1 1 410 20210105190417
+34.105.7.229 1 1 230 20210126133552
+196.203.110.141 6 6 5952 20210111035921
+88.123.23.16 10 144 12025771 20210128210918
+51.15.152.104 4 4 5564 20210126202704
+178.128.30.1 1 1 410 20210125234147
+66.102.7.104 0 34 1315730 
+35.213.131.236 1 1 410 20210125210912
+116.15.189.70 11 11 39446 20210128122154
+81.245.188.254 4 110 4956421 20210111105733
+62.210.204.60 1 1 206 20210112065454
+80.214.29.212 2 11 4359496 20210115183609
+194.59.164.39 1 1 410 20210122192546
+174.142.60.54 1 1 410 20210118173336
+35.213.148.85 2 2 820 20210126094357
+5.101.174.196 2 2 2782 20210125130850
+37.187.132.5 1 1 128570 20210129222835
+151.106.116.29 1 1 410 20210125101159
+50.62.160.239 2 2 820 20210106002842
+95.217.203.187 1 1 410 20210123000747
+13.66.139.76 0 1 402 
+184.168.46.121 1 1 410 20210101093626
+107.180.120.57 2 2 820 20210101153203
+192.3.188.123 2 2 18946 20210117073235
+198.71.224.93 1 1 410 20210106134742
+90.41.63.183 11 408 37166715 20210106172606
+163.172.21.92 1 1 8277 20210130093402
+187.188.185.176 11 11 39446 20210128123905
+45.132.243.52 1 1 410 20210124015455
+198.23.213.114 1 1 410 20210122043217
+196.247.180.132 2 2 2782 20210122022747
+103.27.34.8 2 2 820 20210122164142
+176.31.182.56 1 1 8773 20210120103727
+144.91.111.124 3 3 1230 20210117144544
+167.172.19.34 1 1 126827 20210128204627
+93.191.158.24 3 3 1230 20210112054844
+80.65.64.98 11 11 39446 20210128123704
+45.13.252.37 3 3 1230 20210120070113
+185.2.4.91 1 1 410 20210121023315
+91.234.195.179 2 2 820 20210106230034
+35.208.61.112 1 1 410 20210125213111
+88.135.37.134 1 1 410 20210112083849
+134.90.149.149 2 2 2722 20210121035605
+188.213.167.24 1 1 410 20210118042801
+132.148.197.208 2 2 820 20210101091738
+217.138.197.68 2 2 2782 20210114232155
+104.226.26.226 2 2 820 20210101153505
+216.194.161.135 1 1 410 20210105082516
+151.106.115.91 1 1 410 20210120123532
+202.56.203.226 11 11 39446 20210128120856
+86.238.156.203 4 160 9636126 20210120214149
+178.128.51.162 5 5 5746 20210115150605
+193.46.197.200 5 5 5746 20210112203548
+193.124.190.141 1 1 42320 20210104233008
+188.166.56.218 5 5 5754 20210123063917
+160.153.245.175 5 5 5746 20210113185139
+141.136.43.99 2 2 820 20210120194120
+178.128.83.209 5 5 5746 20210127115135
+91.204.46.64 1 1 410 20210115043215
+67.225.188.53 1 1 410 20210119195011
+107.180.111.12 2 2 820 20210103012804
+31.13.115.13 1 2 935 20210123184101
+93.158.90.107 8 8 111140 20210108044503
+47.242.32.255 7 7 98084 20210102223252
+35.209.87.177 1 1 410 20210126102359
+5.51.82.149 1 1 19134 20210125165911
+34.253.73.42 2 2 28400 20210103063512
+35.214.32.0 1 1 410 20210122205900
+89.163.221.136 5 5 5746 20210111213414
+159.89.140.0 5 5 5754 20210115130307
+90.119.13.246 0 1 741047 
+92.249.44.34 1 1 410 20210123082319
+162.144.52.59 5 5 5754 20210111200355
+35.235.96.109 5 5 5754 20210108104741
+35.214.55.134 1 1 410 20210114104542
+185.2.6.4 1 1 410 20210105061113
+195.206.169.174 2 2 2782 20210110185727
+142.93.153.126 4 4 18594 20210105102341
+197.13.10.11 2 2 820 20210113025103
+31.170.166.114 1 1 410 20210105064259
+108.2.205.10 2 2 7172 20210128120200
+166.62.37.69 2 2 820 20210110081401
+69.162.81.50 2 2 820 20210110080421
+88.122.240.227 10 98 4175817 20210103224549
+135.148.2.77 2 2 84640 20210112034827
+150.95.55.7 1 1 410 20210126165316
+77.204.165.172 0 1 557674 
+194.187.171.68 0 1 3419 
+35.213.177.83 1 1 410 20210121204318
+35.195.164.156 5 5 5754 20210113084750
+77.91.60.142 1 1 3586 20210110210840
+148.72.124.94 1 1 410 20210120145228
+207.180.206.148 5 5 5746 20210105113403
+217.79.178.55 2 2 820 20210119053435
+72.221.196.134 11 11 39446 20210128121651
+72.221.164.48 11 11 39446 20210128121448
+152.32.168.168 1 1 410 20210106025236
+54.38.253.1 5 5 5754 20210108082548
+158.69.254.105 5 5 5754 20210108194722
+51.38.227.167 2 2 820 20210101092529
+31.170.161.81 1 1 410 20210121132022
+198.71.224.69 1 1 410 20210112024609
+160.153.153.31 4 4 1640 20210106004205
+185.236.42.29 2 2 2782 20210107003859
+94.229.69.244 2 2 2782 20210114000643
+81.88.52.74 2 2 820 20210122045501
+142.93.1.168 10 10 11500 20210118052813
+45.40.166.141 2 2 820 20210101092811
+108.170.16.154 3 3 1230 20210117234611
+89.46.109.140 1 1 410 20210126120405
+194.110.114.220 2 2 2782 20210111205107
+31.13.115.120 0 8 1178742 
+132.145.242.131 5 5 5754 20210117191245
+45.40.166.151 2 2 820 20210103014046
+198.199.77.52 5 5 5754 20210117192541
+185.206.160.75 1 1 136193 20210127004806
+3.236.114.217 1 1 19115 20210128120711
+80.215.83.247 1 1 182 20210120115008
+139.59.34.226 5 5 5754 20210110051231
+45.56.219.46 1 1 410 20210114133606
+45.130.228.10 1 1 410 20210123092730
+35.209.119.183 1 1 410 20210111111429
+51.79.140.161 5 5 5746 20210103053347
+93.191.156.166 2 2 820 20210119221451
+185.216.35.121 4 4 5564 20210131215314
+31.30.60.19 2 2 820 20210101093459
+31.13.115.119 0 13 1302936 
+141.136.33.180 1 1 410 20210120034350
+35.209.48.16 1 1 410 20210126195438
+84.17.42.114 2 2 2782 20210110051445
+156.67.222.92 1 1 410 20210120182110
+34.78.233.187 6 6 84566 20210124001438
+195.123.209.118 3 3 400942 20210129012855
+194.5.156.19 2 2 820 20210122134300
+35.202.25.83 5 5 5746 20210131205637
+91.209.24.77 1 1 0 20210119022403
+184.168.193.157 2 2 820 20210110081649
+192.71.3.26 1 1 19368 20210114040704
+198.71.230.34 1 1 410 20210105045406
+92.53.96.30 1 1 410 20210116094755
+196.196.203.124 2 2 2782 20210127093023
+185.201.11.226 1 1 410 20210106084049
+185.210.145.100 2 2 820 20210120141949
+184.179.216.144 2 2 7172 20210128124025
+31.13.127.13 0 1 860030 
+178.144.115.176 1 1 19215 20210128150700
+185.191.207.132 4 4 5564 20210113095835
+194.110.114.172 2 2 2782 20210104120610
+194.59.164.27 1 1 410 20210122222104
+183.253.80.84 3 11 126871 20210109204659
+50.63.196.79 2 2 820 20210106003021
+161.97.132.121 1 1 410 20210107023213
+198.71.225.128 1 1 410 20210115025531
+167.114.217.222 11 11 39446 20210128120150
+202.189.252.224 11 11 39446 20210128123401
+35.188.254.6 5 5 5754 20210109232932
+159.65.65.170 5 5 5754 20210115111836
+194.187.171.78 0 1 3419 
+144.172.126.43 5 5 5754 20210108075443
+66.249.93.194 1 1 19103 20210115120907
+51.254.113.145 1 1 124794 20210109061831
+3.236.247.6 1 1 19354 20210109202633
+31.13.115.22 0 1 80790 
+85.128.142.19 1 1 410 20210125194851
+198.71.239.40 2 2 820 20210106004437
+5.253.206.164 4 4 5564 20210111155509
+134.209.250.11 5 5 5754 20210109105517
+2.57.89.72 1 1 410 20210120175537
+46.105.127.185 1 1 410 20210105080223
+3.237.176.8 0 1 603433 
+194.187.171.133 1 2 22567 20210102185326
+185.142.26.195 2 2 2782 20210126100709
+151.106.116.155 1 1 410 20210125102145
+45.80.155.42 4 4 18594 20210117004222
+198.71.239.32 2 2 820 20210106004118
+92.145.242.129 5 56 577265 20210106200620
+91.173.13.150 3 52 535567 20210130122814
+203.150.228.128 2 2 820 20210103013619
+197.81.132.193 3 3 2984 20210117082205
+217.138.197.220 4 4 5564 20210107051442
+194.5.156.37 2 2 820 20210122103714
+3.249.240.54 1 1 7064 20210110041950
+92.249.44.115 1 1 410 20210105103419
+77.194.60.30 5 104 3323700 20210106184109
+93.27.140.69 3 56 1384465 20210104184014
+3.127.248.152 2 2 820 20210125213259
+35.183.148.73 1 1 410 20210113104128
+69.171.251.1 1 53 5958490 20210129070245
+18.219.145.52 1 1 19365 20210114120608
+103.107.205.36 5 5 5754 20210111152517
+185.236.42.71 2 2 2782 20210110115717
+195.78.66.144 1 1 410 20210105222951
+86.213.112.108 12 270 8008227 20210125001533
+89.46.107.204 1 1 410 20210105141310
+89.40.183.30 2 2 2782 20210122000648
+94.130.4.38 1 1 410 20210115071816
+165.22.242.39 4 4 18594 20210108053426
+153.92.6.153 1 1 410 20210119213645
+102.75.71.145 1 44 363804 20210103142251
+185.182.57.201 1 1 410 20210111170204
+196.196.203.148 2 2 2782 20210123105626
+91.179.151.163 4 138 11496841 20210111114355
+162.216.16.228 1 1 410 20210107133142
+31.13.115.10 3 45 1482352 20210123184059
+157.7.105.181 1 1 410 20210105180536
+193.106.241.29 4 4 150974 20210131175158
+2.58.46.28 2 2 2782 20210106222559
+82.252.146.177 8 238 20121826 20210104002539
+195.78.66.137 1 1 410 20210105021514
+54.39.243.184 12 12 1110498 20210129192639
+198.71.227.26 1 1 410 20210112121611
+90.89.127.19 4 144 10184720 20210113140926
+194.99.106.140 5 117 9456965 20210118213047
+160.153.147.130 2 2 820 20210106003655
+81.88.52.25 1 1 410 20210111015852
+111.90.133.10 3 3 1230 20210106004030
+50.63.197.99 2 2 820 20210110082107
+161.35.232.103 5 5 5754 20210105214858
+198.71.239.36 2 2 820 20210110082227
+80.67.28.24 1 1 410 20210120201817
+95.154.214.2 2 2 820 20210124163021
+91.171.74.153 7 207 15843595 20210124005129
+185.28.21.229 1 1 410 20210120173238
+31.170.161.73 1 1 410 20210120184610
+97.74.24.200 2 2 820 20210106003914
+158.140.133.94 1 1 410 20210128174324
+3.214.224.184 1 1 19330 20210107121710
+185.201.10.88 1 1 410 20210122165437
+194.187.171.147 0 1 3419 
+176.147.78.241 4 94 3712099 20210110201317
+109.202.111.131 2 2 2782 20210127060945
+86.247.193.120 4 108 5126475 20210123181618
+192.145.127.172 2 2 2782 20210103043526
+3.134.100.113 1 1 19180 20210116202519
+222.231.31.220 1 1 410 20210106003808
+35.208.7.206 1 1 410 20210103013133
+89.46.108.176 1 1 410 20210116140424
+185.10.75.19 1 1 410 20210121075511
+83.166.138.59 1 1 2602 20210102170119
+35.209.128.161 1 1 410 20210127091508
+156.67.222.230 1 1 410 20210104164851
+89.46.109.246 1 1 410 20210126092857
+91.175.65.219 6 175 12537530 20210113101213
+206.189.35.185 1 1 410 20210120010204
+198.71.235.73 2 2 820 20210101153618
+92.184.98.180 1 1 19281 20210102112024
+156.67.222.61 1 1 410 20210106002619
+92.249.45.23 1 1 410 20210120063603
+81.88.52.77 1 1 410 20210113010510
+90.8.166.79 3 49 531061 20210114213558
+194.187.171.87 0 1 3419 
+156.67.222.83 2 2 820 20210120134933
+196.245.151.4 2 2 2782 20210131043945
+192.3.201.65 1 1 410 20210106205441
+163.44.198.33 1 1 230 20210105170059
+45.76.118.202 5 5 5746 20210111232555
+83.220.168.24 1 1 410 20210106044322
+37.187.72.202 6 6 5952 20210111020437
+192.162.238.237 1 1 410 20210101092924
+45.87.80.187 1 1 410 20210120022942
+103.42.110.22 1 1 410 20210114142700
+213.32.91.71 5 5 5754 20210111164741
+213.232.87.138 2 2 2782 20210119074637
+66.102.7.106 1 57 3458164 20210112013927
+3.236.50.113 1 1 19315 20210102202215
+198.71.239.49 1 1 410 20210101153841
+153.92.5.168 4 4 18594 20210107172838
+37.152.182.100 1 1 410 20210106113715
+141.98.103.228 2 2 2782 20210106130547
+149.129.239.216 2 2 820 20210115003200
+178.128.252.220 5 5 5746 20210106041554
+163.172.21.243 2 2 16554 20210130133849
+67.207.93.184 4 4 4313 20210122191902
+91.204.46.193 1 1 410 20210112102257
+92.249.44.154 1 1 410 20210125231137
+185.128.26.52 2 2 2782 20210116144536
+35.208.146.22 1 1 410 20210126181007
+47.242.162.239 2 2 39067 20210128124407
+202.70.136.100 1 1 410 20210110082135
+160.153.147.21 2 2 820 20210128114232
+2.7.156.29 3 59 694902 20210108115718
+139.99.49.202 5 5 5754 20210103161706
+198.71.225.6 2 2 820 20210107031023
+85.208.98.21 1 1 19046 20210113182845
+92.184.110.239 4 90 2669413 20210130082106
+185.224.137.190 3 3 1230 20210122095611
+81.16.31.227 1 1 410 20210122155535
+151.106.116.171 1 1 410 20210121041800
+35.209.53.85 1 1 410 20210118093719
+109.24.150.62 4 143 11711376 20210104030749
+95.128.74.25 1 1 410 20210119040427
+191.102.65.132 5 5 17930 20210128121324
+144.91.114.122 1 1 410 20210113093426
+185.222.57.164 2 2 38111 20210107220834
+81.88.52.60 1 1 410 20210121175039
+67.205.42.117 1 1 410 20210114154343
+188.121.41.158 2 2 820 20210101092633
+178.157.15.104 2 2 820 20210106002815
+83.114.16.30 4 159 11405697 20210108050306
+117.103.70.25 3 3 2976 20210110231912
+192.0.101.142 0 1 1325219 
+54.37.121.239 1 1 410 20210106111150
+51.79.99.219 5 5 5754 20210113114853
+5.180.62.85 2 2 2782 20210126232944
+176.109.245.247 2 2 0 20210122030254
+85.128.142.83 1 1 410 20210126083525
+90.79.85.214 0 4 43899 
+18.192.214.148 1 2 17508 20210131044551
+193.187.118.104 3 3 7815 20210103085112
+40.75.65.193 0 1 3926 
+153.92.6.93 1 1 410 20210121030105
+54.72.239.30 12 12 167953 20210130020847
+165.227.195.122 5 5 5754 20210105114016
+128.199.182.51 5 5 5754 20210131223723
+145.239.7.192 1 1 410 20210128051801
+51.178.136.52 5 5 5746 20210106000053
+45.77.225.179 1 1 19716 20210112105633
+184.154.46.48 1 1 410 20210119180651
+80.215.200.76 7 159 11355915 20210103234402
+94.231.103.137 1 1 410 20210105101927
+104.248.114.254 2 2 820 20210107001150
+163.172.22.87 2 2 17808 20210131211327
+157.245.54.52 1 1 230 20210126171428
+2.57.89.104 1 1 410 20210124125735
+35.167.188.90 2 46 368779 20210127183123
+198.12.208.214 2 2 820 20210127192932
+46.17.172.75 1 1 410 20210122202844
+160.153.147.36 2 2 820 20210106002920
+198.71.241.51 1 1 410 20210111214026
+185.224.138.76 1 1 410 20210125084425
+163.172.226.60 4 4 5564 20210125075125
+31.170.166.185 1 1 410 20210124034914
+194.187.171.115 1 1 19083 20210110004103
+185.130.184.222 2 2 173225 20210104060403
+148.72.97.246 1 1 410 20210125172151
+198.71.238.4 2 2 820 20210110081835
+194.187.171.88 0 1 3419 
+194.187.171.152 1 1 19577 20210116172834
+198.71.231.57 1 1 410 20210117222222
+66.23.252.226 5 5 5754 20210122235255
+82.165.84.3 1 1 410 20210119172128
+190.107.177.57 2 2 820 20210115020932
+34.77.129.42 1 1 133429 20210107015014
+132.148.104.139 2 2 820 20210110081012
+74.125.212.6 2 49 2720703 20210112013929
+173.201.196.175 2 2 820 20210101091506
+68.183.68.148 4 4 18594 20210131181908
+80.215.73.173 1 60 9779213 20210113133840
+194.110.84.121 2 2 2782 20210110072008
+66.207.46.36 5 5 5754 20210111225114
+185.101.208.90 10 245 21026881 20210120081915
+160.153.154.27 2 2 820 20210101092957
+51.159.37.34 1 1 8277 20210118021641
+31.186.8.86 5 5 5754 20210113235114
+160.153.147.143 1 1 410 20210103014207
+176.104.107.20 1 1 410 20210126223557
+156.67.222.208 1 1 410 20210125121722
+93.57.60.242 4 4 4191 20210109095648
+194.187.171.153 1 1 19491 20210127115728
+176.113.226.105 1 1 3586 20210128122833
+198.71.239.51 2 2 820 20210106003544
+81.16.28.194 1 1 403 20210121012532
+89.46.106.228 1 1 410 20210113141125
+194.187.171.99 0 1 3419 
+27.254.172.54 2 2 820 20210103012350
+80.11.240.243 3 52 535567 20210127120134
+45.130.228.148 1 1 410 20210121170913
+31.13.115.1 0 34 3407603 
+156.67.222.229 1 1 410 20210123125633
+173.201.196.97 2 2 820 20210110081955
+177.234.153.15 1 1 410 20210125181125
+156.67.222.71 1 1 410 20210124004820
+46.105.102.68 5 5 5746 20210109182501
+45.87.184.84 1 1 138345 20210116103442
+88.162.218.42 5 102 7054061 20210128111742
+160.153.250.234 1 1 410 20210126145022
+198.12.250.116 5 5 5746 20210108183459
+156.67.222.181 1 1 410 20210120234510
+82.165.114.88 2 2 127944 20210106225620
+61.19.250.213 2 2 820 20210101093111
+206.189.231.196 5 5 5746 20210109124743
+64.225.124.42 5 5 5754 20210115092005
+51.159.90.157 2 2 2782 20210130141734
+118.99.13.102 1 1 2609 20210102133911
+163.172.46.149 4 4 33883 20210130072502
+217.70.32.9 2 2 820 20210101153141
+72.221.164.52 11 11 39446 20210110205952
+195.206.107.4 2 2 2782 20210104164756
+109.228.23.89 2 2 820 20210101153651
+89.40.183.211 2 2 2782 20210125182136
+202.137.155.212 1 1 3586 20210110210214
+166.62.41.108 5 5 5754 20210122210115
+167.71.46.185 5 5 5746 20210103070516
+194.187.171.140 1 1 19246 20210128145702
+185.231.71.159 1 1 129508 20210114142257
+198.71.243.16 2 2 820 20210110082053
+89.46.106.145 1 1 410 20210107113841
+139.59.77.73 3 3 2976 20210110092350
+192.227.241.101 2 2 18946 20210105072004
+77.81.139.164 4 4 5564 20210130023250
+93.22.148.98 4 133 9754072 20210109212218
+46.101.170.63 5 5 5746 20210108202824
+185.46.229.138 2 2 5224 20210103134203
+45.55.92.26 2 2 820 20210103013958
+77.140.61.207 4 112 5197203 20210104185737
+51.15.26.92 2 2 17136 20210129194029
+95.216.42.246 2 2 820 20210127114739
+66.102.7.102 3 61 5705273 20210112013927
+91.234.195.40 1 1 410 20210116074416
+109.70.144.27 2 2 2782 20210112033606
+82.102.18.235 2 2 2782 20210131011611
+216.158.146.154 5 5 5754 20210127095650
+194.35.233.173 2 2 2782 20210129003517
+198.20.110.106 2 2 820 20210124051856
+195.154.47.149 4 4 5564 20210113030733
+103.216.82.43 1 1 830 20210129185118
+34.197.193.128 1 1 410 20210106092531
+51.15.26.124 1 1 8277 20210131032442
+206.189.85.88 3 3 2984 20210109172107
+198.71.238.22 2 2 820 20210106004335
+151.106.97.61 2 2 820 20210121090215
+156.67.222.75 1 1 410 20210125232712
+185.51.191.62 2 2 820 20210126154225
+194.187.171.83 1 1 18786 20210112121040
+35.209.176.126 3 3 1230 20210115104349
+198.211.122.238 1 1 127291 20210109033907
+176.151.44.172 2 2 140023 20210117201804
+31.220.104.209 1 1 410 20210104213714
+112.140.176.61 2 2 820 20210107105517
+34.74.45.92 5 5 5754 20210103102112
+35.214.179.20 1 1 410 20210126175424
+81.88.52.6 1 1 410 20210125103729
+89.83.138.246 4 92 4567298 20210114003641
+51.159.36.102 1 1 8277 20210118201655
+138.197.154.176 5 5 5754 20210109113845
+184.94.240.92 7 7 606051 20210113183632
+89.36.224.244 4 4 5564 20210110212602
+37.164.90.82 3 54 567658 20210101171940
+45.12.223.228 2 2 2782 20210110142419
+90.54.99.201 4 144 11984697 20210110220401
+47.244.120.6 1 1 1191 20210106215750
+134.19.189.124 2 2 2782 20210102092056
+194.187.171.75 1 1 19276 20210114220207
+185.224.138.200 1 1 410 20210122121356
+81.249.232.5 4 93 4572528 20210130192910
+185.125.207.244 2 2 2782 20210113192219
+92.184.105.148 3 94 8069929 20210107080852
+185.214.124.100 2 2 820 20210123190625
+88.99.136.47 5 5 5754 20210122183254
+185.224.138.102 1 1 410 20210125230415
+35.214.121.222 1 1 410 20210114125059
+46.252.148.228 1 1 410 20210119210453
+176.155.251.212 5 212 18735627 20210130173111
+88.247.227.214 1 1 3586 20210128120912
+161.35.194.6 5 5 5754 20210108164832
+141.136.39.105 1 1 410 20210120092529
+3.249.132.135 1 1 7064 20210117041807
+103.194.243.212 8 8 28688 20210128124434
+151.106.116.214 1 1 410 20210123012401
+45.15.27.162 2 2 820 20210120214226
+128.199.223.178 5 5 5746 20210103064424
+174.142.89.15 2 2 820 20210105054932
+160.153.146.164 2 2 820 20210110082133
+51.159.37.31 4 4 33665 20210131173020
+78.159.22.108 4 111 5076913 20210102122045
+160.153.154.144 1 1 410 20210128134033
+35.213.185.159 1 1 410 20210125094800
+179.61.255.250 1 1 19368 20210104080406
+198.27.67.87 5 5 5754 20210106061434
+3.18.213.229 1 1 19613 20210108121324
+43.241.73.79 1 1 410 20210106055323
+176.137.27.161 3 52 535567 20210116081955
+86.216.218.67 3 61 845741 20210121181803
+37.120.221.188 2 2 2782 20210124013915
+77.72.4.12 1 1 410 20210104191342
+45.88.197.78 1 1 230 20210123020456
+77.68.64.25 2 2 2770 20210105132451
+77.68.64.27 1 1 230 20210105132453
+84.17.42.104 2 2 2782 20210104141856
+18.224.141.26 1 1 19516 20210117061252
+151.106.116.125 1 1 410 20210119234507
+93.95.216.123 1 1 410 20210105071833
+80.215.135.81 1 1 19448 20210126181906
+212.85.69.14 4 4 18594 20210113161308
+211.1.230.194 5 5 5746 20210117174428
+95.217.224.228 1 1 410 20210106095749
+176.31.182.58 2 2 27984 20210129170848
+34.125.183.133 4 4 18594 20210102165340
+45.87.80.219 1 1 410 20210120090140
+104.238.120.13 2 2 820 20210101092016
+193.124.188.77 4 4 169395 20210128104359
+185.242.161.15 1 1 410 20210126092547
+37.120.211.132 2 2 2782 20210112104259
+198.71.228.39 1 1 410 20210114034746
+107.180.111.21 4 4 1640 20210103013020
+81.88.52.81 2 2 820 20210122144408
+54.194.129.124 1 1 19184 20210103020241
+45.87.80.193 2 2 820 20210122135534
+198.71.235.12 1 1 410 20210112074401
+156.67.222.152 1 1 410 20210105182806
+54.191.206.132 1 2 22887 20210122125004
+89.46.109.212 1 1 410 20210114182553
+193.124.190.225 2 2 84755 20210104233016
+128.199.122.54 5 5 5754 20210117074855
+37.120.200.100 1 1 0 20210120095131
+151.106.117.100 3 3 1230 20210126053555
+213.142.149.93 2 2 820 20210119131115
+52.188.147.203 1 1 19430 20210127234032
+161.117.44.63 5 5 5754 20210117070312
+35.209.29.135 1 1 410 20210119174927
+92.184.108.207 4 90 2669402 20210126234544
+193.160.64.129 1 1 410 20210124083545
+185.201.10.64 1 1 410 20210122092219
+35.227.8.224 5 5 5754 20210115132133
+195.154.42.133 2 2 2782 20210114185800
+37.120.199.252 4 4 5564 20210129185447
+185.232.14.42 1 1 410 20210120001722
+35.209.66.208 1 1 410 20210125092112
+31.222.7.54 11 11 39446 20210128123620
+141.98.103.140 2 2 2782 20210127223614
+50.62.208.139 2 2 820 20210101092207
+51.210.150.171 1 1 0 20210126184739
+14.233.83.93 1 1 19363 20210124003637
+45.77.253.127 5 5 5746 20210115072550
+178.128.203.77 2 2 1559 20210103104043
+178.128.8.41 5 5 5754 20210103141052
+128.199.100.171 5 5 5746 20210127104726
+185.2.5.63 2 2 820 20210117045937
+92.152.56.39 4 112 5132439 20210113121952
+184.179.216.140 11 11 39446 20210128121425
+31.13.115.4 0 5 472275 
+45.130.228.15 1 1 410 20210106163844
+156.67.222.8 1 1 410 20210121043303
+178.32.62.253 5 5 5754 20210108192749
+46.17.175.63 1 1 410 20210120161519
+198.71.236.6 2 2 820 20210107103035
+92.184.116.207 6 65 1152064 20210124134620
+141.136.41.36 1 1 410 20210121002311
+167.99.90.240 4 4 18594 20210127055834
+46.101.196.138 1 1 410 20210128152701
+31.13.115.24 0 10 592702 
+160.153.147.24 1 1 410 20210105170210
+54.185.113.122 1 1 19322 20210101164102
+49.159.128.245 1 1 410 20210121031237
+192.169.232.3 5 5 5754 20210115085616
+195.70.5.106 4 112 5132437 20210122161216
+188.166.247.170 10 10 11500 20210123061031
+45.89.205.171 1 1 410 20210120044757
+195.154.107.28 5 5 5754 20210116002432
+69.160.38.10 1 1 410 20210120202440
+173.201.196.120 2 2 820 20210110080213
+163.172.22.129 4 4 34462 20210131193055
+220.135.192.123 2 2 820 20210106003320
+35.185.241.102 3 3 390760 20210125183206
+198.46.214.159 1 1 19588 20210105071953
+51.75.146.127 4 4 150974 20210112232832
+3.238.240.43 1 1 19534 20210119015254
+103.27.34.46 3 3 1230 20210119193747
+31.28.163.35 6 6 7298 20210121054622
+89.80.242.162 0 2 289939 
+190.107.177.238 1 1 410 20210126225826
+163.172.21.153 1 1 8568 20210130053838
+185.224.137.82 1 1 410 20210122110836
+50.62.177.206 2 2 820 20210101153709
+31.220.63.225 1 1 410 20210106160828
+31.13.115.9 0 16 1906278 
+81.88.52.122 1 1 410 20210112222301
+72.221.232.139 1 1 3586 20210128122401
+94.238.229.32 4 92 4568256 20210130174250
+178.239.161.88 2 2 2782 20210101170424
+151.106.116.163 2 2 820 20210125150320
+18.232.188.114 1 1 19507 20210104174236
+202.92.7.113 1 1 410 20210104203735
+176.152.184.11 1 1 19713 20210110154120
+160.153.155.14 1 1 410 20210114161459
+154.0.173.83 5 5 5746 20210109211856
+51.159.37.145 3 3 26727 20210122065352
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20210101 163 317 5283604 69
+20210102 118 670 40895791 39
+20210103 237 1435 109590597 64
+20210104 111 915 49311794 50
+20210105 267 965 59519170 80
+20210106 265 1271 77056355 113
+20210107 75 210 9253822 38
+20210108 294 3338 158433020 48
+20210109 164 654 40278506 38
+20210110 255 912 56927131 87
+20210111 161 1244 86727958 54
+20210112 145 1142 86157922 69
+20210113 164 1161 73068626 52
+20210114 105 241 5969480 52
+20210115 121 131 4636612 45
+20210116 94 501 26450706 35
+20210117 146 309 7840856 46
+20210118 112 987 79246795 34
+20210119 120 851 59147348 47
+20210120 146 853 44143242 88
+20210121 153 789 39914123 77
+20210122 259 1119 68884214 82
+20210123 153 753 45259260 59
+20210124 126 988 61941121 50
+20210125 181 1329 87170111 65
+20210126 121 1087 73151065 58
+20210127 193 1764 115331932 59
+20210128 416 514 10563534 76
+20210129 103 1244 91282162 34
+20210130 152 1628 121566931 56
+20210131 118 290 10570474 50
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30s-2mn 43
+1h+ 134
+5mn-15mn 26
+15mn-30mn 12
+2mn-5mn 21
+30mn-1h 37
+0s-30s 1541
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 125
+/wp-login.php 1296 2566736 380 196
+/wp-cron.php 1145 0 220 219
+/xmlrpc.php 1026 388726 728 897
+/ 514 16832932 265 237
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 159 3673734 2 3
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 124 4998914 1 7
+/diasec/ 74 822394 29 24
+/contact/ 54 1391678 12 14
+/boutique/ 51 826167 7 7
+/a-o-d-by-aurelie-anger/ 42 617036 22 28
+/panier/ 35 952194 2 7
+/art-sur-mesure/ 35 543534 8 8
+/wp-content/plugins/js_composer/assets/lib/flexslider/fonts/flexslider-icon.woff 28 33896 0 3
+/installer-un-tableau-diasec-plexiplay/ 24 208954 16 18
+/artistes/ 23 205502 3 2
+/blog-design/ 21 310776 2 7
+/joseph-lopez-nice-poete/ 20 159162 11 11
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/ 19 449313 3 3
+/installer-un-tableau-plexi-sur-entretoise/ 18 161577 13 13
+/herve-arduini/ 18 153869 7 2
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/ 17 557048 2 4
+/author/admin/ 15 148515 0 0
+/livraison/ 15 144956 4 4
+//wp-json/wp/v2/users/ 15 4553 0 1
+/category/blog/aod-blog/ 14 455406 5 0
+/boutique/aurelie-anger/couleurs-vives/lolita/ 7 132538 0 1
+/wp-admin/admin-post.php 5 0 3 3
+/conditions-generales-de-ventes/ 13 682774 3 2
+/categorie-produit/herve-arduini/oeuvres-detournees/ 2 6795 1 0
+/wp-admin/admin-ajax.php 1 61 1 1
+/categorie-produit/aurelie-anger/couleurs-vives/ 2 119258 0 0
+/categorie-produit/herve-arduini/tableaux-grands-formats/ 2 73434 0 0
+/boutique/herve-arduini/tableaux-sexy/moon/ 1 13697 0 0
+/categorie-produit/herve-arduini/ 12 211705 0 0
+/2013/10/ 1 8612 0 0
+/wp-config.php 2 0 1 0
+/boutique/herve-arduini/tableaux-sexy/vis-vis/ 6 134815 0 1
+/decoration-sur-mesure/ 1 36832 1 1
+/wp-admin/install.php 2 1718 2 2
+/boutique/aurelie-anger/pastel/lost/ 1 12432 0 0
+/selfiesky/ 7 98117 3 3
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.eot 1 20211 1 0
+//wp-json/wp/v2/users/ 1 282 0 0
+/categorie-produit/herve-arduini/tableau-rose/ 1 8265 0 0
+/boutique/page/3/ 5 69512 0 1
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/ 1 62342 0 0
+/decoration-partie-commune/ 10 133662 4 4
+/mon-compte/ 12 95063 0 0
+/boutique/herve-arduini/tableau-diasec/xxplosive/ 1 13954 0 0
+/cafe-botteli-paris-3-deco-attractive/ 11 121584 7 8
+/mentions-legales/ 11 188248 0 2
+/wp-json/oembed/1.0/embed 11 12843 0 2
+/sitemap_index.xml 1 371 0 0
+/categorie-produit/herve-arduini/tableau-noir-et-blanc/ 4 95963 0 0
+/categorie-produit/aurelie-anger/ 7 80716 0 1
+/boutique/herve-arduini/tableau-diasec/open-mind/ 2 26689 0 1
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/ 2 78986 1 1
+/categorie-produit/herve-arduini/tableaux-sepia/ 3 24618 0 0
+/boutique/page/2/ 12 166040 0 1
+/boutique/aurelie-anger/couleurs-vives/highway-hell/ 1 61752 0 0
+/expo-plexiplay-chez-le-petit-lux/ 9 92696 5 7
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/ 1 14321 0 0
+/categorie-produit/aurelie-anger/page/2/ 2 17400 0 0
+/categorie-produit/aurelie-anger/noir-et-blanc/ 5 68136 1 1
+/boutique/herve-arduini/tableaux-sexy/little-street/ 1 78660 0 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/ 3 206694 0 0
+/boutique/aurelie-anger/couleurs-vives/lie/ 2 24840 1 1
+/categorie-produit/herve-arduini/tableau-grand-format/ 6 93072 1 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/page/2/ 1 10014 0 0
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/ 3 87133 0 1
+/blog-design/page/2/ 7 63721 0 0
+/categorie-produit/herve-arduini/illustration-dherve/ 5 94054 0 3
+/boutique/herve-arduini/tableau-diasec/party-white/ 10 292682 3 6
+/categorie-produit/herve-arduini/tableaux-pop-art/ 2 9208 1 1
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/page/2/ 7 89391 0 3
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/ 2 90035 0 1
+/boutique/aurelie-anger/pastel/evanescent/ 1 13260 0 0
+/expo-plexiplay-jazz-galerie-motus-nice/ 4 51954 0 0
+/wp-json 2 123774 0 2
+/plexiplay-sur-m6/ 10 86073 3 2
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/ 5 40913 2 1
+/feed/ 6 42384 6 5
+/categorie-produit/herve-arduini/tableaux-sexy/ 3 178098 0 0
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/ 1 62987 0 0
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/ 1 64115 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.ttf 1 23293 0 0
+//xmlrpc.php 3 1219 0 1
+/qui-sommes-nous/ 8 478369 0 2
+/categorie-produit/herve-arduini/fashion-week-art/ 2 44866 0 0
+//wp-includes/wlwmanifest.xml 1 1045 0 0
+/boutique/herve-arduini/tableaux-sexy/eventail-or/ 2 27241 0 0
+/tableau-plexi-art-numerique/ 3 44256 2 1
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.eot 1 40395 0 1
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/ 3 29882 1 1
+/categorie-produit/herve-arduini/tableau-sensuel-nb/ 6 137520 2 1
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/ 5 55031 1 0
+/boutique/tableau-diasec/disco-ball/ 10 179031 0 0
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/ 11 85868 5 5
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/ 1 13229 0 0
+/boutique/herve-arduini/tableaux-sepia/escalator/ 3 90935 1 2
+/boutique/herve-arduini/tableau-diasec/speed/ 2 26608 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.ttf 1 40332 0 0
+/categorie-produit/aurelie-anger/pastel/ 2 64160 0 1
+/boutique/tableau-grand-format/party-white/ 8 168276 0 1
+/plexiplay-collection-tableaux/ 4 50451 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 5 51660 0 3
+/boutique/herve-arduini/tableau-diasec/party-night/ 5 101994 1 1
+/boutique/tableau-sensuel-nb/i-love-paris/ 2 15031 1 0
+/categorie-produit/herve-arduini/tableau-mauve/ 1 10018 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/ 1 79872 0 0
+/categorie-produit/herve-arduini/graph-art/ 4 104977 0 2
+http://www.plexiplay.fr/wp-content/themes/index.php 1 0 1 1
+/categorie-produit/herve-arduini/tableaux-deco-art/ 2 8445 1 0
+/boutique/tableaux-sepia/escalator/ 7 133082 1 0
+/boutique/herve-arduini/tableaux-sexy/disco-ball/ 8 164874 0 0
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/page/2/ 7 59220 0 1
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/ 13 184023 2 3
+/plexiplay-chez-resto-incontro-enrico-co/ 9 98401 2 3
+/wishlist/ 6 47367 0 0
+/boutique/tableaux-sur-plexi/v-i-p/ 8 169312 0 0
+/tableau-plexiglas-plexiplay-vu-sur-fr3/ 4 53254 0 0
+/decoration-bar-sur-mesure/ 1 9237 0 0
+/category/blog/ 8 79296 0 0
+/categorie-produit/herve-arduini/tableau-diasec/ 2 193436 0 0
+/categorie-produit/herve-arduini/tableaux-surrealistes/ 4 37884 0 0
+END_SIDER

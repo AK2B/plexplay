@@ -1,0 +1,1156 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201602 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2693                
+POS_VISITOR 24554               
+POS_DAY 38026               
+POS_DOMAIN 3652                
+POS_LOGIN 4490                
+POS_ROBOT 4645                
+POS_WORMS 5354                
+POS_EMAILSENDER 5485                
+POS_EMAILRECEIVER 5628                
+POS_SESSION 38326               
+POS_SIDER 38536               
+POS_FILETYPES 5763                
+POS_DOWNLOADS 6099                
+POS_OS 6147                
+POS_BROWSER 6494                
+POS_SCREENSIZE 8104                
+POS_UNKNOWNREFERER 8178                
+POS_UNKNOWNREFERERBROWSER 8858                
+POS_ORIGIN 9186                
+POS_SEREFERRALS 9333                
+POS_PAGEREFS 9542                
+POS_SEARCHWORDS 9977                
+POS_KEYWORDS 10304               
+POS_MISC 2356                
+POS_ERRORS 10535               
+POS_CLUSTER 4346                
+POS_SIDER_404 10672               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160301000330 570 155961 14544490772271
+FirstTime 20160218174426
+LastTime 20160229233133
+LastUpdate 20160301131959 570 0 569 0 0
+TotalVisits 333                 
+TotalUnique 222                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 382                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 98 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 18 354 33719965 23 33 2022311
+1 19 125 11469512 63 290 24566294
+2 20 84 10148555 86 418 37588497
+3 6 10 1702111 40 345 29833633
+4 10 105 11531903 85 336 29903885
+5 5 5 3292 30 132 26698645
+6 19 320 26199573 54 582 66906703
+7 18 333 25973141 55 296 20890749
+8 38 290 23639594 35 106 4971304
+9 64 1189 104310128 40 163 6186077
+10 39 803 71038709 47 210 15301733
+11 63 1579 138735380 476 553 28462216
+12 57 1277 107839921 37 116 3558184
+13 56 1235 109562124 21 103 5879032
+14 81 2640 256713984 23 172 18717378
+15 211 2385 189893126 38 76 2360851
+16 365 2600 179846002 67 154 3618976
+17 319 2176 190305071 84 124 7656172
+18 448 3671 308017365 76 132 5264940
+19 33 544 49100236 34 54 2699332
+20 65 1850 167269859 38 112 4163456
+21 45 1027 88989706 20 42 3139142
+22 77 2464 245679063 59 92 3072344
+23 136 2472 86837284 180 416 20498004
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 40
+fr 1754 24280 2113535893
+it 186 576 34187823
+us 80 1401 114161115
+se 60 1453 5678062
+ru 33 187 7591072
+gb 15 540 56101382
+pl 13 13 1153182
+be 12 319 28495980
+tr 8 8 26336
+es 7 215 19658274
+de 7 7 576137
+ag 6 6 20997
+ua 5 5 482440
+mc 4 139 13653447
+br 4 34 1548662
+cn 3 3 272280
+gi 3 3 145538
+at 2 2 49183
+ca 2 112 10056244
+cg 1 14 1066173
+ph 1 44 1795678
+cr 1 58 6679794
+sa 1 1 115043
+hr 1 2 151246
+sn 1 44 2000791
+pt 0 1 34182
+kr 0 1 167868
+ma 0 9 1688063
+in 0 37 12681176
+tn 0 1 89559
+co 0 1 77865
+hk 0 1 161657
+ge 0 1 36693
+jp 0 3 363177
+ht 0 1 510445
+ch 0 3 436545
+dz 0 7 2372541
+nl 1 2 330899
+ar 1 1 122416
+sk 0 3 249746
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 14
+bot[\s_+:,\.\;\/\\-] 3069 287389066 20160229234455 114
+no_user_agent 279 4042799 20160229233614 0
+google[_+\s]web[_+\s]preview 277 18509923 20160224234505 0
+googlebot 255 8722211 20160229224956 10
+bingpreview 140 13480892 20160229072337 0
+googlebot\-image 88 15744929 20160229122101 0
+slurp 85 5328293 20160229130318 7
+spider 65 5165686 20160229232036 2
+[\s_+:,\.\;\/\\-]bot 45 2998020 20160229055928 0
+msnbot\-media 28 2263314 20160225082034 14
+php 22 3498219 20160225174116 0
+robot 10 602065 20160229024749 4
+unknown 5 175 20160229085924 5
+scanner 1 121289 20160224163636 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+eot 46 1497287 0 0
+css 3326 158614061 0 0
+png 2253 471382635 0 0
+ttf 10 449412 0 0
+woff2 1 56780 0 0
+woff 279 7835104 0 0
+php 1174 32680152 0 0
+html 702 50494746 0 0
+js 5660 123967647 0 0
+jpg 15418 1583593806 0 0
+jpeg 239 6027642 0 0
+svg 8 443394 0 0
+gif 422 1482938 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 20
+linuxandroid 5500 165
+winlong 449 24
+winxp 1689 126
+macosx6 158 7
+ios_iphone 3425 122
+win8 3 1
+macosx9 484 26
+ios_ipad 5462 157
+macosx7 230 8
+unix 80 4
+winnt 1670 71
+java 1 1
+win98 1 1
+linux 765 21
+win7 7194 1225
+winme 1 1
+macosx 1471 52
+win8.1 340 15
+Unknown 528 181
+macosx8 87 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 78
+firefox28.0 9 9
+safari7.0.3 2 2
+msie6.0 13 13
+chrome44.0.2403.125 1 1
+chrome45.0.2454.85 122 6
+firefox44.0 1657 57
+chrome44.0.2403.130 126 22
+firefox26.0 1451 59
+sonyericsson 139 4
+chrome28.0.1500.94 110 4
+firefox4.0 1 1
+chrome31.0.1650.57 4 4
+chrome43.0.2357.121 1 0
+msie8.0 179 25
+chrome9.0.601.0 1 1
+netscape7.1 1 1
+firefox43.0 16 2
+msie7.0 71 8
+safari6.2.8 87 4
+chrome27.0.1453 288 8
+opera12.16 127 3
+chrome34.0.1847.131 2 2
+firefox21.0 3 3
+chrome15.0.874.120 1 1
+safari6.0 379 10
+firefox29.0 13 13
+firefox38.0 107 4
+firefox7.0.1 1 1
+firefox12.0 2 2
+chrome32.0.1700.107 103 2
+chrome35.0.1916.114 2 2
+chrome46.0.2490.80 46 2
+chrome36.0.1985.143 215 6
+mozilla 226 21
+opera34.0.2036.50 16 2
+chrome42.0.2311.135 8 0
+chrome46.0.2486.0 2 0
+netscape4.0 1 1
+chrome48.0.2564.103 54 4
+chrome41.0.2228.0 1 1
+firefox35.0 1 0
+safari9.0.2 26 1
+safari 1751 40
+safari7.0 520 19
+chrome34.0.1847.76 269 8
+firefox4.0.1 1 1
+android 3200 94
+chrome48.0.2564.116 6374 1167
+chrome38.0.2125.101 3 3
+chrome36.0.1985.125 2 2
+chrome26.0.1410.33 158 2
+safari8.0.6 85 2
+safari6.1.6 84 4
+chrome46.0.2490.76 1 0
+chrome33.0.0.0 381 9
+firefox6.0.2 3 3
+chrome47.0.2526.111 327 17
+safari8.0 1268 37
+firefox3.6.10 8 8
+msie9.0 49 4
+Unknown 176 159
+chrome47.0.2526.83 123 5
+chrome30.0.0.0 3 0
+safari9.0.3 885 29
+chrome47.0.2526.100 4 0
+safari9.0.1 228 8
+chrome48.0.2564.95 394 12
+msie5.5 1 1
+chrome38.0.2125.102 866 29
+msie11.0 1116 38
+safari9.0 5070 173
+firefox39.0 107 4
+chrome48.0.2564.109 217 8
+msie10.0 1 1
+safari5.1 1 1
+chrome48.0.2564.106 10 0
+chrome48.0.2564.97 236 11
+firefox3.6.8 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_(compatible;_Qwantify/2.2w;__https://www.qwant.com/)/* 20160228233506
+Mozilla/5.0_(compatible;_Google-Site-Verification/1.0) 20160224161347
+Safari/11601.4.4_CFNetwork/760.2.6_Darwin/15.3.0_(x86_64) 20160223143526
+rarely_used 20160225183327
+Mozilla/4.0 20160225173718
+WordPress/4.3.3;_http://www.plexiplay.fr 20160229233133
+YahooCacheSystem;_YahooWebServiceClient 20160226125206
+Opera/9.80_(Android;_Opera_Mini/7.6.40234/37.7886;_U;_en)_Presto/2.12.423_Version/12.16 20160224061315
+Pinterest/0.2_(_http://www.pinterest.com/) 20160229035109
+Mozilla/4.0_(compatible;) 20160225111019
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+YahooCacheSystem;_YahooWebServiceClient 20160226125206
+Apache-HttpClient/4.3.5_(java_1.5) 20160224163749
+Pinterest/0.2_(_http://www.pinterest.com/) 20160229035109
+rarely_used 20160225183327
+WordPress/4.3.3;_http://www.plexiplay.fr 20160229233133
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 342 871
+From1 0 0
+From2 144 263
+From3 24 24
+From4 1702 28380
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 111 179
+bing 1 30
+google_image 31 52
+yandex 1 1
+yahoo 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://www.plexiplay.com 8 8
+http://top1-seo-service.com/try.php 6 6
+http://dp.g.doubleclick.net/apps/domainpark/domainpark.cgi 4 4
+http://www.sexyplay.eu 2 2
+http://www.amazon.fr/s/ref=sr_pg_20 1 1
+http://buttons-for-website.com 1 1
+http://sexyplay.eu 1 1
+http://lemoteur.orange.fr 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+adresse+pour+tableau+plexiglass 2
+plexi+art 2
+ou+acheter+tableau+modigliani 1
+aur%c3%a9lie+anger+mannequinat+image 1
+reproduction+photo+plexiglas 1
+tableau+plexiglas+femmes 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 17
+tableau 4
+plexiglas 2
+plexiglass 2
+plexi 2
+pour 2
+art 2
+adresse 2
+reproduction 1
+aur%c3%a9lie 1
+photo 1
+mannequinat 1
+femmes 1
+ou 1
+anger 1
+acheter 1
+image 1
+modigliani 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 1 3236
+302 42 0
+206 38 1950066
+404 240 4139675
+301 269 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 182
+/wp-admin/link-delete.php 1 -
+/ 5 -
+/Gass.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/
+/boutique/aurelie-anger/pastel/lost/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/pastel/lost/
+/wp-content/popup-pomo.php 1 -
+/categorie-produit/herve-arduini/tableaux-sexy/page/2/ 1 -
+/cig0119/up.php 1 -
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/little-street/
+/boutique/herve-arduini/tableau-diasec/xxplosive/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/xxplosive/
+/wp-includes/class-wp-upgrade.php 1 -
+/boutique/herve-arduini/tableaux-sexy/disco-ball/%3C 2 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/disco-ball/
+/tmp.php 1 -
+/boutique/herve-arduini/tableau-diasec/party-night/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/party-night/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/
+/wp-content/uploads/2015/09/new_up.php 1 -
+/wp-content/uploads/wysija/themes/2/update-bak.php 1 -
+/index2.php 1 -
+/wp-admin/includes/make.php 1 -
+/portfolio/tableau-romantique 1 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 6 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/
+/portfolio/tableau-pop 1 -
+/boutique/tableau-grand-format/party-white/%3C 2 http://www.plexiplay.fr/boutique/tableau-grand-format/party-white/
+/boutique/tableau-diasec/disco-ball/%3C 1 http://www.plexiplay.fr/boutique/tableau-diasec/disco-ball/
+/portfolio/photo-charme-artistique 1 -
+/wp_stkkn.php 1 -
+/boutique/aurelie-anger/couleurs-vives/blind-date/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/blind-date/
+/wp-includes/SimplePie/mil.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/%3C 2 http://www.plexiplay.fr/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/
+/wp-content/uploads/svp/optinbuttons/2013012621-27-49filem.php 1 -
+/portfolio/play 1 -
+/wp-content/uploads/wp-update.php 1 -
+/portfolio/photo-nu-artistique-noir-et-blanc 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia/
+/wp-indeks.php 1 -
+/conns.php 1 -
+/wp-content/uploads/2015/10/new_up.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/
+/6452.php 1 -
+/art-on-demand 1 -
+/wp-includes/pro/login.php 1 -
+/art-contemporain-digital 1 -
+/boutique/herve-arduini/tableau-diasec/open-mind/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/open-mind/
+/upload.php 1 -
+/wp-content/uploads/ysh.php 1 -
+/wp-lib.php 1 -
+/wp-content/plugins/revslider/temp/update_extract/revslider/mil.php 1 -
+/abc.php 1 -
+/wp-includes/wp-YSkmW_.php 1 -
+/plex-i-play 3 -
+/boutique/herve-arduini/tableaux-sexy/pistillum/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/pistillum/
+/smokestore/up.php 1 -
+/portfolio/graph-art 1 -
+/wp-content/uploads/2015/11/1447212766.php 1 -
+/boutique/herve-arduini/tableau-mauve/sensation/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-mauve/sensation/
+/boutique/herve-arduini/tableaux-sexy/dentelle/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/dentelle/
+/index1.php 1 -
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 2 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/moon/
+/boutique/aurelie-anger/couleurs-vives/virginia/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/virginia/
+/wp-includes/Text/Diff/Engine/cache.php 5 -
+/decoration-bar-sur-mesure/Un 1 -
+/wp-content/uploads/wp-index.php 1 -
+/portfolio/art-demand 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/
+/wp-content/uploads/style.php 1 -
+/wp-content/uploads/woo.php 1 -
+/wp-content/uploads/2015/10/wp-license.php 1 -
+/boutique/aurelie-anger/couleurs-vives/highway-hell/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/highway-hell/
+/indes.php 1 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/dolce-vita/
+/boutique/herve-arduini/tableaux-sexy/eventail-or/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/eventail-or/
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/noir-et-blanc/fantasme-2/
+/wp-content/uploads/2015/12/new_up.php 1 -
+/artistes/app/etc/local.xml 1 -
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/kiss-kiss/
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/
+/boutique/herve-arduini/tableaux-sexy/vis-vis/%3C 2 -
+/uploads/2015/10/update.php 1 -
+/css.php 1 -
+/up.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/
+/wp-content/uploads/2016/01/new_up.php 1 -
+/wp-content/uploads/phpinfo.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/
+/boutique/aurelie-anger/noir-et-blanc/50-nuances/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/noir-et-blanc/50-nuances/
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/%3C 1 http://www.plexiplay.fr/boutique/tous-les-tableaux-dherve-arduini/v-i-p/
+/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/%3C 3 http://www.plexiplay.fr/boutique/aurelie-anger/pastel/cadeau-de-mariage-unique-art-plastique/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-aux-roses/%3C 2 -
+/wp-content/uploads/locate.php 2 -
+/boutique/aurelie-anger/couleurs-vives/lolita/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/lolita/
+/wp-content/uploads/2015/11/1447212895.php 1 -
+/galerie-de-tableaux-dherve-arduini-impression-sur-plexiglas-en-hd 3 -
+/boutique/aurelie-anger/couleurs-vives/hippie/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/hippie/
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/
+/categorie-produit/herve-arduini/tableau-trame-rond/ 1 -
+/wp-content/uploads/infos.php 1 -
+/wp-cros.php 1 -
+/portfolio/la-vie-en-rose-2 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/
+/portfolio/tableau-pop-art 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-pop-art/bouche-typo/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/
+/boutique/tableaux-sur-plexi/v-i-p/%3C 1 http://www.plexiplay.fr/boutique/tableaux-sur-plexi/v-i-p/
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/
+/portfolio/tableau-5-big-kiss-lipstick-50-exemplaires/1500x800p100-big-kiss-lipstick-detail-2 1 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/
+/wp-content/plugins/hello.php 2 -
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/%3C 2 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/
+/wp-admin/wp-editors.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/
+/portfolio/photo-nu-artistique 1 -
+/mide.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/
+/category/blog/aod-blog/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 5 -
+/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/swinger-edition-limitee/
+/wp-content/uploads/2015/11/new_up.php 1 -
+/wp-admin/maint/cmds.php 1 -
+/wp-content/uploads/wp-lib.php 1 -
+/wp-content/uploads/slic.php 1 -
+/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/sugar-baby-galeriedartenligne/
+/wp-admin/wp-temp.php 1 -
+/index-2.php 1 -
+/author/admin/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 13 -
+/wp-content/uploads/wp-footers.php 1 -
+/slic.php 1 -
+/boutique/herve-arduini/tableau-diasec/speed/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/speed/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/
+/boutique/herve-arduini/tableaux-sur-plexi/enigma/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sur-plexi/enigma/
+/boutique/herve-arduini/tableaux-sexy/evantail-argent/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/evantail-argent/
+/wp-content/uploads/2015/11/1447116770.php 1 -
+/feed/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 7 -
+/portfolio/illustration-luxe 1 -
+/wp-content/uploads/2015/10/1445911123.php 1 -
+/indexs.php 2 -
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/
+/uploads/update.php 1 -
+/wp-content/uploads/2015/08/new_up.php 1 -
+/portfolio/tableau-extraordinaire 1 -
+/portfolio/entrelacement-2 1 -
+/wp-content/uploads/wpfoot.php 1 -
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/
+/boutique/herve-arduini/tableau-diasec/paris-mix/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/paris-mix/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/
+/apple-touch-icon.png 3 -
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/
+/play 3 -
+/.cache.php 1 -
+/robots.php 1 -
+/boutique/aurelie-anger/pastel/evanescent/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/pastel/evanescent/
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/
+/quisommesnous 1 -
+/init_includes.php 1 -
+/boutique/herve-arduini/tableau-diasec/party-white/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/party-white/
+/wp-content/uploads/wp-indexst.php 1 -
+/boutique/aurelie-anger/couleurs-vives/blue-light/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/blue-light/
+/wp-content_/uploads/2015/11/new_up.php 1 -
+/wp-footers.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-noir-et-blanc/le-prisonnier/
+/apple-touch-icon-precomposed.png 2 -
+/boutique/herve-arduini/tableau-diasec/desir/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableau-diasec/desir/
+/include.php 1 -
+/wp-includes/entry.php 1 -
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sepia/escalator/
+/wp-content/uploads/moser.php 1 -
+/wp-content/uploads/2016/02/new_up.php 1 -
+/wp-content/uploads/new_up.php 1 -
+/interface.php 1 -
+/menu.php 1 -
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 1 http://www.plexiplay.fr/boutique/aurelie-anger/couleurs-vives/lie/
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/%3C 1 http://www.plexiplay.fr/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/
+/wp-content/plugins/jetpack/scss/organisms/cmds.php 1 -
+/face.php 1 -
+/boutique/herve-arduini/oeuvres-detournees/folies/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/oeuvres-detournees/folies/
+/wp-content/uploads/2015/11/wp-license.php 1 -
+/portfolio/asia-folie 1 -
+/app/etc/local.xml 1 -
+/boutique/aurelie-anger/pastel/sanctuary/%3C 2 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 1 http://www.plexiplay.fr/boutique/herve-arduini/tableaux-sexy/pinky-2/
+/boutique/tableaux-sepia/escalator/%3C 1 http://www.plexiplay.fr/boutique/tableaux-sepia/escalator/
+/wp-content/uploads/samplc.php 1 -
+/wp-content/uploads/wysija/themes/2/update-bak.php5 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 382
+85.168.13.91 1052 2905 154384193 20160227151327
+185.2.4.29 135 139 0 20160228132450
+217.151.51.35 59 1451 5494135 20160225235435
+90.43.229.5 37 1208 107336032 20160223185701
+88.186.176.141 27 781 81500333 20160228174448
+185.2.4.193 23 23 0 20160229233133
+151.80.100.107 23 227 16180037 20160226230412
+45.55.238.190 21 21 1068164 20160229085929
+109.223.132.78 20 553 58678831 20160228181444
+78.192.161.110 15 288 22531626 20160228230601
+77.129.2.183 15 532 51714901 20160225084254
+194.187.168.230 13 13 1153182 20160228233506
+83.204.246.170 13 430 41722194 20160228185602
+89.156.250.151 13 196 18272431 20160225095855
+83.202.95.13 12 480 51629756 20160224145528
+8.37.233.220 11 326 20749102 20160228185448
+83.167.36.132 10 331 36055063 20160225111030
+82.240.160.219 10 367 33047426 20160223162914
+31.33.67.110 10 379 41356473 20160227222040
+86.175.186.254 10 387 43053126 20160224224949
+93.25.162.218 9 329 32969451 20160223171014
+80.215.207.43 9 376 32657167 20160226114230
+109.6.183.12 9 374 40938754 20160226145326
+176.184.29.11 9 378 35870588 20160225143302
+5.228.19.84 9 63 2805881 20160229090624
+177.221.56.218 1 2 133185 20160228234207
+90.57.208.112 4 103 8144332 20160229094323
+80.215.199.166 5 145 13410347 20160229111705
+109.15.72.249 0 1 495970 
+206.214.8.241 2 2 6999 20160224020353
+128.68.100.225 8 60 2275507 20160229124717
+83.84.178.158 0 1 211529 
+96.22.73.16 1 109 9739566 20160228133526
+77.154.204.75 0 1 170591 
+88.181.133.195 3 57 2646392 20160227170409
+109.22.44.208 0 2 198930 
+107.167.104.113 2 126 11628841 20160224061307
+85.170.158.250 4 84 9756681 20160228102903
+85.237.97.124 4 123 10130173 20160229124620
+52.58.44.172 1 1 70692 20160227114907
+195.34.78.20 1 1 51715 20160223204158
+84.97.102.253 0 1 167120 
+109.223.219.151 3 54 1912367 20160229130603
+65.55.211.244 0 2 15565 
+80.12.42.116 4 142 14264659 20160225095934
+88.10.72.141 0 1 170591 
+52.28.140.138 2 2 183166 20160228072357
+106.218.181.151 0 1 77865 
+78.122.5.80 5 95 4051727 20160223180059
+86.195.135.89 0 1 128350 
+184.154.230.14 1 1 0 20160228012624
+81.240.152.240 0 1 239100 
+52.58.48.91 1 1 64703 20160227171522
+207.102.138.158 1 1 117260 20160228043149
+78.153.241.195 1 1 118636 20160224072122
+65.55.218.63 0 1 582889 
+66.249.93.245 6 142 14103616 20160225143406
+65.55.212.93 0 2 25364 
+82.122.15.160 7 140 12119823 20160225131338
+41.137.70.64 0 3 227672 
+109.0.158.69 4 107 8166370 20160223170333
+176.187.187.112 6 112 4986797 20160227221610
+88.188.89.52 0 1 442722 
+90.3.220.112 6 281 31303021 20160223231617
+66.102.6.150 0 35 3847403 
+80.12.43.1 4 110 11319152 20160228210858
+78.236.134.148 2 158 18783840 20160226203244
+176.193.216.64 7 55 2048010 20160229124713
+80.215.131.149 4 80 3749339 20160226114329
+82.242.81.157 0 1 425701 
+143.208.115.84 1 37 1662601 20160228205400
+185.130.5.214 1 1 2985 20160224025602
+93.19.177.170 8 151 14871173 20160223220645
+147.154.235.102 2 55 2287414 20160225113322
+109.222.223.153 0 1 125213 
+80.12.43.33 4 139 12936666 20160227135343
+93.35.219.191 0 1 76418 
+82.239.156.214 4 138 12233056 20160226084548
+37.162.196.86 0 1 80290 
+86.228.171.221 0 1 146554 
+109.21.234.15 0 1 117402 
+65.55.212.75 0 1 17931 
+80.215.132.29 4 136 11578183 20160223230419
+92.90.21.21 4 67 6475615 20160223214307
+131.253.24.141 0 1 277 
+94.111.0.52 4 102 8039944 20160229225331
+178.51.198.81 0 1 64436 
+78.121.203.211 1 3 198221 20160228134606
+144.76.80.151 5 5 387141 20160224174824
+88.124.50.156 0 1 6269 
+65.55.218.35 0 1 1665 
+86.217.58.65 5 154 14594128 20160224092951
+77.153.148.115 3 56 2517908 20160225192213
+131.253.26.254 1 1 120533 20160228084951
+78.241.201.127 4 132 10940065 20160229105253
+176.183.50.225 1 41 1726711 20160228013234
+82.227.142.186 4 88 5711762 20160224104113
+66.102.6.146 0 34 4172542 
+54.236.1.70 0 1 1543378 
+131.253.24.140 0 1 0 
+172.58.136.236 0 1 211529 
+109.23.109.103 4 103 8156843 20160226203331
+65.55.212.92 0 1 82455 
+94.234.170.183 0 1 65291 
+78.203.121.186 7 178 16348914 20160226101957
+217.112.190.74 1 37 5325653 20160224151524
+109.212.192.94 4 107 8166370 20160228205445
+80.215.167.18 0 1 66555 
+66.249.93.249 3 133 10241406 20160225143210
+66.249.88.169 1 40 3796927 20160228132828
+90.120.100.198 0 1 57562 
+86.71.116.114 1 1 117766 20160226203614
+31.32.113.59 0 1 945105 
+90.104.132.59 0 1 114078 
+126.65.58.139 0 3 363177 
+77.154.202.153 0 1 2834523 
+105.107.78.214 0 3 1309563 
+65.55.212.69 0 1 106764 
+131.253.24.132 0 1 1813 
+131.253.26.228 0 1 1476 
+92.90.17.98 0 1 1209576 
+78.193.77.78 0 1 76418 
+92.107.141.143 0 1 220914 
+54.91.137.217 1 1 117364 20160224163749
+72.5.65.131 1 1 118071 20160224224901
+90.62.164.18 0 1 510445 
+80.215.129.21 0 2 3173038 
+86.209.102.80 0 3 271052 
+84.100.74.235 0 1 433981 
+65.55.212.70 0 1 21313 
+176.8.90.115 1 1 117876 20160226082526
+41.109.5.43 0 1 526724 
+92.136.225.182 0 1 741047 
+176.148.202.187 0 1 112894 
+121.131.87.130 0 1 167868 
+90.26.125.31 4 145 12797290 20160223155158
+92.90.21.125 4 126 10942785 20160223140207
+80.215.131.204 6 142 11344944 20160227233711
+92.90.16.6 2 2 231280 20160223195551
+65.55.212.87 0 1 95977 
+94.198.141.138 2 2 49183 20160223185826
+37.162.27.182 1 1 121670 20160223175604
+202.46.57.125 1 1 73534 20160223193447
+77.154.202.108 5 279 28596094 20160227221933
+88.190.73.27 0 1 860030 
+65.55.212.78 0 1 3791 
+62.212.73.49 1 1 119370 20160226012844
+54.236.1.72 0 3 173633 
+90.13.75.183 0 1 63545 
+185.27.221.97 1 1 115043 20160225112808
+92.136.44.140 4 80 5624061 20160227203427
+65.55.218.59 0 2 9226 
+80.215.204.21 4 151 12122408 20160228123805
+66.102.6.154 1 28 2687029 20160228132448
+90.24.152.70 0 1 115266 
+188.83.18.199 0 1 34182 
+83.156.20.65 4 141 11383754 20160227073403
+90.8.157.110 0 1 187336 
+105.140.231.55 0 1 117840 
+88.198.22.8 1 1 118304 20160224171021
+86.209.13.247 0 1 311438 
+90.2.158.14 4 69 5142442 20160228001603
+79.82.196.91 0 1 74722 
+5.8.47.94 1 1 130489 20160223133426
+131.253.24.147 0 1 27828 
+213.151.116.122 7 214 19487683 20160218174502
+80.12.42.9 4 121 10557518 20160225102907
+131.253.26.252 0 1 23901 
+82.226.172.188 8 276 25661028 20160226152052
+193.106.31.184 1 1 149667 20160223151750
+59.99.176.39 0 36 12603311 
+109.210.255.29 0 2 129970 
+77.154.204.18 0 1 80290 
+86.70.0.75 6 122 10271093 20160227122907
+80.215.192.156 5 147 14124218 20160228163307
+109.133.157.227 0 1 85025 
+90.55.1.141 4 141 11359620 20160224202331
+92.135.39.248 0 1 68856 
+37.175.212.106 0 1 117402 
+41.82.129.46 0 1 220914 
+82.122.118.233 1 30 5811447 20160224204059
+131.253.26.224 0 1 105401 
+80.9.50.40 0 1 211529 
+193.240.114.61 5 152 12885607 20160223172512
+80.12.51.56 5 184 15283338 20160225200349
+88.125.154.90 0 2 170781 
+62.235.83.8 0 1 103187 
+2.5.172.90 4 63 2570827 20160225213123
+109.88.35.61 4 138 12057352 20160227223019
+92.151.134.95 5 189 19213421 20160225133933
+81.248.109.80 0 2 289939 
+92.152.14.247 1 2 1370156 20160226173112
+80.12.43.245 0 1 31086 
+201.71.130.220 2 2 6999 20160224011929
+83.194.123.194 2 110 11080184 20160227144323
+208.91.115.10 1 1 119487 20160227103144
+81.57.53.119 2 3 80823 20160223143527
+77.154.202.100 4 79 8060868 20160223135925
+200.81.185.54 1 1 122416 20160228043213
+185.89.100.45 1 1 38934 20160224155823
+52.29.198.210 1 1 64703 20160227171533
+176.158.135.0 2 16 729493 20160223134854
+80.12.51.192 4 144 12278419 20160223175558
+93.143.5.164 0 1 120159 
+86.249.125.96 0 1 605849 
+54.236.1.76 0 2 207045 
+90.96.10.108 4 66 2512236 20160226203437
+2.11.147.68 4 87 3905254 20160224155757
+78.240.49.31 0 1 84095 
+62.34.140.226 4 137 12217263 20160226074428
+87.231.33.192 5 184 18210937 20160226190814
+200.116.19.62 0 1 77865 
+80.12.51.29 6 105 8391543 20160225103855
+79.87.222.2 8 268 25856052 20160227123958
+90.0.22.87 0 1 115266 
+85.201.213.193 0 2 155955 
+176.36.52.108 1 1 117340 20160228171158
+78.250.189.33 0 5 2318229 
+65.55.218.62 0 1 1099 
+41.75.74.67 1 14 1066173 20160224130547
+90.48.65.243 0 2 1482094 
+80.12.63.183 4 107 8166370 20160228182239
+2.1.154.187 8 304 28664665 20160225112137
+186.1.195.186 0 1 510445 
+80.215.135.93 1 1 117066 20160223194702
+65.55.218.38 0 1 14784 
+41.83.68.95 1 43 1779877 20160225154050
+202.46.49.205 1 1 81777 20160229111452
+80.201.23.51 0 2 593116 
+5.62.154.121 1 1 63141 20160224114004
+31.146.205.80 0 1 36693 
+82.67.10.245 4 54 2486945 20160223145111
+54.236.1.69 0 4 2229574 
+90.105.139.80 6 233 24002138 20160224215721
+193.106.31.88 1 1 58623 20160223134910
+85.171.93.212 4 135 11850206 20160225222707
+82.229.24.202 0 3 506311 
+65.55.218.33 0 2 21895 
+92.152.78.254 4 135 11992076 20160228005042
+78.243.180.81 5 141 12728869 20160224093601
+88.182.196.31 4 136 11687447 20160225192056
+80.215.231.20 0 1 462 
+131.253.36.205 0 1 15930 
+41.248.231.53 0 1 773617 
+83.156.107.102 0 1 161657 
+131.253.26.251 0 1 3572 
+90.30.156.102 0 1 145958 
+78.192.210.144 4 57 2537019 20160227213410
+51.36.147.244 0 1 162649 
+24.129.110.242 0 1 73792 
+90.104.2.119 0 1 187336 
+65.55.218.58 0 1 53064 
+5.101.219.178 1 1 71897 20160224083354
+64.229.104.91 0 1 145958 
+41.249.95.208 0 2 308920 
+82.236.200.74 1 1 119124 20160228200459
+109.220.235.199 0 1 89520 
+146.185.205.19 1 1 41519 20160224104505
+80.12.58.106 0 1 117402 
+66.249.88.179 1 29 1053584 20160228132613
+77.149.190.222 4 89 3900435 20160228184957
+165.225.76.79 0 1 635529 
+82.216.85.206 4 141 12377694 20160227144814
+176.149.41.18 4 136 12898010 20160226003114
+31.33.206.88 0 1 115266 
+134.59.214.104 1 15 1206944 20160223141643
+81.249.154.202 4 110 10496514 20160226111131
+93.26.187.119 0 4 1572026 
+199.19.249.196 5 5 616180 20160225110957
+197.0.224.239 0 1 89559 
+80.215.225.155 4 122 10932451 20160227131448
+197.115.170.210 0 1 100432 
+82.245.175.173 5 181 14371380 20160226063111
+78.224.182.108 0 1 65972 
+87.16.176.138 4 127 10913249 20160225161509
+90.23.220.8 0 1 85025 
+90.15.113.246 0 2 308322 
+86.252.52.208 6 295 29388397 20160229225709
+195.168.36.212 0 3 249746 
+202.78.89.115 1 44 1795678 20160229070507
+109.223.228.76 1 41 2716583 20160227204232
+191.184.177.177 1 30 1408478 20160225165254
+66.249.93.247 5 149 11986560 20160225143408
+89.83.66.20 6 155 12416903 20160225125934
+90.56.104.89 2 7 431267 20160228013942
+52.28.254.186 1 1 80928 20160228071447
+78.234.117.24 0 1 741047 
+131.253.26.255 0 1 97250 
+195.6.74.33 4 88 4070122 20160223155228
+78.248.154.126 1 65 10042897 20160224023533
+92.90.16.55 5 269 28269102 20160224221825
+109.11.22.50 4 125 10562699 20160223214403
+82.250.174.101 2 13 400755 20160228135122
+65.55.212.66 0 1 9936 
+65.55.211.246 0 1 36782 
+90.8.67.68 4 73 5112615 20160226080605
+91.229.229.159 1 1 31087 20160223155419
+82.67.226.213 4 140 12481585 20160228192138
+131.253.26.243 0 1 1414 
+78.203.21.68 4 107 8166370 20160223165506
+86.69.182.83 0 1 65291 
+93.19.8.86 6 175 13571876 20160227200359
+77.128.68.187 7 278 27812627 20160226154255
+109.212.38.76 4 92 4202052 20160227174953
+92.153.1.155 0 1 173610 
+80.12.63.178 1 1 70692 20160228152119
+80.215.163.137 1 1 122203 20160228152944
+79.85.241.246 0 1 162649 
+209.59.115.62 2 2 6999 20160224024717
+107.170.107.176 1 1 120609 20160224162144
+65.55.218.34 0 1 93487 
+65.55.218.56 0 2 10223 
+185.106.92.36 3 3 9876 20160229085358
+85.69.108.141 8 272 24517937 20160227124237
+92.90.17.107 0 1 542635 
+90.53.192.193 2 2 238425 20160228210435
+105.96.40.71 0 1 224293 
+217.79.195.141 0 2 215631 
+193.248.50.181 4 145 11395690 20160225151623
+80.12.63.29 4 136 11898339 20160225214800
+90.16.182.29 2 85 3289951 20160228111130
+80.12.42.52 5 264 27455537 20160227183240
+81.66.222.47 5 258 25446286 20160226163743
+78.243.88.63 0 1 100432 
+66.249.88.174 1 35 3538808 20160228132450
+84.200.172.114 1 1 70692 20160225173718
+176.147.222.173 0 1 442722 
+195.34.78.40 1 1 62339 20160224023009
+80.12.63.136 0 1 211529 
+209.190.96.34 3 47 2647922 20160225015120
+90.120.179.141 4 90 4676526 20160224135944
+82.124.171.224 4 125 11305225 20160225093203
+109.88.156.159 0 1 300415 
+88.162.180.186 7 157 13457357 20160226151446
+83.114.36.119 5 186 13707736 20160223210157
+131.253.26.250 0 1 23890 
+131.253.26.233 0 1 7200 
+81.164.99.208 0 1 105535 
+2.4.176.67 4 138 12182422 20160225095849
+206.214.8.37 2 2 6999 20160224003236
+41.143.189.41 0 2 260014 
+193.248.237.25 1 1 149610 20160225153335
+146.185.205.49 1 1 141767 20160224103218
+131.253.26.229 0 1 593 
+65.55.212.74 0 1 1734 
+105.235.133.48 0 1 211529 
+78.163.37.29 8 8 26336 20160229022622
+8.37.230.237 3 86 10064734 20160227045431
+37.162.6.218 0 1 100432 
+131.253.24.142 0 2 27555 
+195.132.129.82 1 1 117629 20160225074047
+77.128.116.149 4 107 8166370 20160224111910
+131.253.24.159 0 1 122939 
+92.90.16.29 4 129 12021443 20160224152931
+81.246.243.14 0 1 76418 
+89.156.51.113 2 84 8234669 20160228100737
+54.236.1.74 0 1 73792 
+88.120.24.168 5 152 12431453 20160226151128
+69.156.8.57 0 1 53460 
+37.77.112.21 1 59 7018119 20160226220713
+92.93.88.206 0 1 80290 
+78.224.24.201 9 306 29875058 20160226143314
+79.80.22.152 0 1 162649 
+80.12.42.72 0 1 741047 
+217.145.40.215 3 31 1349844 20160224151538
+82.67.239.25 4 143 11216281 20160227151338
+195.34.79.64 1 1 31484 20160224064011
+202.46.55.195 1 1 116969 20160223202721
+90.3.22.183 5 254 26043004 20160227181435
+92.131.27.169 4 103 8156843 20160229093656
+131.253.24.136 0 1 1707 
+65.55.218.60 0 1 7731 
+138.186.38.141 1 58 6679794 20160226125001
+79.95.136.236 0 1 164726 
+78.194.68.81 1 26 1738942 20160225215955
+202.43.199.36 0 1 161657 
+90.21.10.73 0 3 1643950 
+37.164.107.219 1 110 11951117 20160227111123
+88.171.190.97 7 91 4594484 20160224233816
+52.29.169.231 2 2 123144 20160228094757
+65.55.218.45 0 1 189 
+88.209.70.251 4 139 13653447 20160226143248
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 8
+20160218 7 214 19487683 1
+20160223 174 4288 378690439 45
+20160224 1190 5931 442399302 57
+20160225 233 5594 374720918 54
+20160226 164 4149 394285631 45
+20160227 143 3808 346275180 46
+20160228 194 4214 376385366 56
+20160229 107 1340 106281085 29
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 24
+5mn-15mn 5
+30s-2mn 30
+2mn-5mn 17
+15mn-30mn 5
+0s-30s 250
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 139
+/wp-admin/admin-ajax.php 916 8143376 0 1
+/ 298 22120848 143 86
+/wp-cron.php 157 0 96 96
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 129 2888208 1 3
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 117 4676192 1 19
+/diasec/ 37 1700669 17 14
+/boutique/ 36 4913432 3 12
+/wp-admin/post.php 27 16023500 0 0
+/wp-login.php 27 88690 10 10
+/art-sur-mesure/ 25 1745256 3 2
+/artistes/ 23 872445 3 4
+/wp-content/plugins/js_composer/assets/lib/flexslider/fonts/flexslider-icon.woff 20 21556 0 5
+/wp-admin/edit.php 20 5174064 0 0
+/wp-admin/admin.php 16 2044907 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.eot 13 263770 1 1
+/categorie-produit/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ 10 1304890 1 2
+/cafe-botteli-paris-3-deco-attractive/ 10 269434 3 3
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.eot 10 649240 1 2
+/a-o-d-by-aurelie-anger/ 8 215922 1 1
+/boutique/herve-arduini/tableaux-sepia/escalator/ 8 433332 2 3
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/ 8 1199113 1 2
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff 8 155680 0 2
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/ 7 421045 1 3
+/wp-content/plugins/yith-woocommerce-wishlist/assets/fontawesome/fontawesome-webfont.eot 7 425369 0 2
+/panier/ 7 384175 1 2
+/conditions-generales-de-ventes/ 3 283807 2 2
+/categorie-produit/alexandra-chatenet/ 3 88344 0 0
+/contact/ 4 154808 1 1
+/categorie-produit/aurelie-anger/page/2/ 1 39281 0 0
+/wishlist/ 2 50630 0 0
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/page/2/ 3 102296 0 1
+/plexiplay-sur-m6/ 2 70298 0 0
+/boutique/page/5/ 1 34540 0 1
+/boutique/herve-arduini/tableau-diasec/desir/ 1 72812 1 1
+/expo-plexiplay-chez-le-petit-lux/ 3 93261 1 1
+/etiquette-produit/tableau-pop-art/ 1 46601 1 0
+/wp-admin/load-scripts.php 6 844765 0 0
+/plexiplay-chez-resto-incontro-enrico-co/ 1 32011 0 0
+/joseph-lopez-nice-poete/ 4 102336 1 1
+/commande/ 2 113217 0 1
+/categorie-produit/herve-arduini/tableaux-sur-plexi/page/2/ 3 262927 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-sirene/ 1 59235 0 1
+/categorie-produit/herve-arduini/page/2/ 1 149847 0 0
+/boutique/herve-arduini/tableau-mauve/sensation/ 3 172800 1 1
+/boutique/herve-arduini/tableaux-sexy/little-street/ 5 361840 0 0
+/boutique/feed/ 2 126436 0 0
+/categorie-produit/herve-arduini/tableau-orientaliste/ 2 33774 1 1
+/boutique/tableau-diasec/disco-ball/ 2 155828 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/eve/ 2 117912 0 1
+/pa_formats-finitions-vip/160-x-94cm-ep-9mm-hd-plus/ 2 29157 1 1
+/wp-content/plugins/woocommerce/assets/fonts/star.ttf 1 1512 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf 1 19384 0 0
+/boutique/herve-arduini/tableaux-sexy/pinky-2/ 5 298053 1 1
+/wp-content/plugins/revslider/rs-plugin/font/revicons.eot 4 48544 0 0
+/blog-design/ 6 278472 1 1
+/boutique/tous-les-tableaux-dherve-arduini/v-i-p/ 4 285869 0 0
+/boutique/page/4/ 3 443214 0 1
+/wp-content/plugins/woocommerce/assets/fonts/star.eot 5 8380 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.ttf 2 129512 0 0
+/categorie-produit/herve-arduini/tableaux-grands-formats/ 5 190224 1 2
+/wp-content/plugins/envato-wordpress-toolkit/assets/fonts/envato.woff 1 1164 0 0
+/author/admin/ 1 46198 0 1
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/ 1 58927 0 0
+/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot 5 97820 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/i-love-paris/ 5 236432 2 1
+/categorie-produit/herve-arduini/tableaux-sexy/ 6 767125 2 2
+/boutique/herve-arduini/tableaux-sexy/eventail-or/ 2 72816 0 0
+/boutique/tableaux-sepia/escalator/ 1 71988 0 0
+/boutique/aurelie-anger/noir-et-blanc/fantasme-2/ 2 127752 1 1
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/ 1 77674 0 0
+/boutique/tableau-grand-format/party-white/ 2 145143 0 0
+/boutique/herve-arduini/tableaux-sexy/pistillum/ 1 74267 0 0
+/wp-admin/load-styles.php 3 195956 0 0
+/boutique/herve-arduini/tableau-diasec/xxplosive/ 1 80928 1 1
+/categorie-produit/herve-arduini/tableaux-pop-art/ 2 100829 1 1
+/categorie-produit/herve-arduini/ 2 103430 1 1
+/categorie-produit/herve-arduini/fashion-week-art/ 3 68551 1 1
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 1 11956 0 0
+/wp-content/plugins/woocommerce/assets/fonts/star.woff 1 1304 0 0
+/boutique/page/3/ 5 660462 0 0
+/wp-admin/ 3 411397 0 0
+/qui-sommes-nous/ 1 159469 0 1
+/plexiplay-collection-tableaux/ 1 31234 0 0
+/herve-arduini/ 2 131346 1 0
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/ 1 59565 0 0
+/boutique/herve-arduini/tableaux-sexy/i-want-your-sex/ 3 229989 1 1
+/mon-compte/ 3 83835 0 0
+/wp-admin/plugins.php 1 164894 0 0
+/wp-content/plugins/yith-woocommerce-wishlist/assets/fontawesome/fontawesome-webfont.woff 1 71508 0 0
+/tableau-plexiglas-plexiplay-vu-sur-fr3/ 1 32926 0 0
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/ 6 747994 0 0
+/boutique/herve-arduini/tableaux-sexy/dentelle/ 5 227070 1 1
+/categorie-produit/herve-arduini/tableau-sensuel-nb/ 4 245604 2 1
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/ 1 58623 1 1
+/boutique/aurelie-anger/pastel/lost/ 2 118520 0 0
+/boutique/herve-arduini/tableau-diasec/la-vie-en-rose/ 2 73426 1 1
+/wp-content/index.php 1 0 1 1
+/boutique/tableaux-sur-plexi/v-i-p/ 1 69988 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/ 2 116582 0 0
+/blog-design/page/2/ 2 75798 0 1
+/installer-un-tableau-plexi-sur-entretoise/ 4 135632 0 1
+/tableau-plexi-art-numerique/ 1 34015 1 1
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/ 1 72924 0 0
+/wp-content/plugins/revslider/rs-plugin/font/revicons.woff 1 7536 0 0
+/boutique/herve-arduini/tableaux-sexy/vis-vis/ 2 153260 0 0
+/livraison/ 1 31405 0 1
+/categorie-produit/herve-arduini/tableaux-sur-plexi/ 4 600496 1 1
+/expo-plexiplay-jazz-galerie-motus-nice/ 2 62968 1 1
+/wp-content/plugins/js_composer/assets/lib/flexslider/fonts/flexslider-icon.eot 2 4164 0 1
+/2013/10/ 1 35130 0 0
+/categorie-produit/aurelie-anger/pastel/ 1 50268 0 0
+/categorie-produit/herve-arduini/oeuvres-detournees/ 2 49191 1 1
+/categorie-produit/aurelie-anger/noir-et-blanc/ 1 38934 1 1
+/wp-content/plugins/yith-woocommerce-wishlist/assets/fontawesome/fontawesome-webfont.ttf 1 122092 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/vierge-noire/ 2 58995 1 0
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/page/2/ 3 409074 0 1
+/wp-content/plugins/yith-woocommerce-wishlist/assets/fontawesome/fontawesome-webfont.woff2 1 56780 0 0
+/boutique/herve-arduini/tableau-diasec/open-mind/ 1 72095 0 0
+/boutique/herve-arduini/tableaux-sexy/moon/ 2 145430 0 2
+/boutique/herve-arduini/tableau-noir-et-blanc/le-reverbere/ 4 228009 1 1
+/wp-content/plugins/revslider/rs-plugin/font/revicons.ttf 1 11968 0 0
+/categorie-produit/herve-arduini/tableau-noir-et-blanc/ 1 59604 0 0
+/categorie-produit/herve-arduini/tableaux-sepia/ 3 99027 0 1
+/boutique/page/2/ 7 900711 0 0
+/boutique/aurelie-anger/pastel/yes/ 2 151280 0 0
+/boutique/aurelie-anger/pastel/sanctuary/ 1 58901 0 0
+/pa_formats-finitions/200-x-100cm-ep-10mm-diasec/ 2 67860 1 1
+/decoration-partie-commune/ 2 65866 0 0
+/categorie-produit/herve-arduini/tableau-grand-format/ 3 151932 1 0
+/categorie-produit/aurelie-anger/ 1 32778 0 0
+/categorie-produit/herve-arduini/tableau-diasec/ 2 299570 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.ttf 4 164944 0 2
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/ 1 58595 1 1
+/categorie-produit/herve-arduini/graph-art/ 3 194109 2 2
+/installer-un-tableau-diasec-plexiplay/ 4 141984 0 0
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/ 1 59575 0 0
+/boutique/herve-arduini/tableau-diasec/party-night/ 1 71897 1 1
+/boutique/herve-arduini/tableaux-sexy/disco-ball/ 5 312461 1 1
+/categorie-produit/aurelie-anger/couleurs-vives/ 2 194491 0 1
+END_SIDER

@@ -1,0 +1,890 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2692                
+POS_VISITOR 17658               
+POS_DAY 24013               
+POS_DOMAIN 3581                
+POS_LOGIN 4235                
+POS_ROBOT 4390                
+POS_WORMS 5197                
+POS_EMAILSENDER 5328                
+POS_EMAILRECEIVER 5471                
+POS_SESSION 24819               
+POS_SIDER 25018               
+POS_FILETYPES 5606                
+POS_DOWNLOADS 5872                
+POS_OS 5967                
+POS_BROWSER 6232                
+POS_SCREENSIZE 7666                
+POS_UNKNOWNREFERER 7740                
+POS_UNKNOWNREFERERBROWSER 8461                
+POS_ORIGIN 9092                
+POS_SEREFERRALS 9233                
+POS_PAGEREFS 9551                
+POS_SEARCHWORDS 9699                
+POS_KEYWORDS 9864                
+POS_MISC 2355                
+POS_ERRORS 9936                
+POS_CLUSTER 4091                
+POS_SIDER_404 10093               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210501004346 26 5380 11965293636275
+FirstTime 20210401002457
+LastTime 20210430214620
+LastUpdate 20210501141555 26 0 25 0 0
+TotalVisits 265                 
+TotalUnique 83                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 202                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 13 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 19 23 680063 70 310 15176970
+1 23 26 1002499 91 272 7440967
+2 16 17 258247 63 173 13059950
+3 10 11 671753 53 182 9107422
+4 7 9 208440 67 149 6091901
+5 13 68 5907671 119 262 14384751
+6 26 29 1320064 142 295 10703333
+7 21 22 822336 90 262 11864983
+8 19 25 1171383 63 150 6632267
+9 15 21 176543 62 141 11605508
+10 18 26 2260339 61 153 9067860
+11 15 18 1135560 47 138 5554265
+12 54 85 1208742 70 238 9446643
+13 42 48 1818668 82 207 11189292
+14 25 38 4198689 89 315 10732967
+15 15 26 1467834 60 144 7140342
+16 9 22 5356437 70 202 6742652
+17 18 32 4649424 63 169 8067950
+18 13 20 1461738 39 122 9595927
+19 43 61 5080343 71 209 11586925
+20 28 37 5671949 70 155 6746211
+21 23 374 38024282 65 152 9538311
+22 17 24 3183231 63 224 8600183
+23 12 22 2019940 55 201 9405996
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 31
+it 257 258 187336
+us 162 198 3343638
+gb 19 19 429763
+be 10 356 37007694
+ru 7 9 292158
+dz 6 6 43966
+tr 6 6 43787
+ph 6 6 44574
+nl 4 5 193472
+th 3 3 22098
+eu 3 3 40050
+ar 3 3 22031
+pk 3 3 22165
+jp 3 3 21989
+bg 3 3 37822
+vn 1 57 6125451
+ua 1 3 111014
+in 1 1 19577
+se 1 1 135028
+hu 1 1 19480
+es 1 2 26594
+ro 0 1 117402
+ch 0 4 1345660
+id 0 2 729851
+re 0 2 1042450
+cn 0 2 801800
+ca 0 5 463265
+lr 0 1 76860
+fr 0 119 36938103
+kr 0 1 9742
+gr 0 1 41355
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+bingbot/ 2542 204759370 20210430205942 40
+AhrefsBot/ 453 5851040 20210430223856 35
+Googlebot/ 339 2451945 20210429215217 28
+SemrushBot/ 309 2425238 20210424171230 100
+no_user_agent 186 2719197 20210430103842 0
+bot[\s_+:,\.\;\/\\-] 141 617828 20210430135336 87
+bingpreview 72 1449517 20210429174735 0
+Googlebot\-Image/ 56 6313068 20210423093904 0
+YandexBot/ 31 274288 20210429204713 15
+unknown 12 828 20210429193814 12
+(firefox/)([0-9]\.|[0-1][0]\.) 3 401871 20210405131149 0
+SurdotlyBot/ 3 38431 20210426174036 1
+netEstate[\x20]NE[\x20]Crawler 2 19033 20210413024438 1
+Konqueror/ 1 1194 20210416164238 0
+curl 1 135286 20210418081240 0
+YandexImages/ 1 36843 20210429204716 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+png 54 33683527 0 0
+txt 4 29232 0 0
+gif 3 10625 0 0
+woff 2 63404 0 0
+jpg 397 50504172 0 0
+js 90 676253 0 0
+css 32 249131 0 0
+jpeg 3 315704 0 0
+html 214 4182729 0 0
+php 282 40198 0 0
+Unknown 3 1200 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+//license.txt 2 0 14616
+/license.txt 2 0 14616
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+winxp 13 13
+ios_iphone 360 10
+macosx9 3 3
+Unknown 266 266
+winvista 1 1
+macosx12 1 0
+win10 168 91
+macosx 39 10
+win7 99 34
+win8.1 8 4
+macosx11 66 38
+linux 31 31
+ios_ipad 2 0
+win8 4 0
+linuxandroid 23 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 66
+chrome60.0.3112.113 1 1
+chrome49.0.2623.112 1 0
+msie7.0 4 0
+chrome70.0.3538.110 1 0
+chrome41.0.2224.3 1 1
+chrome89.0.4329.82 14 14
+chrome73.0.3683.86 2 2
+chrome34.0.1847.137 2 2
+safari13.1.2 1 0
+firefox45.0 1 1
+chrome83.0.4103.106 2 0
+chrome40.0.2214.93 1 1
+chrome87.0.4280.141 1 0
+chrome88.0.4324.150 2 0
+chrome83.0.4103.97 9 9
+safari14.0.3 29 0
+firefox64.0 1 1
+chrome90.0.4430.72 33 30
+firefox62.0 1 1
+chrome88.0.4324.182 2 0
+safari 350 10
+chrome54.0.2840.99 1 0
+firefox81.0 1 1
+firefox88.0 5 0
+chrome90.0.4430.93 10 0
+firefox76.0 3 3
+chrome81.0.4044.129 5 5
+mozilla 1 1
+chrome41.0.2225.0 3 3
+Unknown 265 265
+safari9.0 1 0
+chrome77.0.3865.116 1 0
+chrome84.0.4147.125 32 28
+safari12.1.2 1 0
+chrome90.0.4430.85 4 0
+firefox85.0 10 9
+firefox87.0 7 0
+chrome74.0.3729.157 1 1
+firefox84.0 8 8
+firefox52.0 66 38
+chrome89.0.4389.86 1 0
+chrome90.0.4430.66 6 0
+chrome89.0.4389.90 15 9
+chrome89.0.4389.114 30 0
+chrome88.0.4324.190 4 4
+chrome68.0.3440.91 1 0
+chrome90.0.4430.82 4 0
+msie9.0 4 0
+chrome41.0.2227.0 3 3
+chrome77.0.2490.71 1 1
+chrome85.0.4183.102 4 4
+chrome90.0.4430.91 1 0
+chrome78.0.3904.108 1 0
+firefox83.0 1 0
+safari14.0.2 1 0
+chrome59.0.3071.115 2 2
+firefox86.0 11 11
+chrome71.0.3578.98 1 1
+chrome89.0.4389.128 16 0
+chrome36.0.1985.125 3 3
+chrome89.0.4389.105 5 0
+safari13.1 2 0
+chrome71.0.3578.80 12 12
+chrome46.0.2490.80 3 3
+chrome36.0.1985.143 56 1
+chrome42.0.2311.90 12 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+WordPress/4.9.17;_https://www.plexiplay.fr 20210430210416
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210406123840
+WordPress/4.9.16;_http://www.plexiplay.fr 20210405124315
+WordPress/4.9.16;_https://www.plexiplay.fr 20210415225803
+WordPress/4.9.17;_http://www.plexiplay.fr 20210429234619
+Go-http-client/1.1 20210429193812
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210420131758
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210420131758
+WordPress/4.9.17;_http://www.plexiplay.fr 20210429234619
+WordPress/4.9.17;_https://www.plexiplay.fr 20210430210416
+Go-http-client/1.1 20210429193812
+WordPress/4.9.16;_https://www.plexiplay.fr 20210415225803
+WordPress/4.9.16;_http://www.plexiplay.fr 20210405124315
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 175 217
+From1 0 0
+From2 14 162
+From3 0 0
+From4 312 705
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 10
+www_google_fr 0 27
+www_google_com_hk 12 12
+www_google_ca 0 2
+www_google_com 0 97
+www_google_gr 0 1
+www_google_be 0 1
+www_google_ch 0 1
+qwant_com 1 1
+yandexcom 0 1
+bing 1 19
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+semalt.com 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 1
+semalt.com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+500 1 35
+403 41 54872
+301 296 2910
+400 18 98
+404 283 1929444
+302 17 0
+410 4 1240
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 213
+/1617277910089282511 1 -
+/1.zip 1 -
+/skin/adminhtml/default/default/boxes.css 2 -
+/tg.zip 1 -
+/xmlrp.php 3 www.google.com
+/wp-xmlrpc.php 1 -
+/magento/errors/503.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saraswati/ 1 -
+/magento/rss/catalog/notifystock 1 -
+/www.googletagmanager.com/gtm.js 1 -
+/boutique/page/4/ 2 -
+/wp-config.php.rar 1 -
+/fitness.zip 1 -
+/magento_version 2 -
+/decoration-bar-sur-mesure/Un%20lieu%20unique,%20une%20oeuvre%20personnalis%C3%A9%20By%20PLEXIPLAY 1 -
+/demo/rss/catalog/review 1 -
+/js/mage/translate_inline.js 2 -
+/nutri1.zip 1 -
+/latest.tar.gz 1 -
+/test/admin/ 2 -
+/mentions-legales/www.googletagmanager.com/www.googletagmanager.com/gtm.js 1 -
+/staging/downloader/ 1 -
+/boutique/herve-arduini/tableaux-sexy/little-street/%3C 1 -
+/test/rss/catalog/notifystock 1 -
+/staging/rss/catalog/review 1 -
+/test/errors/503.php 1 -
+/wordpress-scan.zip 1 -
+/.well-known.tar.gz 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/coeur-de-la-vierge/ 2 -
+/wp-includes/upload_index.php 1 -
+/www.googletagmanager.com/www.googletagmanager.com/www.googletagmanager.com/gtm.js 1 -
+/1618984935277526825 1 -
+/downloader/ 1 -
+/assets.zip 1 -
+/js/lib/flex.js 2 -
+/shop/rss/catalog/review 1 -
+/js/js.js 2 -
+/test/downloader/ 2 -
+/wp-content/uploads/oxygen/stock.php 1 -
+/old.zip 1 -
+/store/rss/order/new 1 -
+/betheme.zip 1 -
+/wp-admin_old.zip 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel 4 -
+/bac.zip 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali/ 1 -
+/soprasotto.zip 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/saint-michel/ 1 -
+/demo/rss/catalog/notifystock 1 -
+/boutique/aurelie-anger/couleurs-vives/dolce-vita/%3C 2 -
+/new.zip 1 -
+/wp-config.php.zip 1 -
+/wordpress.rar 1 -
+/website.zip 1 -
+/plexiplay.fr.zip 1 -
+/staging/rss/order/new 2 -
+/.htaccess.zip 1 -
+/wp-login.php.zip 1 -
+/public_html.tar.gz 1 -
+/boutique/herve-arduini/tableau-mauve/sensation/%3C 1 -
+/boutique/herve-arduini/tableaux-sur-plexi/v-i-p/%3C 1 -
+/wp-includes.7z 1 -
+/store/rss/catalog/review 1 -
+/file-backup.zip 1 -
+/boutique/herve-arduini/oeuvres-detournees/folies 4 -
+/pre.zip 1 -
+/wp-load.zip 1 -
+/boutique/herve-arduini/tableaux-pop-art/bouche-typo/%3C 2 -
+/rss/order/new 1 -
+/old/admin/ 1 -
+/staging/admin/ 1 -
+/boutique/aurelie-anger/couleurs-vives/blind-date/%3C 1 -
+/js.zip 1 -
+/contact/www.googletagmanager.com/www.googletagmanager.com/gtm.js 1 -
+/shop/rss/order/new 1 -
+/wp-includes.zip 1 -
+/rss/catalog/review 2 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida 3 -
+/Archive1.zip 1 -
+/boutique/herve-arduini/oeuvres-detournees/napo-wall-street/ 1 -
+/old/rss/order/new 1 -
+/boutique/herve-arduini/tableau-diasec/paris-mix/ 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/frida/ 1 -
+/rss/catalog/notifystock 1 -
+/wp-content/uploads/upload_index.php 1 -
+/store/rss/catalog/notifystock 1 -
+/CHANGELOG.txt 1 -
+/wp-content/mu-plugins/rms_unique_wp_mu_pl_fl_nm.php 1 -
+/dev/admin/ 1 -
+/store/downloader/ 1 -
+/site.zip 1 -
+/wp-content.zip 1 -
+/js/mage/cookies.js 2 -
+/admin.zip 1 -
+/demo/rss/order/new 2 -
+/Archive.zip 1 -
+/archive.zip 1 -
+/boutique/aurelie-anger/couleurs-vives/lie/%3C 1 -
+/boutique/aurelie-anger/couleurs-vives/blue-light/%3C 1 -
+/boutique/herve-arduini/tableaux-sexy/moon/%3C 1 -
+/ALL_FILES.zip 1 -
+/cgi-bin.zip 1 -
+/wp-content/plugins/super-forms/uploads/php/ 2 -
+/wp-config.zip 1 -
+/dev/rss/order/new 1 -
+/wplatest.zip 1 -
+/boutique/herve-arduini/tableaux-sexy/pinky-2/%3C 1 -
+/2020-new.zip 1 -
+/staging/rss/catalog/notifystock 2 -
+/bk.zip 1 -
+/index.php 2 -
+/wp.zip 1 -
+/haraj.zip 1 -
+/shop/rss/catalog/notifystock 1 -
+/barcode.zip 1 -
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen 5 -
+/boutique/herve-arduini/tableaux-sexy/vis-vis/%3C 2 -
+/backup.tar 1 -
+/.quarantine.zip 1 -
+/signup.php 1 -
+/vendor/phpunit/phpunit/phpunit.xml 2 https://www.plexiplay.fr/vendor/phpunit/phpunit/phpunit.xml
+/boutique/aurelie-anger/couleurs-vives/kiss-kiss/%3C 1 -
+/contact/www.googletagmanager.com/gtm.js 1 -
+/old/rss/catalog/notifystock 1 -
+/public_html.zip 1 -
+/js/mage/adminhtml/product.js 2 -
+/old/rss/catalog/review 1 -
+/wp-content/plugins/kaswara/front/assets/js/script.js 3 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse/ 1 -
+/boutique/aurelie-anger/couleurs-vives/virginia/%3C 1 -
+/rest.zip 1 -
+/demo/errors/503.php 1 -
+/wordpress.zip 1 -
+/shop/downloader/ 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/lannonciation/ 1 -
+/2019-bk.zip 1 -
+/test/rss/catalog/review 1 -
+/store/admin/ 1 -
+/old/downloader/ 1 -
+/demo/admin/ 2 -
+/_ignition/execute-solution 1 -
+/www.plexiplay.fr.zip 1 -
+/wp-content.tar 1 -
+/boutique/aurelie-anger/couleurs-vives/hippie/%3C 1 -
+/vse.zip 1 -
+/wp-admin/upload_index.php 1 -
+/wp-admin.zip 1 -
+/installer.zip 1 -
+/wp-content/plugins/store-locator-le/js/slp_core.js 4 -
+/plexiplayfr.zip 1 -
+/wp-content/plugins/official-facebook-pixel/changelog.txt 2 -
+/magento/rss/order/new 1 -
+/all.zip 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/olympia 5 -
+/mentions-legales/www.googletagmanager.com/gtm.js 1 -
+/shop/errors/503.php 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/kali 6 -
+/dev/downloader/ 1 -
+/js/prototype/validation.js 2 -
+/boutique/page/5/ 1 -
+/magento/rss/catalog/review 1 -
+/dev/rss/catalog/review 2 -
+/demo/downloader/ 2 -
+/categorie-produit/alexandra-chatenet/ 1 -
+/errors/503.php 2 -
+/store/errors/503.php 1 -
+/latest.zip 1 -
+/magento/admin/ 1 -
+/shop/admin/ 1 -
+/back.zip 1 -
+/a-y-t.zip 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/la-vanite/ 1 -
+/sts.zip 1 -
+/.lscache_htaccess_bak.zip 1 -
+/wp-content-backup.zip 1 -
+/js/mage/adminhtml/tools.js 2 -
+/plexiplay.zip 1 -
+/fruits.zip 1 -
+/backup.zip 1 -
+/boutique/aurelie-anger/couleurs-vives/lolita/%3C 1 -
+/Backup.zip 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/true-love/ 1 -
+/boutique/herve-arduini/tableaux-pop-art/little-red-rooster/ 1 -
+/wp-comments.php 1 -
+/dev/rss/catalog/notifystock 1 -
+/js/mage/adminhtml/sales.js 2 -
+/wp-config.rar 1 -
+/boutique/herve-arduini/oeuvres-detournees/venusetcombivolkswagen/ 1 -
+/dev/errors/503.php 1 -
+/categorie-produit/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ 2 -
+/js/varien/js.js 2 -
+/wp-json/td/v1/optin/subscription 2 -
+/wordpress5.2.zip 1 -
+/ads.txt 2 -
+/wp-content/db-cache.php 1 www.google.com
+/xxx.zip 1 -
+/boutique/herve-arduini/tableaux-sepia/escalator/%3C 2 -
+/staging/errors/503.php 1 -
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/%3C 1 -
+/www.googletagmanager.com/www.googletagmanager.com/gtm.js 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/tableau-de-chasse 7 -
+/RELEASE_NOTES.txt 2 -
+/magento/downloader/ 1 -
+/boutique/alexandra-chatenet/tous-les-tableaux-dalexandra-chatenet/ala/ 1 -
+/old/errors/503.php 1 -
+/.well-known.zip 1 -
+/test/rss/order/new 1 -
+/boutique/herve-arduini/tableaux-pop-art/big-kiss-lipstick/%3C 1 -
+/speed.zip 1 -
+/woo.zip 1 -
+/infected.tar.gz 1 -
+/boutique/herve-arduini/tableau-diasec/party-night/%3C 2 -
+/without%20wp-content%20wordpress.zip 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 202
+185.2.4.29 257 257 0 20210430210416
+35.241.169.106 38 66 641445 20210408123834
+168.91.91.186 18 18 230505 20210420132355
+173.234.250.52 18 18 230670 20210409063554
+172.241.242.24 18 19 233514 20210429193825
+109.134.101.254 10 348 33577590 20210425212855
+88.150.240.195 7 7 114697 20210401135201
+88.150.240.192 7 7 115722 20210421080226
+51.15.146.61 5 5 199344 20210402114352
+45.63.91.142 4 4 77130 20210416175308
+35.197.58.149 4 4 76600 20210415225808
+172.110.16.131 4 4 76127 20210415130338
+34.70.102.118 4 4 57545 20210411195225
+149.154.69.168 4 4 58187 20210411100615
+41.105.17.239 3 3 21813 20210424202944
+81.209.248.234 3 3 40050 20210423072131
+91.134.206.69 3 3 37822 20210426220417
+159.192.223.92 3 3 22098 20210426140642
+58.65.212.138 3 3 22165 20210424203236
+165.16.24.146 3 3 21989 20210426141517
+111.125.123.211 3 3 22233 20210425094630
+41.109.164.242 3 3 22153 20210424201322
+119.93.199.62 3 3 22341 20210426144358
+85.105.183.209 3 3 21853 20210426142623
+46.196.157.157 3 3 21934 20210424204740
+90.126.139.209 0 2 47733 
+185.153.99.45 0 1 91824 
+88.123.148.113 0 1 112894 
+102.104.254.149 0 1 128350 
+70.83.15.53 0 1 68232 
+34.105.4.224 1 1 0 20210414224045
+83.199.31.172 0 1 6269 
+90.45.105.25 0 1 84095 
+213.245.148.39 0 1 145285 
+34.208.165.129 1 1 19857 20210408011508
+3.142.249.178 2 2 38675 20210430214620
+34.219.155.71 1 1 19062 20210413011248
+13.66.139.2 0 1 402 
+89.108.120.72 1 1 19498 20210414153429
+138.128.118.130 2 2 28621 20210406202850
+65.94.232.73 0 1 84095 
+94.250.251.52 2 2 38222 20210425141049
+86.235.93.67 0 1 84095 
+86.246.74.115 0 1 34182 
+34.83.91.98 1 1 0 20210402203708
+87.91.50.1 0 1 76418 
+90.91.255.182 0 1 86314 
+176.132.104.84 0 1 280868 
+92.167.197.32 0 2 642623 
+91.162.109.64 0 2 374672 
+176.134.235.185 0 1 169306 
+31.10.170.130 0 1 1110300 
+13.66.139.65 0 1 402 
+34.82.236.205 1 1 0 20210406204538
+35.247.33.169 1 1 0 20210410214714
+161.97.114.94 1 1 20025 20210422065048
+85.26.32.45 0 1 1047828 
+34.77.162.13 1 1 129347 20210417083735
+107.150.63.173 2 2 6209 20210405124316
+52.60.69.241 1 1 0 20210412191415
+91.182.78.254 0 1 187336 
+82.61.185.169 0 1 187336 
+109.27.70.19 0 1 60473 
+77.74.177.114 1 1 19208 20210417070428
+172.105.223.64 1 1 127092 20210427104652
+80.215.131.230 0 1 78585 
+91.170.181.29 0 1 87099 
+109.20.185.17 0 1 173363 
+68.183.64.4 2 2 38631 20210430190913
+88.160.29.95 0 4 9742 
+92.184.102.90 0 1 53456 
+91.169.25.75 0 3 3351567 
+160.154.155.82 0 1 125213 
+88.163.111.91 0 1 128350 
+94.179.154.213 0 1 84095 
+34.219.93.247 1 1 19197 20210414113327
+83.198.7.112 0 1 57019 
+92.171.160.160 0 1 601501 
+34.96.130.31 1 1 134918 20210420131758
+165.227.67.23 1 1 134530 20210406123840
+45.118.136.197 1 56 5886351 20210416053743
+78.228.18.77 0 1 601501 
+69.30.225.98 2 2 38434 20210412193238
+85.168.109.84 0 3 407716 
+169.38.69.8 1 1 19164 20210402191119
+91.142.215.223 1 2 26594 20210428141554
+34.96.130.10 1 1 137000 20210413191833
+178.197.236.57 0 1 139723 
+92.88.245.125 0 1 123382 
+196.229.234.131 0 1 76860 
+86.242.216.42 0 1 51171 
+93.23.107.117 0 1 11365 
+45.144.225.146 1 1 19577 20210425085834
+113.161.46.194 0 1 239100 
+92.184.124.120 0 1 71443 
+77.193.113.86 0 1 145285 
+91.175.125.1 0 1 125213 
+41.213.194.165 0 2 1042450 
+88.142.98.105 0 1 84095 
+113.119.111.4 0 1 741047 
+54.185.191.226 1 1 19369 20210406011319
+109.221.152.84 0 2 404378 
+90.79.170.29 0 1 101832 
+91.162.91.188 0 1 128350 
+86.70.69.158 0 11 1142842 
+90.110.122.22 0 1 11542 
+91.182.234.28 0 2 152836 
+86.242.193.100 0 1 53456 
+89.83.221.195 0 1 741047 
+90.114.29.114 0 1 11542 
+143.244.54.101 1 1 2601 20210412055805
+31.210.20.192 1 1 19480 20210415153750
+3.133.144.108 2 2 38656 20210401152707
+83.159.107.73 0 1 141273 
+63.141.251.237 1 1 18719 20210430052139
+81.220.50.214 0 1 1110300 
+80.214.72.150 0 1 76418 
+44.234.44.243 1 1 19524 20210422012114
+86.245.154.106 0 1 11542 
+92.184.123.185 0 1 1110300 
+173.208.246.46 2 2 38881 20210429044620
+63.141.251.238 1 1 19311 20210413233120
+31.36.192.190 0 1 239100 
+90.76.88.154 0 1 84095 
+82.79.56.128 0 1 117402 
+2.8.196.56 0 1 76418 
+210.106.209.81 0 1 9742 
+80.215.98.71 0 1 601501 
+54.189.40.53 1 1 19178 20210420010125
+173.208.246.43 1 1 19137 20210419234126
+37.147.23.161 0 1 84095 
+3.7.151.71 1 2 26386 20210429003450
+90.8.66.203 0 1 601501 
+88.125.179.56 0 2 1711801 
+91.204.46.28 1 2 26919 20210430061132
+176.175.107.128 0 2 692073 
+35.197.115.144 1 1 0 20210402203705
+34.83.216.164 1 1 0 20210406204543
+176.145.76.71 0 1 601501 
+90.63.180.27 0 1 128350 
+81.67.31.55 0 5 2168536 
+80.201.166.10 0 1 112894 
+185.10.99.11 1 2 26581 20210429195801
+92.169.235.246 0 3 2708461 
+88.126.191.141 0 1 542635 
+87.64.9.178 0 2 1386575 
+54.184.15.128 1 1 19358 20210406011240
+184.145.239.193 0 1 11365 
+77.149.29.110 0 1 671753 
+35.81.164.212 1 1 19308 20210430012824
+81.67.59.224 0 1 76418 
+104.225.173.167 0 1 112328 
+109.210.80.195 0 1 60473 
+85.72.73.192 0 1 41355 
+176.161.96.54 0 1 211529 
+83.76.82.20 0 1 11542 
+69.197.185.134 2 2 38383 20210427020226
+34.96.130.29 1 1 128164 20210403195909
+92.146.82.51 0 1 78585 
+188.155.80.63 0 1 84095 
+204.48.93.75 0 1 60473 
+92.141.148.162 0 1 220914 
+78.153.241.195 1 1 135028 20210410211304
+69.30.225.102 1 1 19350 20210429234149
+90.118.57.237 0 2 1342548 
+13.66.139.34 0 1 402 
+92.255.136.94 1 1 19346 20210407154239
+81.251.46.56 0 1 274738 
+35.81.84.142 1 1 19085 20210417010453
+93.10.2.169 0 2 481281 
+46.226.128.219 0 1 671753 
+91.86.65.1 0 1 542635 
+192.241.71.170 2 2 28298 20210428165256
+35.160.15.148 1 1 19062 20210402010523
+90.44.135.89 0 1 60473 
+207.46.13.181 0 1 402 
+2.15.240.56 0 1 80290 
+109.21.198.99 0 1 76418 
+86.215.226.252 0 1 169306 
+107.150.63.174 1 1 18965 20210424195232
+61.152.154.82 0 1 60753 
+102.129.68.166 0 1 601501 
+109.208.4.126 0 1 1110300 
+2.3.195.54 0 1 76418 
+109.10.171.98 0 1 214498 
+139.162.83.253 1 1 128669 20210422081258
+80.13.153.169 0 2 367519 
+35.247.7.92 1 1 0 20210414224047
+90.23.23.226 0 2 196282 
+92.152.230.161 0 2 1649329 
+80.215.169.140 0 1 601501 
+82.121.31.103 0 1 76418 
+198.1.199.143 0 1 239100 
+190.178.168.88 3 3 22031 20210427074310
+176.190.35.94 0 1 217015 
+176.169.185.161 0 1 1375033 
+35.81.82.96 1 1 19240 20210414011247
+176.184.222.12 0 2 1711801 
+34.83.214.243 1 1 0 20210410214711
+194.183.208.148 0 1 187336 
+107.150.52.197 1 1 19216 20210428120843
+93.30.123.229 0 1 1110300 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20210401 17 25 2039857 8
+20210402 22 23 1347870 13
+20210403 12 14 456773 9
+20210404 7 10 769691 5
+20210405 14 24 5450283 11
+20210406 18 22 470160 13
+20210407 7 17 1243073 6
+20210408 46 81 1534195 6
+20210409 18 23 753634 1
+20210410 16 22 2253636 14
+20210411 21 30 1141865 12
+20210412 15 19 721748 10
+20210413 16 22 1545285 12
+20210414 16 20 964234 12
+20210415 22 29 1220771 10
+20210416 10 66 6150817 5
+20210417 16 20 2034444 9
+20210418 10 14 385298 7
+20210419 9 17 3340707 6
+20210420 28 32 2269203 9
+20210421 17 24 3675774 9
+20210422 9 10 1278518 7
+20210423 14 23 4070360 8
+20210424 19 20 708531 10
+20210425 19 360 34500062 7
+20210426 18 25 1781271 8
+20210427 8 12 500968 6
+20210428 10 15 616571 8
+20210429 35 43 1941978 14
+20210430 12 22 4588598 10
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+0s-30s 209
+5mn-15mn 9
+15mn-30mn 6
+30mn-1h 29
+1h+ 11
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 49
+/wp-cron.php 257 0 180 180
+/ 115 2992741 83 62
+/wp-login.php 25 40198 2 12
+/contact/ 10 89096 0 2
+/panier/ 9 169266 0 1
+/art-sur-mesure/ 7 97254 0 0
+/artistes/ 7 63957 0 0
+/boutique/ 7 101626 0 0
+/blog-design/ 7 69825 0 1
+/wishlist/ 6 40196 0 0
+/diasec/ 6 85663 0 1
+/categorie-produit/aurelie-anger/tous-les-tableaux-daurelie-anger/ 3 37093 0 0
+/wp-json/wp/v2/users 3 1200 0 2
+/a-o-d-by-aurelie-anger/ 2 16485 0 0
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/ 2 30233 0 1
+/mentions-legales/ 2 19532 0 1
+/categorie-produit/herve-arduini/tableaux-sexy/ 1 13801 0 0
+/categorie-produit/herve-arduini/tableau-sensuel-nb/ 1 11037 0 0
+/categorie-produit/herve-arduini/tableau-mauve/ 1 9987 0 0
+/categorie-produit/herve-arduini/tableaux-pop-art/ 1 8986 0 0
+/categorie-produit/herve-arduini/fashion-week-art/ 1 8214 0 0
+/plexiplay-collection-tableaux/ 1 8439 0 1
+/categorie-produit/herve-arduini/tableaux-deco-art/ 1 8232 0 0
+/boutique/aurelie-anger/couleurs-vives/highway-hell/ 1 12407 0 0
+/categorie-produit/herve-arduini/graph-art/ 1 10389 0 0
+/categorie-produit/herve-arduini/tableaux-sur-plexi/ 1 14899 0 0
+/author/admin/ 1 49661 0 1
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.woff 1 23090 0 0
+/categorie-produit/herve-arduini/tableau-diasec/ 1 15463 0 0
+/categorie-produit/aurelie-anger/couleurs-vives/ 1 11065 0 0
+/boutique/herve-arduini/tableau-noir-et-blanc/pluie-tropicale/ 1 13952 0 0
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.woff 1 40314 0 0
+/boutique/herve-arduini/tableau-diasec/party-white/ 1 13272 0 0
+/categorie-produit/herve-arduini/ 1 8620 0 0
+/categorie-produit/aurelie-anger/ 1 7778 0 0
+/categorie-produit/herve-arduini/tableaux-grands-formats/ 1 9820 0 0
+/cafe-botteli-paris-3-deco-attractive/ 1 9206 0 0
+/categorie-produit/aurelie-anger/noir-et-blanc/ 1 8587 0 0
+/categorie-produit/aurelie-anger/pastel/ 1 9104 0 0
+/boutique/herve-arduini/tableaux-sexy/pinky-2/ 1 13805 0 0
+/categorie-produit/herve-arduini/tableaux-sepia/ 1 8173 0 0
+/boutique/aurelie-anger/couleurs-vives/story-line-tableau-fashion/ 1 12613 0 0
+/categorie-produit/herve-arduini/tableau-grand-format/ 1 9288 0 0
+/categorie-produit/herve-arduini/tous-les-tableaux-dherve-arduini/page/2/ 1 12737 0 0
+/categorie-produit/herve-arduini/illustration-dherve/ 1 9498 0 0
+/boutique/aurelie-anger/couleurs-vives/hippie/ 1 13168 0 0
+/categorie-produit/herve-arduini/tableau-noir-et-blanc/ 1 9882 0 0
+/categorie-produit/herve-arduini/tableau-rose/ 1 8238 0 0
+/categorie-produit/herve-arduini/tableaux-surrealistes/ 1 9441 0 0
+END_SIDER

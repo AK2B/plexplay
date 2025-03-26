@@ -1,0 +1,301 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /home/qh1mtxit/tmp/awstats/ssl/awstats.plexiplay.fr.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2671                
+POS_VISITOR 6910                
+POS_DAY 7405                
+POS_DOMAIN 3266                
+POS_LOGIN 3570                
+POS_ROBOT 3725                
+POS_WORMS 4094                
+POS_EMAILSENDER 4225                
+POS_EMAILRECEIVER 4368                
+POS_SESSION 7799                
+POS_SIDER 7946                
+POS_FILETYPES 4503                
+POS_DOWNLOADS 4684                
+POS_OS 4732                
+POS_BROWSER 4854                
+POS_SCREENSIZE 5110                
+POS_UNKNOWNREFERER 5184                
+POS_UNKNOWNREFERERBROWSER 5436                
+POS_ORIGIN 5598                
+POS_SEREFERRALS 5731                
+POS_PAGEREFS 5894                
+POS_SEARCHWORDS 6130                
+POS_KEYWORDS 6282                
+POS_MISC 2335                
+POS_ERRORS 6341                
+POS_CLUSTER 3426                
+POS_SIDER_404 6451                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181001183400 1 0 3135366453317
+FirstTime 0
+LastTime 20180928222620
+LastUpdate 20181002141614 1 0 0 0 0
+TotalVisits 25                  
+TotalUnique 9                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 2 138
+1 1 1 19362 0 0 0
+2 0 0 0 3 3 11276
+3 1 1 0 0 0 0
+4 2 2 19593 0 0 0
+5 0 0 0 6 6 20150
+6 0 1 71975 6 7 59159
+7 2 2 19438 0 2 69
+8 0 0 0 1 1 0
+9 4 4 152117 2 2 0
+10 1 2 1129952 3 3 11276
+11 4 5 116863 6 6 0
+12 0 0 0 0 0 0
+13 1 1 19672 7 7 20150
+14 2 2 19636 3 3 1198
+15 1 1 19288 3 3 11276
+16 1 1 19607 7 7 11266
+17 0 0 0 7 7 21348
+18 1 1 133385 5 5 36471
+19 0 0 0 0 0 0
+20 1 1 19559 13 14 1140504
+21 0 0 0 0 0 0
+22 1 1 19418 2 2 0
+23 9 52 480219 1 2 67
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+us 20 63 808002
+it 5 5 0
+de 5 5 19640
+cn 1 1 133385
+se 1 1 19559
+gb 0 1 71975
+fr 0 2 1207523
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+robot 5 59159 20180917061646 1
+archive\.org_bot 2 138 20180901002849 2
+Google[\x20]Web[\x20]Preview 1 1110300 20180923205304 0
+Googlebot/ 1 69 20180911073751 1
+Python\-urllib/ 1 67 20180919232106 1
+Googlebot\-Image/ 1 0 20180911073752 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+ttf 2 63625 0 0
+png 1 1110300 0 0
+html 25 568061 0 0
+php 5 0 0 0
+js 28 225301 0 0
+jpg 2 169198 0 0
+css 15 123599 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+macosx12 10 10
+Unknown 7 7
+linux 52 9
+win10 5 2
+win7 4 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+mozilla 50 7
+firefox60.0 1 0
+Unknown 6 6
+chrome61.0.3163.100 10 10
+firefox57.0 1 1
+msie11.0 1 1
+chrome68.0.3440.84 1 1
+firefox61.0 1 0
+chrome40.0.2214.85 4 4
+chrome69.0.3497.100 1 0
+chrome60.0.3112.50 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20180909095741
+WordPress/4.9.8;_https://www.plexiplay.fr 20180923111851
+scraper 20180912112827
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+scraper 20180912112827
+WordPress/4.9.8;_https://www.plexiplay.fr 20180923111851
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 23 23
+From1 0 1
+From2 0 1
+From3 0 1
+From4 9 52
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://humantraffickingindicators.org/frais-cadre-plexiglas-grand-format-co83.php5 0 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 28 167427
+301 37 0
+500 6 7188
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 4
+/installer.php 10 https://plexiplay.fr/installer.php
+/installer-backup.php 16 https://plexiplay.fr/installer-backup.php
+/console 1 -
+/phpmyadmin/ 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+13.57.233.99 10 10 195461 20180928222620
+18.219.146.201 8 51 480219 20180919232108
+185.2.4.29 5 5 0 20180923111851
+138.246.253.5 4 4 0 20180928033124
+138.201.57.139 1 1 19640 20180912112827
+162.105.156.98 1 1 133385 20180922181143
+18.197.178.196 1 1 0 20180923111852
+176.74.192.88 1 1 19559 20180914204053
+165.227.211.97 1 1 132322 20180909095741
+86.254.32.200 0 1 1110300 
+90.93.217.49 0 1 97223 
+51.15.128.42 0 1 71975 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 16
+20180902 1 1 19636 1
+20180905 3 3 19607 3
+20180906 0 1 97223 0
+20180908 1 1 19652 1
+20180909 1 1 132322 1
+20180911 1 1 19288 1
+20180912 2 2 19640 2
+20180913 1 1 0 1
+20180914 2 2 39231 2
+20180917 2 3 91770 2
+20180919 8 51 480219 1
+20180920 2 2 19438 2
+20180922 1 2 1243685 1
+20180923 4 4 19593 4
+20180926 1 1 19362 1
+20180928 2 2 19418 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 25
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 5
+/ 23 558966 20 19
+/wp-cron.php 5 0 5 5
+/contact/ 2 9095 0 1
+/wp-content/themes/oxygen/assets/fonts/entypo/font/fontello.ttf 1 40332 0 0
+/wp-content/themes/oxygen/assets/fonts/glyphicons-halflings-regular.ttf 1 23293 0 0
+END_SIDER
